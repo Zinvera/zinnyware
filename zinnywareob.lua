@@ -339,18 +339,95 @@ local AntiAFKInterval = 60
 local lastAfkTick = 0
 
 local VirtualUser = game:GetService("VirtualUser")
+local UserInputService = game:GetService("UserInputService")
 
-local function runAntiAFK()
-    pcall(function()
-        local UserInputService = game:GetService("UserInputService")
-        if getconnections then
+local function fireRealInput()
+    if keypress and keyrelease then
+        pcall(function()
+            keypress(0x20)
+            task.wait(0.02)
+            keyrelease(0x20)
+        end)
+        return true
+    end
+    if firesignal then
+        pcall(function()
+            local input = Instance.new("InputObject")
+            input.KeyCode = Enum.KeyCode.Space
+            input.UserInputType = Enum.UserInputType.Keyboard
+            input.UserInputState = Enum.UserInputState.End
+            firesignal(UserInputService.InputEnded, input, false)
+        end)
+        return true
+    end
+    if getconnections then
+        pcall(function()
             local conns = getconnections(UserInputService.InputEnded)
-            if conns and conns[1] then
-                pcall(function() conns[1]:Fire() end)
+            if conns then
+                for i = 1, math.min(#conns, 3) do
+                    pcall(function() conns[i]:Fire() end)
+                end
+            end
+        end)
+        return true
+    end
+    return false
+end
+
+pcall(function()
+    local autoRejoinFolder = gameRemotes and gameRemotes:FindFirstChild("AutoRejoinService")
+    if autoRejoinFolder then
+        local re = autoRejoinFolder:FindFirstChild("RemoteEvent")
+        if re then re:Destroy() end
+    end
+end)
+
+pcall(function()
+    local autoRejoinFolder = gameRemotes and gameRemotes:FindFirstChild("AutoRejoinService")
+    if autoRejoinFolder then
+        for _, child in pairs(autoRejoinFolder:GetChildren()) do
+            if child:IsA("RemoteEvent") or child:IsA("RemoteFunction") then
+                pcall(function() child:Destroy() end)
             end
         end
-    end)
-end
+    end
+end)
+
+pcall(function()
+    if getrawmetatable and setreadonly and newcclosure and getnamecallmethod then
+        local mt = getrawmetatable(game)
+        local oldNamecall = mt.__namecall
+        setreadonly(mt, false)
+        mt.__namecall = newcclosure(function(self, ...)
+            local method = getnamecallmethod()
+            if method == "FireServer" or method == "Fire" then
+                local args = {...}
+                if args[1] == "autoRejoin" then
+                    return
+                end
+            end
+            return oldNamecall(self, ...)
+        end)
+        setreadonly(mt, true)
+    end
+end)
+
+pcall(function()
+    if hookfunction then
+        local autoRejoinFolder = gameRemotes and gameRemotes:FindFirstChild("AutoRejoinService")
+        if autoRejoinFolder then
+            local remoteEvent = autoRejoinFolder:FindFirstChild("RemoteEvent")
+            if remoteEvent then
+                local old
+                old = hookfunction(remoteEvent.FireServer, function(self, ...)
+                    local args = {...}
+                    if args[1] == "autoRejoin" then return end
+                    return old(self, ...)
+                end)
+            end
+        end
+    end
+end)
 
 LocalPlayer.Idled:Connect(function()
     if not AntiAFKEnabled then return end
@@ -359,7 +436,7 @@ LocalPlayer.Idled:Connect(function()
         task.wait(0.1)
         VirtualUser:Button2Up(Vector2.new(0, 0), workspace.CurrentCamera.CFrame)
     end)
-    runAntiAFK()
+    fireRealInput()
 end)
 
 pcall(function() VirtualUser:CaptureController() end)
@@ -375,45 +452,12 @@ task.spawn(function()
                     task.wait(0.05)
                     VirtualUser:Button2Up(Vector2.new(0, 0), workspace.CurrentCamera.CFrame)
                 end)
-                runAntiAFK()
+                fireRealInput()
                 lastAfkTick = now
             end
         end
         task.wait(5)
     end
-end)
-
-task.spawn(function()
-    pcall(function()
-        local autoRejoinFolder = gameRemotes and gameRemotes:FindFirstChild("AutoRejoinService")
-        if autoRejoinFolder then
-            local remoteEvent = autoRejoinFolder:FindFirstChild("RemoteEvent")
-            if remoteEvent and hookfunction then
-                local oldFireServer
-                oldFireServer = hookfunction(remoteEvent.FireServer, function(self, arg, ...)
-                    if self == remoteEvent and arg == "autoRejoin" then
-                        return
-                    end
-                    return oldFireServer(self, arg, ...)
-                end)
-            end
-        end
-    end)
-
-    pcall(function()
-        local mt = getrawmetatable(game)
-        local oldNamecall = mt.__namecall
-        setreadonly(mt, false)
-        mt.__namecall = newcclosure(function(self, ...)
-            local method = getnamecallmethod()
-            local args = {...}
-            if method == "FireServer" and args[1] == "autoRejoin" then
-                return
-            end
-            return oldNamecall(self, ...)
-        end)
-        setreadonly(mt, true)
-    end)
 end)
 
 -- Auto re-execute on teleport/rejoin

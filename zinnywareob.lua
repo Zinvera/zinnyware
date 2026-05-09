@@ -335,10 +335,9 @@ task.spawn(function()
             end
             if AutoClaimIndexEnabled and IndexRemote then
                 for _, cat in pairs({"basic", "big", "huge", "shiny", "inverted"}) do
-                    local ok, result = pcall(function()
-                        return IndexRemote:InvokeServer("requestClaimReward", cat)
+                    pcall(function()
+                        IndexRemote:InvokeServer("requestClaimReward", cat)
                     end)
-                    if not ok or not result then break end
                     task.wait(0.1)
                 end
             end

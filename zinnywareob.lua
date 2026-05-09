@@ -1,1 +1,1070 @@
-return(function(...)local j={"WAtTfvVRjxzRj8VR1vt8=";"^4r^sIpj1rLpjK]W";"^ALjVsfo%[/lp";"W9qRpaaYVRQQBau6ILG==";"WvVsj8tf1vZ2q","^dJL1gpO\'ZXf`GdW^!c\'1!Hgf";"WTZTdw0Y9suW18CR6";"^c(q+&-r","^6WEdX^4";"W9uBQsXNasXW4Luej","WMCTd3M==";"^S]sELlUrE[li1/%UQL";"WadjpLtRYMAQV9qsZgH==","WTZOCs4mjTAjFsXjkLuBQ";"^1SrO\')EGRDfdO%QUQY7:)c","WW9rnsjM=";"^Y@14[:^RjuUcRQ9";"WRtjSsbs18CeIM4N1vZM=";"Wv4stvZjSsAmovVRYvuOqvCMd","Ws4OKsZTSAtOKv+g=";"WLzRCe4RWAbB6utmfwqU=","Wv4stvZjSsAmovVRYvuOqvCMn";"Wv+TpLdbd";"W8ZeNvZ2=","^c(q`g4;","Wx0NSsXNIhkH=","WM4OKvZTpwZjSsnY9sue18ZTd";"WvZOowzY13C1N";"^f`,%>U`","^Y@14[Ys/ru![]^";"WaZOowzej8Cs1U4AJxH==";"^:c@-N),";"Ws4Oo8bRnvVY9UXRjgM==";"^Y$Z#/)]6Sml;PV]fS]OMfD[RG)ocOgVQ";"^A78r\\)rB!h!artqpja!";"WRtjSLXe6suMS";"^-f62]";"WAZmN3uTnxbRNwZb=";"WsXN2LXWNwZjovjR1vuA=";"WU4O1vQjSU4Ofsa8=","^Y*.CflU/cB!3p;<)3upNTfrr","^f`,%>oRW@D!a\'.";"Wga8GF9YMwuq2L4jSxzYNwZe6";"^p8Lq\\YGPTgSHOh*e0","WaZONsZTQ","W8tOKvze2suTQeH==";"WMVWNsCR1vtwasXW4Luej";"WsCW1suBQa+TpLdA=","^d2e!X![]F","^A!j8pUgRU%";"WUtOSwXe9v4mK8dg=";"WTZTdw0Y0wXQGutOSsM==";"^dJg8#)Kg&;A!8hJY9A)6pYCZ8!H;","Wv+TpLdQ=","^o/Gt3)c","WvVsj8tf1vZ2m","W3TezsqWT9AWLR41xLuU=";"^s11^ea_%","^S3@)[A$_Uk^A-S])/0f+A!cLD^69ZQ^pX0@)R3PR],g;Q:,BC+!a\'&2]r/";"^S=4,u!HM]`-mGOb!a/FcS[PCGl.P","^prEsoA$_m\\U&&VUp87H@Aq[31)R!d>!33,\\A9(?)!%[%c!30RTf<G(f!\"N;!f:cZ<UgVN%]8^ZB)4]!ffS]F<,6ao1,@:bS)R7@elXma";"WvQRK3bRbu+Un95G2Lb2=";"W84N1vCjzvtTfLuTd","WA4Tpv4BQUXWBRumjvuTSwbWNU4fC8tOqvtM=";"WRzNCa4zs94RA9bOL","WTZNjvuA=";"^YkZ%p!\"mR:p_C";"^:^]YWfdO%QUQY7:)8MWF)/[#K)c","^J?9HKoRE0D!HM=";"^Uc+heAo","^U^.PkJ=$P?o<*Fq-r";"^A!8Ku-bD9()I5&=T-b";"WsCWovTW+MG==","^SHm:OUQgG4ThK","^Y$.M*8k<.9!33,e-C$e","WgpgGF9YA8tjksM==","WstjSsH==";"^Y6ZM;Ao";"WM4O1vCgJxH==","WMQfF3XYQA5GB9ZqzA2==";"^f:YOJ!h";"^S[Gb&pP4";"^f`,%>oRW@D!a\'H","WwZzdL2==";"^YZ&/!ei[mo)<Z03Y`&";"^A;%+8AL^\\R","WwtO1szWovZmd","WsCW1suBQa+TpLdg=";"WRZTkwu8=","^A78r\\)rT7*p<h]LfS0qiep","^lXmY?][V","^SHm4HA>Bgp4,bHmpYCU_)R\"G^UQ8=SA!c8ap<8t#\\hq!OlIfF@^UDto)3*U>)]6s%,$_B6-C-06A!cp^p\\S\":AugeW!p2)n)+!q$V#B+\\^!c6<)/jZnpj=)9XMM14p_)3]pO`:>fSRrGfduKX^!kg1^ULt4U&;3XAn)-FpOG,Tp<h]\\fu\\lCpr\')9![1Y","^!&PL&eNtn7U?P,)4Ps";"WXqO1vtRj3H==";"WWuR6x0TQv9Hjs+g=","WXqOCU2==";"W8QeM94BK8tA4g5NTLCx=","W8ds0ujTQLTHqTXeg","^Y@14[^fl?;li1BG^f]#5^)GQbpjHt7","^:%pg+:lR_F!UeU2","^pjoBBUQgj?1SQ5/-mQ1/!H5Y<";"WWuRd","WvZOowzRnsuA=","W84N1vCjbLuej","^!=:Rkpj13F![4L;!Vtr1A6t";"^^:F","^fSR(B!3-","WTZOCs4mjRZjdUuWKsuR7wXRj8jeI8tOlsM==","WutOSsa6G";"WUtOSwXe9v4mK8db=";"WgpxGF9YxvVMGAVYnLuBC82==";"WgaUGF9Y58CjdwZzKxbeNwtTnvG==";"^UQ8QeS[,Sh)Jt","WAtOKv+gJxH==","^di&UR)/jZ^U@c";"WstmN84Kf8tOqvtM=","W85RzRQqbsZK4RCjd8M==","WwCwtadzcsbm98teq","Wx+WjU4j2s9NdP9r=";"W84mow+gd","WA4Td84jovG==";"WA+Wj8VgGAtTt8tTdL0YIvnYKv4zQFG==";"^]=&LC^)H>npr)@]!?JSMUg]:Y";"WajWxLVj4wtNmMAOCaIG=";"WgaxGF9Y9suRVv4OQxbso8tTdwH==","^)+!qcf:S";"WTZOCs4mjRZjdUuWKsuM=","WhaABvZUnRdwTeAWr8G==";"^o\'D;X:LjC;9bIt.YEb";"^fFt9jf[";"WAtTcsueIsuMS","^Y@14[YhYMu)/[#F![4q","^1SrO\')EGRDfdO%QUQY7:)<Fuq)Rf";"WwuB2Uuel";"^lX9YY4r&Xb","^oj4DUoZum@Y@\'NXep";"^YhYMu)/[#K)]d";"WaZOow0Y5v4mKsueIsuM=","W9uB2wXRzvtRjsH==","^]V6lY@T","WMuBIL9qYRQKG9uBIsXW4Uu2=";"WRZjdUuWKsTWN3us1sumQA+WovXYI82==";"Wx5IG";"^][Fd\\^feBQfSqe@U`","^:ghE`Aq07MA%3f","WvuzCvtTIgM==";"^!!,U28`>\"7pjY#2";"^A$f(`:-$7LJ;OJ`";"WsCW1suBQa+TpLdx=","WU4O1vQjSU4OfsaQ=","^-mQN*dH[*c,9(%koQ";"^:^RjuUcRQ9A>c/l^!nk_p,D6cf([PK^UIC8!=m8<pj8WopO`:e![Rh7^lRaG^l[<`pja+Ypj_mI9;oAB!HPpX^UDda^l[-$)+(&7p\\SWnf(0/+)3hc8lX:#>)/j+j!H&jTpO`:<![]cVA;7$Yf`$tM^!c\'<^!nk_p,D6cf([PK^UD2U-)iISVQ","WA4TKsueIsuRAUuWAsXNIM4OKvVx=","^]MWCN1`X@hA784W)4a";"^S[j(mU^2\'";"WM4NN8tzpwZTn","^p3]Z^Y*)8koO1r>fS\'";"^6WEdX^)s0;l.($";"^)+LRm!HQA;f`n!.![qnD";"^Y@14[^fl?;li1BG^f]#5^)s0jAo","WMXTIvqTdsTYowZjovCg=","^lX9YYY*.COUgRB^";"^YF9OI)<KKCSH&s8ea(";"Wv4stvZjSsAmovVRYvuOqvCMm";"Wx+2GTXYILuqjhkH=";"W8tTmwuTdwzWjUtjnwZG=";"WsCTnwZNj8VRLv4Bj","WU4mowtTnAtOKv+gd";"^YhYMu)/[#K)c";"^)ocHi![]7;!=mYJeW","WMtOo8VRasXW4LuejhkH=","WaVzUMIDd3bfNat17UAM=";"^U^BYjfdm\\","WsXNI8tz9v4mKM4NNvtejgM==";"^-WI7BS3@)[A$B";"^:ch!qliYCrfdAC&)8MEN!=XK","^f:\\T`)8M-*f([f[YkZap","^c(q+&47","WaZONsZjSsqeqUCR1wZmj";"WaZTTUCj73tzq8VY4gM==","WhZMdT5wtvtqgLu1fL2==";"^f`,%>oRW@D!a\'AD";"WTZTKsXYo8CMGwZDGauzrxz1ovtAGatOV";"^!#$0<lIfF@eW","^S3@)[A>cn\\UgV&WlNfa,pNX\\B)R!mBUh[lY!Vt2\\V]3n.pj\"@B!\"%7$lik8W!\":``A!8hJAnEE@A;LO/)RSNcU\\>aJ)RI`4A78r\\)R\"GB-C-06^6-\'PUQ8QeAnEEYAqQ(U!=Uq>)R3PRf:,5eVRjc-^UI.8f([f[^l+e`).Km<A;LO/f`c/[!?T\'e)1q>aUg],?Ug?8Y)RitB-ZnN`^U!ldlXLT";"^dTeWtTU[jbY(Sc[oNu","WvZOowzWovZma8ZTjsH==","^Ug]Y8)RI`P)EgZm![R`?![]^","^S=RjL-Z$.if(sQ_UQ$)GVQ","^:HCI$T,MkK:\\X_T];";"WauOQsu2=";"^f`,%>oRW@D!a\'Au";"W8tOKvze2suTQeM==","WgQzfLtjmMtqJUCws8t6=";"WMtOqs4NIxH==";"^1(,M)fdm<&)c","^6WfSr9$_CEfZT6]oc","WAtOKv0Y792==","WvqehubzFs5z9RQNphZr=";"^A%[4B-G\"2K!a/g";"Wa+TpLnYewumILa6G","^47","^!V>_";"^S[@Vg)Olp/)Kgj","WwZRP8ZjUuQWFvIzX","^6n2e4A7;mTo8mD/";"W84mow+gq";"^YhPUX)EGRufSR/`fV";"^6WEdX^pT4CUu";"W3+RZL4N93b10Uaec8ax=";"WAZOdLXR1v4r=","WxZBow0YqvtmoU4fjs0rGPbqN356G","^lX9YYY9Ags!HU";"^p<heWfSR/QfS3&m)RDF%)c","^fu\\acAW,ZPlXLs","WR+Wo8ZRow4BasumjUVRjsH==";"^1SrO\')EGR#AUJSo),","^S3@)[S=4GPp_%0","^-9P%CfDp5if8d\'I","WRZzIUTej8Cs1U4AJxH==";"^-f6:?S[,Sh)J<";"WMXTIvqWjLtO1vjej8Cs1U4A=","^f`,%>oRW@D!a\'O";"WgpMGF9YAvVN1UnYXUXeIsumNvtM=";"^f`\\?Klp","^^A-Snf:6Z9^4";"WUuGrTAWoT4K2MXsn8G==","WRZzIU9Yh9A2=";"^:^FcP^p>c+l0","^1Dr5Ideo>2","^S=4GP)R)+Y)E\'MMAl=Go";"^Y@14[^p:\"+^pB8Nf([f[^f3Z/),","^,9bPp9*2RclV=*$94";"WTZTdw0YbUXRNxbsjwZe6";"WA4m1vuTYwXRoRtznvM==","^SHm0;AlMZ&!H5MW![c";"^97(STUcMRM-GVe>JG","W9uB4sXWIsuMGRZjps9YN8tqjs0r=","WTZTKsXYo8CRjsH==","WatOIxZTSvVTCL0Ypv4jS8nr=","WMI1Us+eLTTTITCTzsuK=";"^A%[4B-mGFq!]b3qfS0/M];";"^pNXj>ei+p-4PRTl","^d=AWil.i^C48Mls4;","WTtTpwZOng2==";"WMVWjUXRjA4TpwZjovG==";"^!HK@Cf`\\%7A;I@";"Wvuz2FXY1vG==","^sh3qZ![[rT";"^:,!q+o4\"rD^f3Z/),";"WUtjCA4m1vuTd","WL+z7wXGIvQOxgqGr";"WhAWnLb848ZBmauNCvQg=","^YhPUX)EGRNfS.?k","WsuBjvXj5vVTSw5x=","W9uB4suBIvVWBA4Tnwtjpsa6G";"^p<h]*![4LQf:6+","WAtTfvVRjRXsjvCM=","^AU(id";"Wv+TpLdG=","WutOSsXeasXW4Luej","^4r^X_S=4GPp_%0";"^)EG?`-mQ.P!3H;";"WRCTSUVR1v4r=";"WvtTV","WsCW1suBQa+TpLIWovVeIgM==","WsCW1suBQa+TpLdU=","^U%ShqS[ghdTc73a";"WAAqC3tGVeXjMvumKvM==","WwZNo8tr=";"^UL3%Z!^=S8Y57\\#9fT";"^e&nfP:QS=&fS0G";"^!a50leJ]X&YdN^0eg+","^S3@)[S=4GPp_%qo^4";"^4r^X_oRWu0UQkj\\";"^][en7^fp/R)4X>n!H;";"^S3@)[^pB8N)/_","WRtjnsM==";"^9%c[g";"^pjoBBUQgj?S[@Vg)RH";"^S3@)[^f0M/li1c";"^1(,Mf)R!maf(6","W0G==";"WA4NNsZOV";"^prVcNd=Q</p2)8SeW";"^f`,YZf:S";"^6WEdXU`","^Yhr&,Al=U5f3","^oRW0Xl.ZAFUQG$1";"WvuzCvtTIgG==","^Ug]Y8)RI`_!=m<";"^dJg<m)EGAVp<`U$![4EH";"WvuTKv+Q=","^oRW\\*","^dVQd\'Y`cqh:^)/A]i7";"^A6MGq)Xu9i-p5n;","^Ys/\'`1FqnH)/_","WL+TCsTeKLuqj82==";"^4P%o+pjHPnd2e!X![]F","WRuBNUtmjsH==","^^!-(V!]C:";"WvVsj8tf1vZ24","W3XbrUXW0TIwCapQnRbM=","^p8Lq\\YGPTgSHOh*Js","WMXTIvqTdsAR1U4A=","^A78QdA$T","W8XTjwuTiv4BiwZTKsXYo8CM=";"WsuBjvXja8ZzVvje2suTQg2==";"W9uBp8tTfsuBI","^Ug]Y8)RI`b!=mY@f`(","^p8LRm)Ekl&lXnV.","WMXTIvqWovZ2=","W8VzqUXWj","^\\n.No\\nIW";"WM4OSwZTSwH==";"WRZzIU9YnsuqowZTdhkH=";"WAZmN3uTnxzeIUXRd","Wv+TpLdU=";"^Y@14[Y*ZeA!^EDF)Fn","^4OL/J4Oi/@pVLg9!]Q","^!aahP![]^","Wv+TpLdb=","^S3@)[";"WvTsgsXwPgb119zwYhH==","W84m1vuTAUXWCsXR9UuBCsax=","WRTTmsZRouzeY9jz0e2==";"^^ULt4U&;3Xa>@#X";"^1:TU=Uu","WAtTkLXWILzej8Cs1U4AJxH==","^oYo=2:!\'6r1u2:M,@4","WsuBjvXj5vVTSw5U=";"WUQjqRIIVwVM2atBTeCU=","^U^7P.dXFLt-9s#O)E!","^S-RKA6?!KLdTb3_","W8tTmwuTdwbeKUujfAtTpLXYj","^Sgl=sdH)uB95s%hJG","Wv+TpLdg=";"^c(q`gYT","W8tTmwuTdwzTdsAWovVeI","^d\"e";"WgpAGF9YawZTNvXYqvtK=";"^pr5m>YkZap";"WUQ6BabR9AzYMeIOK92==";"W9uB2wXR0UuelsVWowuBQ";"^!#$0<lIfF@ep";"WUCTC";"^)EG?`-G\"hN-)q6G)E$l\\";"WMXTIvnY9suW18CR6","^p<h]k)EG*";"^1Dj.-";"^Yhr&,Al=p=p_eM(","WAtTkLXWIL0YZUujKsuM=","WTXejxbW1snYbLuej","^94";"^UgV0+UQgG4","WU4rqAAOL3ter8qjhaM==";"WezRTAIe0TCYpAqwA";"^YGPTg)oQ5]:-j_ili1BG)/_";"^)+LRm!HQA;f`n!.![qnu","W9QO+3QsraTYY3CsNhAg=";"W9uB4","^:^RjuUcRQ9^UD2US=4QDf`G4P^pX0@),";"W84mow+g4","WhTYWaX1PvZfWvtzWvb6=";"^1`2Bhp\\SS1^A1m!)3F";"Wvtz4LuwNwZjovG==","WRtOKsZTnatzfsM==";"^fS3.(A9iRRpN_PjliT";"^p8Lq\\YGPTgSHOh*eW";"^fD3Hlp_%0";"WsuBjvXj5vVTSw5g=";"Wwzepv+YdetmLepYC","^Yhr&,Al=2[!HM5]","^o/j5D","WaVRfaTz9wbTpwXetTM==";"^lX:#>";"WUXTIvqWovZ2=";"^9BEOdT\\fY7Ym9KbAGp";"^8k-hNT,P,clX!hZ";"W9uKB9I8n95MrMCNsL2==","^pT3\'^Ap7H5TlYK[1[";"WRZOSsM==";"^4rms!SAkD$:cghFS[!";"^][qfa^)G+m)Rf","WR4TIRCTKvbBNvuA=","^Ys/\'`Y$ds5YntLHUgWR[li<L&!#7","Ws4TI","W8Zz18Cg=";"^lXmY?]=;";"WAtTpLXYj";"^fFugqU^BYj","WwbN1eaeJhAjp3tmfaG==","WU4O1vQjSU4OfsaG=";"WMXTIvnY0wXQGatTVxz1ovtA=","WTTW0uuWsAuwlUATpAuG=","WvVg=";"WAtT2vZjpUXRjszeIvVWNs4A=","WU4zfsQN1edR9u+wr9M==","^:,!LjoRW3XA)j&_-C_-k";"^pr5m>1SQ5/-mQ1/!H5Y<","WAtOKvZjSs2==";"WvZOowbRnwuqdwZjpL2==";"WMtzdsTYN8CM=";"WAZOILuOS82==";"WvuQruCR1Tjzu8+RhuG==","W9uBQsXG=","^YhrFHA!8uBS=4GPp_%0mUg]B^AlQE<![M^Y![+`aVQ";"We5x23pYlTaTmaAWVvVG=";"^:,!q+8kN`ZYkZap","WaZzUAdGraAUruABReM==","^f`\\%c)Rl5=lXnV.";"^pr5m>","WutjSvCjVUXWjx+UnFpx=","^S=Z7;l;jbk)/k","^:ch!qliYCrfdAC&)c","^pO\'&Z)Rf","^^!8DJUC7^","^4<F-1f8((V!^s2A";"WUtOo8VRd","^)FW:SfoL$5lMDjU!H5Y8","WR4zfs9YnsuqowZTdhkH=";"WTZOq8kYNv+WjUuRBx+WqvtB1vt8S";"WaAjaAIjhR2==","^As>X\"e-t]>,65<\':)<";"WU4O1vQjSU4Ofsab2";"WgpbGF9Y+8tz4sXjN8tM=";"WUAOsvCs78QwdsTjjuH==","Ws4TI8tzVvuTIUXRNUtmj","WAtTkLXWILH==";"^:,!q+oRW0LUQgj?^f3Z/),","^f`\\%c)Rl5=lXnVI";"Wg5R5aAIVMTspUXY6U2==";"^)ocHi![]7;!=mYJe0";"^lX9YYY*.e!l.()","WMpTea5wtv4WkvIj192==";"^SHm:OUQgkSd\"e","^Yt&(FA;ICb![]hS!=mY@Uu";"^dJg$0^lR-CpjCT=li8<","WLuBdsXWI","^stHbh!a/TQlim","W9+TfUuBoLuR9v4OIAZznwH==","^lXmY?]=X";"^!aa2`pU","WMtjCxbR1U4AGUXWfsuMS","WMuBIL9qYRQKGPZzqwZDGv4r1","WAtzSs4A=";"^^A-So![]\\\\ThK";"WMuepsXYIsuMS";"^J^qg6Y64k!eN<n:";"WA4m1sZTnAVRnv4fj","W";"WRIrm9Qmsw+Tps4TML2==";"^p8Lq\\YGPTgSHOh*ep";"^Al[4nUcRQ9)Rf";"WwtO1szWovZmdeH==";"^f`\\%c)Rl5=lXnV\"","W8tTmwuTdwbTmwuj2MtTdwH==";"^Y@14[SHm:OUQgm","^Yhr&,Al=4uU&;F@fS+j","^!VS<*J^R-j6Wa<`";"WRZjdUuWKsAWqLumQT4znvtjSsVg=","^,>mU;9&T\':48@FL","^deo>2";"WTZTrwbeovZOn";"^e=+;sT,]aoe]\\([","^ftSNTJg/LC)r%9]";"WMXTIvnY5vZz1v9YWvtRj30Y9sXwN8tRd","WstO1vXsgRzNps41NRag=","W3H==","^Y@14[^fdT`^p:)KU&;3XU`","WvZOowbeN8CWowH==","WaZONsbeovts1sVTnUXR1v4r=","WvZOowbwnUXYj82==";"W9Xegv4zQsuM=","WRCA2spwUMTwMaCz0gH==","WsuWtLdg2vpT2gTNn9G==","^UQ8QeS[,Sh)J9","WTtjdLXR1vt8G3tOSsXgGg9I=";"^1S_EWfun.=YZg:SSg5";"^o4\"rD^f3Z/)3*UC!a/Ye","^T^j?C![Pm/pj*m=1]","Ws46235wtTuNA8qwF3AA=";"^Ug]Y8)RI`K!\"tY@lp","WaZfSwtKqh+TYapNSUTA=","^]7";"WMXTIvnYAsumj8ZOnw0YIvnYhsX8GutOSsM==","WRCTKv0YbLuzCvtOdwZjpx0NZh9Q=";"WU4O1vCgO";"^-f6:?S[,Sh)J9";"^Yk%e-S=4GPp_%0","^Y@14[:,7E_fduZ";"W84TI8tTNsZOSv+Q=";"WUtjCRuBjvXj5LZzSU4Am","^1`2:gThK";"^YkZ%p!\"mR:p_7J";"WaZKd3jR19pQVL5emMM==","WMVWNsCR1vt8=";"WTZTKsXYo8CRLv4Bj","^stHDb!s","WTZOq8kYpUuBpsumKsuMS","^S[j(m^pT4CUu";"^fFtdVf(0d_A9[Y";"WMITcgzWJeIRQUVzq82==","WRAmtTAwPvdR2eAenv4K=";"Ww+WjvtR1vt8fwXH=";"^Y(Rd]J\\AZafE%jf8GC","Wx0NqvtmoU4fjs56G","^lHl,\"4\"pmPS^gd;p;";"WeIMmUtTf8dN9RAbITM==";"^!aaOn";"WA4Td84jovkYawZzI82==";"WgaAGF9Y5LZTn8CQGRVWowtA=","^f`,%>oRW@D!a\'F";"^pTpO,97]Q`:-68[!h";"^9R","WekHfxbeNwtA=";"WTZO2Utzn","W84N1vCQ=";"^:^]YWfdO%QUQY7:)c";"^p8Lq\\YGPTgSHOh*J$";"WMuBIL9qYRQK=","^o4)`P1(,Q","WwtO1szWovZmdgG==","WMVWjUXRjTZOCs4mj","^S=4QDf``im![]^","^!=:Rkpj13F![4L;!Vtr1A62";"^1r<MF4#qZ6oIml3fo\\","^Y6ZM;A)j&_-C_-k";"WsCW1suBQa+TpLdb=","^A!8R?","WAzz18VRtTZTBgdRzTzx=","^YhYN;ALk0$^lR7W^lR-CpjCT=li<;a![[0T!3fU","^^!_\'T6WEdX<R","^1(,M9pP^Ud","WU4O1vQjSU4OfsaA=";"^)+LRm!HQA;f`>K";"^1uTB/)Rf","^!]$","^oRW3XA)PdC!=XK","Wv+TpLdx=";"^J,<RboR\"YIpj5jH-j";"^p8Lq\\";"WvuzCvtTIg2==";"WaQjg","^Ys/pj![a:G!#\\%";"W8ZmN3uTnT+WjsM==","WMtzpL4wnvVTSsH==","^pr5m>1SQ5/p_S6";"WTtTpwZOngG==";"WTZOCs4mjRuBNUtmjsbOqwZTnAVRnv4fj";"^1>T2*A!8hJ";"WsZjNvuOSszWovZmdg2==";"^ABDt","^TcXF#f:_#`)/ECmY2","WM4OSvtTpwZjSsnrSFG==";"^U\\8Q7-j";"^Y$Z#/)c","WgabGF9Yev4OS","W3+wawAfCUCUq8AfswM==";"^lXmY?J$";"W82==";"^TsRP`Yt&_t![c";"^SHm,b)RI2\\S[j-XU`","WR4TIRZTdU4TSsZzSw+g=";"Wv+TpLdbn","Wv+TpLd8=";"WAVRNw+g=";"^:,7E_fdu(N";"^f(?g?J[U-Jdes(!","^oE(P3),";"^Yhr&,AlMNb![pYB-)5","WAtOKvbRjvZzB";"^:^]Yo)FWS&!=ms<","^pJepbS#ljC)o<iT";"^4j-JM)]6G<^A1m!)3F";"W3tz2";"Ww4zKLqe2suTQgM==";"^T7mtJ)Ijot-WI/*";"WUtOI","WMuBILAzZ92==";"^f`\\%c)Rl5=lXnVH";"^,6Mb<";"WUVWNsCRB";"WwZzkvZA=";"^-hhm&UL\"\";lN3WE";"WMCTIwZOSgjT2";"WsXNI8tz9v4mKM4NNvtejg2==","WTuzKa4W43C16AaH4","^6C(_j,@:bS),";"^4jU/UpiU!@S&X,d";"^9UP)O-0G$bJ-s\"h)+/","^Y@14[^f0M5!$","W8tmpwVeFhumATQm9LM==","^oR/V";"^9+","^fm7#<)EGn?";"^:^RjuUcRQ9pj1r4Vi/","WUujbaIGn8azlvtmz3H==";"W9uB4suBIvVWBA4TnwtjpsM==","^YhYMu)/[#7Y$ds54r^X_^)rN>";"^^A-S])/0f+A!cLD^4","WM4m1U4f0wXRIv4rn";"WAVRN8CMGutOSs9YAvVTnx0Gd8nYjUue6PM==","WMCzleCNCAbs43CTQ";"^o_(8keVJ(:!^M6#f3";"^6WEdX^fd>ip<G)","WvZONs+eI8tjSs2==";"^)EG?`-G\"hN-)q6G)E$lc","^SHms\'U^O%";"^Y@f@io2pqMd=92>)c","WvCTfUtTn","^pJ:\'X1>UPCo\'m=C","^-)iISA7*\'k),","WM4OSvtTpwH==";"WvZOowzTKw+WNa+TpL2==";"WwZOSwuqksXx=","WA+zdR4g28Cz7RpjM8H==","^lXmY?e0","^)+LRm!HQA;f`n!.![qnF","^Yt&=HfFugq";"^6s*;*!.@-1UgV2>1/d>643Ad;![+jc^!G^6^!c6B)]6IK!aOimUg]B^Al[I4\\KPo]ViKM";"WujWVeumbT4egwtOSsQQ=";"W7aIO7aIOxbThR0HO7aIO7aIP";"Wvuzr";"WsuBjvXj5vVTSw5M=","WMXTIvnY5v4BdwuqjxbzKv0YMvVR1v4Bd","WRtz1vZTQ";"^Ug]Y8)RI`bl#i@ZSHkWbUg$","^-f6T\\","^UQ8QeS[,Sh)c","^f`,%>oRW@D!a\'A";"WUXTIvqWjLtO1vG==";"^J0m5Zo1Q<r)E(";"WgpHGF9YM3XWNvujQ82==";"Wv+TpLdbq","WgnHfxzYovZzn";"^A;FLXo\'u+:diOUV";"^A)-I-S,YaQ6@^Q;!$","^9@0Kb4iW@%T^AMB";"WutOSsXeasXW4LuejhkH=","W8tOKvze2suTQgM==","^S[@V*)RlF[!=ABCA7(","WsIR9RqT7LIMVs4eAwH==";"WL+RI8+gJFnOdLXW1wXgSvuTSw9OnUXjtLuTKsH==","^A7B5tUUh^s1j;fh";"W8tOKvze2suTQgG==","WU4O1vQjSU4Ofsabd";"^lX9YY9%\\JqUQ$p%![c";"WLXRjvXg=";"WLZOoL4sqvteILuOS","^J[:bhpPAIKSHuM2","^@4qOo<hk(26nIH&905P=1TAGX8k95-SQ,9F^sL_2<hk(","WAtTkLXWILzej8Cs1U4A=";"WU4NjU4KfU4jnU4mj";"^fE#?B4_fe-S3GSr-r","^YhYNEp_I/Vf:s<C!-mk=pj1\'";"W3Xw0eb1AwaT2RVzATM==";"WUtjCRuBjvujj82==";"^,o+*EJ\"5\'%Sc?b/","^dX?rI)Es>G)10M3!=ms<","^S[,StpN_#$YkZap";"WAZmN3uTn82==","WstmovVx=","WL4TB","^lX9YYY$qMh),";"^pjoBBUQgj?1SQ5/p_S6";"^:,!q+S=RjL-Z$.if(6";"^YRHDVpjsN,l-\"PL";"^1DrPES=4GP)Rf","^lXmY?";"WTXejxbzKv0YMvVR1v4BdxbBow2==","WLuB4sXWIsuM=";"WA4TI","WTZTKsXYo8CM=","WW9rnsjb=","^dJg8#)ZA","WT4RNv4O+vCsYeVWLLdg=","^a]";"Ws4TosZA=","^:ch+n^f.\\Q),";"^8Y";"^)ocHi![]7;!=mYJ","^YhPUX)EGRQU\\c[<!s";"^:^RjuUcRQ9pj1r^A!Xd8fd2mK,6Mb<^UD2U)KQ\\K^U!C?pjHt7ViE&";"^1(,MaAU!\'SfuQM%";"WMIsnUuqj","WgkHfxbRj84TnwH==";"^YhYMu)/[#7Y$ds54r^X_";"WaZOow0Y5v4mKsueIxbjSwZTnwtzK","^p8LRm)Ekl&lXnV3","Ws4OKsZTSAtOKv+gn","Wh0Hfxb1qvtwKsM==","Wg0rdFpb=";"^:,7E_fdu(\")R!maf(6","^A7*rT!s","^Ug]Y8)RI`KA%HZg)Ei";"^dV9iT1EM$hYX","^f(0A;lp","WaZOpUumMvZzBsXx=","WMVWjUXRjRZj4LuRj8G==";"^)+7F1A;/";"^AB7-d!\"W";"W84mow+gn";"WTZOCs4mjRZjdUuWKsuRaw+WoL4A=","Wg+wlw41Nsbm6vtONgTA=","^o+KunT\\Hk[oK#nY1m<","^Yhr&,AlMM0AU!-9";"W8tTmwuTdwzYq8te6UXejutOSsM==","WMXTIvnYT8ZwnUuRj","W8TTQLqjtapWbUtB5AAM=";"^p<8t#","Ws4TIU4OSvtTpwZjovCg=";"W8VTSvCQ=","^pYC&cdI7(8T\\4CR";"^f`cNGfuc5()c","W84m1vuTAUXWCsXR9UuBCsab=";"WA4m1sZTnMtzpL4wnvVTSsH==","^^A-S7^UD2UA!_[7liT";"WM4OKvZTpwZjovjej8Cs1U4A=";"WMXTIvnY9v4mK";"^p]+UGd[Ro;Ab\\9W:u","WTjbdRpsK94O4UpTe8M==";"^!#$0<lIfF@e0","WTZOCs4mjMtzpL4wnvVTSsH==","WRZzIU9Y792==";"^:^]Y1AUJSo),","^dJg8#)Kg&;A!8hJYn6n2![]DLfdO%QUQY7:)c","WsuBjvXj5vVTSw58=","^YhYMhUbM";"^]iraXfSbi^JHq,f","^:gch418h[<l-+%1YX","WUtjC","^pjoBBUQgj?YkZap";"WaZOowH==";"^]\"8^8];","^lX9YYYhPUX)EGn?","^][?(%^),Ui)R7E"}for s,V in ipairs({{1,737},{1;586};{587,737}})do while V[1]<V[2]do j[V[1]],j[V[2]],V[1],V[2]=j[V[2]],j[V[1]],V[1]+1,V[2]-1 end end local function s(s)return j[s+31604]end do local s=table.insert local V=math.floor local e=j local w={["`"]=81,G=84;e=16,["["]=69,["-"]=38;s=30,F=52,c=11;Y=21,p=33;Q=66;["\\"]=12;["5"]=58;P=76,B=9;[">"]=0,["9"]=28,M=67,H=40;g=65;["\""]=41;["2"]=45,I=44;T=18,q=61;U=36;["."]=43;d=25;m=82;[")"]=32;["\'"]=47;b=59;["^"]=10;["&"]=64;i=71;["#"]=70,K=77,["*"]=56,o=23,["8"]=20,a=13,S=26;O=46;_=74;J=17,["1"]=22,[";"]=63;["="]=68;["%"]=7,l=34,h=57;["/"]=49,t=55,["0"]=60;j=75,["3"]=42;E=50,[","]=39;L=62;[":"]=27,D=53;C=4,f=31;["6"]=29;N=73,["!"]=35,W=5;r=48,["<"]=19;["@"]=3,["4"]=24,n=1;Z=79;["+"]=78;V=14,["]"]=15,["7"]=8;["$"]=2,["?"]=6;A=37;k=83;u=54;R=51,X=72;["("]=80}local U=string.len local G=string.sub local L={N=33;S=46;c=42,["6"]=40,u=22;j=37;h=14,P=10,J=58,B=57;U=24,["5"]=3,["9"]=18,Q=36,x=8,q=53;n=50;["4"]=54,M=16;i=31;A=20;["7"]=15,X=23,T=21;["1"]=41,["/"]=62,F=11,["8"]=28;d=51,E=59;["2"]=48,e=13,G=32,o=47,Y=1,Z=6;L=26,W=9,I=52,p=35;t=38,O=61,r=56;H=0;f=45,["0"]=2,g=12,s=25;["3"]=30,k=34;m=49,w=29;l=43,y=63,v=27;D=60;V=55,z=5;a=19,["+"]=7;b=4,C=39;R=17,K=44}local Q=type local u=table.concat local Y=string.char for j=1,#e,1 do local i=e[j]if Q(i)=="string"then local Q=G(i,1,1)if Q=="W"then i=G(i,2)local w=U(i)local Q={}local S=1 local b=0 local P=0 while S<=w do local j=G(i,S,S)local e=L[j]if e then b=b+e*(64^((3-P)))P=P+1 if P==4 then P=0 local j=V(b/65536)local e=V((b%65536)/256)local w=b%256 s(Q,Y(j,e,w))b=0 end elseif j=="="then s(Q,Y(V(b/65536)))if S>=w or G(i,S+1,S+1)~="="then s(Q,Y(V((b%65536)/256)))end break end S=S+1 end e[j]=u(Q)elseif Q=="^"then i=G(i,2)local L=U(i)local Q={}local S=1 while S<=L do local j=(L-S)+1 local e=j>=5 and 5 or j local U=0 local u=e>1 for j=0,4,1 do local s if j<e then local V=G(i,S+j,S+j)s=w[V]if not s then u=false break end else s=84 end U=U*85+s end if u then local j=V(U/16777216)%256 local w=V(U/65536)%256 local G=V(U/256)%256 local L=U%256 if e==5 then s(Q,Y(j,w,G,L))elseif e==4 then s(Q,Y(j,w,G))elseif e==3 then s(Q,Y(j,w))elseif e==2 then s(Q,Y(j))end end S=S+e end e[j]=u(Q)end end end end return(function(L,w,G,U,e,j,Q,Y,p,S,l,P,O,X,W,M,V,y,b,g,u,i,N,T)l,y,P,Y,O,M,V,X,N,p,g,i,T,S,u,b,W=function(j,s)local e=b(s)local w=function(w,U,G,L)return V(j,{w;U,G,L},s,e)end return w end,function(j,s)local e=b(s)local w=function(w,U,G,L,Q)return V(j,{w,U,G,L;Q},s,e)end return w end,function(j)local s,V=1,j[1]while V do Y[V],s=Y[V]-1,1+s if 0==Y[V]then Y[V],u[V]=nil,nil end V=j[s]end end,{},function(j,s)local e=b(s)local w=function(w)return V(j,{w},s,e)end return w end,function(j,s)local e=b(s)local w=function()return V(j,{},s,e)end return w end,function(V,w,U,G)local W1={}local d7,T1,c7,E7,W7,V1,B7,C7,Z,z,P7,y7,R7,b1,o7,m7,T7,C,r,t,S7,w1,i7,g7,e7,a7,q,K,u7,n,j1,x7,h7,G1,u1,D,B,e1,w7,k,h,V7,b7,X7,E,H,s7,o,Q7,q7,f,d,H7,Y1,f7,s1,R,U1,p7,P1,r7,v,F,x,G7,Q,c,a,b,N7,L7,m,L1,j7,S,Y,D7,A,J7,k7,I,Z7,A7,M7,F7,Y7,J,O7,S1,n7,t7,Q1,z7,P,l7,I7,K7,v7,U7,i1 while V do if V<8181540 then if 4570696>V then if V>2288437 then if V<3426568 then if 2840198>V then if 2554349>V then if V>2438804 then if 2508818>V then v=nil F=T(F)V=2075397 elseif V<2520586 then Q=u[U[1]]V=not Q V=V and 141795 or 6714607 elseif V<2535466 then Q=u[U[1]]V=not Q V,Y=V and 8897583 or 2566232,w[1]else V=F and 4856981 or 342073 end else if V<2316792 then C=s(-31053)Q=j[C]C=s(-30892)V=Q[C]C=s(-30923)Q={V(C,S,b,P)}Q,V={e(Q)},j[s(-31383)]elseif V<2342533 then V=u[U[1]]z,S,H,P,v=s(-30902),s(-30986),s(-31204),s(-31440),3 Q=V()C,F,b=s(-31223),s(-31185),s(-31351)V=u[U[2]]Y,Q={[S]=b,[P]=C;[H]=v,[F]=z},s(-31079)Q=V[Q]Q=Q(V,Y)Q,V={},j[s(-31098)]elseif 2360785>V then F=s(-30934)v=j[F]F,C=s(-31126),b Y=C H=v[F]V,F=15401307,.5 v=H(F)v=s(-30994)H=j[v]F=u[U[3]]v=H(F)else J=I<=b V,R=3789258,J end end else if 2683340>V then if V<2569485 then V=u[U[2]]b=s(-31416)S=u[U[1]]Q=V(S,b,Y)S=Q Q=2799598<=11144157 V=S==Q Q={V}V=j[s(-31429)]elseif 2572887>V then Q=s(-30994)V=j[Q]Y=u[U[2]]Q=V(Y)V=7643959 elseif V<2625301 then Q=s(-30994)V=j[Q]b=u[U[4]]Q=V(b)V=16260746 else V,D=3493036,nil end else if 2696632>V then V,Q=s(-31000),s(-31497)V=Y[V]S=i()V=V(Y,Q)u[S]=V b=u[S]V,Q=b and 3232543 or 2279465,b elseif V<2720221 then r,V=I,4361455 u[H]=r elseif V<2769965 then V,Q=j[s(-31357)],{}else Y=w[1]V,Q=Y,{}Y=nil u[U[1]]=V V=j[s(-31259)]end end end else if 3146322>V then if V>2975578 then if 3043347>V then v=1 H=S[v]V,v=6124319,s(-31491)C=H[v]b=C elseif V<3113550 then b=i()u[b]=Q S=nil P=l(8926510,{b,Y})Y=T(Y)b=T(b)Q=s(-30994)V=j[Q]Q=V(P)V,Q=j[s(-31110)],{}elseif 3142605>V then S=s(-30884)V=u[U[1]]Y=j[S]b=u[U[2]]S={Y(b)}Y=s(-31466)Y=V[Y]Q={Y(V,e(S))}V,Q=j[s(-30889)],{e(Q)}else V=0 Q={V}V=j[s(-31380)]end else if V<2886673 then V,Y,Q=j[s(-31459)],nil,{}elseif V<2920688 then V,Y,b,Q,S=j[s(-31435)],nil,nil,{},nil elseif 2947240>V then V,Y,Q=j[s(-31078)],nil,{}else b=s(-31206)V=u[U[1]]C=s(-31142)S=j[b]b,P,Q=s(-31490),0,s(-31210)Y=S[b]Q,b=V[Q],0 S=Y(b,P)P=j[C]C=s(-31547)b=P[C]P=s(-31069)Y=b[P]Q=Q(V,S,Y)Y,P=s(-30934),0 Q=j[Y]Y=s(-31126)V=Q[Y]b,Y=s(-31206),.05 Q=V(Y)V=u[U[1]]S=j[b]C,b=s(-31142),s(-31490)Y=S[b]b=0 S=Y(b,P)P=j[C]C=s(-31547)b=P[C]P=s(-31069)Y=b[P]Q=s(-31169)Q=V[Q]Q=Q(V,S,Y)V,Q=j[s(-31569)],{}end end else if 3338541>V then if V<3154107 then Q,b,S,V,Y={},nil,nil,j[s(-30900)],nil elseif V<3195727 then Y=O(8683108,{U[1]})Q=s(-30994)V=j[Q]Q=V(Y)Q=s(-30994)Y=N(10407292,{})V=j[Q]Q=V(Y)V,Q=j[s(-31247)],{}elseif V<3272205 then P,V=s(-31105),2279465 b=j[P]Q=b else V=nil Q={V}V=j[s(-31100)]end else if V<3368013 then V,Q=j[s(-31186)],{}elseif 3398047>V then V=12320636>11214137 V=V and 13414767 or 9086034 else V=Q and 16578242 or 14466962 end end end end else if V>4062835 then if V>4265999 then if 4526658>V then if V<4316344 then J,V=s(-31057),z x,z=V,s(-31515)H,I,R,v=F or z,V,Y and J,s(-31204)F,z,x,Q=3,s(-31185),s(-31286),s(-31079)Q,Y,a=V[Q],nil,R or x S={[b]=P,[C]=H;[v]=F,[z]=a}Q=Q(V,S)Q,V={},j[s(-30901)]elseif V<4425750 then q=V c=u[C]m=not c f,V=m,m and 7915576 or 9927313 elseif V<4499094 then Y=b+Y Q,C=S>=Y,not P Q=C and Q C=Y>=S C=P and C Q=C or Q C=8389295 V=Q and C Q=10107716 V=V or Q else K,J=s(-31537),s(-31000)J=I[J]J=J(I,K)V=J and 1344556 or 7899311 end else if 4554972>V then F,x,P,H,I=s(-30912),s(-30968),b,s(-30948),s(-30875)Q=j[H]R=j[x]V=8814515 J=u[U[10]]K={J(C)}x=R(e(K))P=nil a=I..x z=C..a C=nil v=F..z H=Q(v)elseif V<4566281 then V=0 Q={V}V=j[s(-31452)]else Q=s(-30994)V=j[Q]S=u[U[5]]b=s(-30934)Q=V(S)Q=1 V=Y+Q Y=V S=j[b]b=s(-31126)Q=S[b]b=u[U[6]]S=Q(b)V=7581621 end end else if V>4170350 then if 4199863>V then V=u[U[1]]Q=V()Y=Q Q=u[U[2]]V=Q>Y V=V and 3603864 or 14576138 elseif V<4205199 then K,R=0,s(-30911)I=z[R]R=0 a,J=I or R,s(-30979)x=z[J]J,R=0,V I=x or J x=V J=a>K V,R=J and 2372679 or 3789258,J elseif V<4233830 then P=s(-31440)V=u[U[2]]H,Q,z,v,C,b,F,S=s(-31204),s(-31079),s(-31286),3,s(-31348),s(-31427),s(-31185),s(-30986)Y,Q={[S]=b,[P]=C;[H]=v,[F]=z},V[Q]Q=Q(V,Y)V,Q=j[s(-31376)],{}else V=u[U[1]]V=V and 7501137 or 5282567 end else if V<4066331 then x,J=s(-30941),s(-31020)x=R[x]x=x(R,J)V=x and 9007802 or 4508142 elseif V<4070357 then Y=w[1]V=Y Y=nil u[U[1]]=V V,Q=j[s(-31482)],{}elseif V<4108118 then a=u[H]V,z=5876560,not a v=z else S,Q,Y=s(-31468),s(-31142),w[1]V=j[Q]Q=s(-31000)Q=V[Q]Q=Q(V,S)S=Q V=not S V=V and 9409133 or 8849730 end end end else if 3768786>V then if V>3529883 then if 3579922>V then V=nil Q={V}V=j[s(-31143)]elseif 3659198>V then V=u[U[3]]v,b,x,C,P,I=s(-31009),s(-30986),s(-31077),s(-31440),s(-31597),s(-31543)z=u[U[2]]R=Y..x a=I..R F=z..a H=v..F a,v,Q,F=s(-31379),s(-31204),s(-31079),4 Q,z=V[Q],s(-31185)S={[b]=P;[C]=H,[v]=F;[z]=a}Q=Q(V,S)Q,V={},j[s(-31550)]elseif 3731424>V then H,z,C,v,I=s(-31546),s(-31277),s(-30986),s(-31440),s(-31185)S=u[U[2]]V=j[s(-31421)]a=u[Y]b=s(-31079)F=z..a a,b,R,z=4,S[b],s(-31389),s(-31204)P={[C]=H,[v]=F,[z]=a,[I]=R}b=b(S,P)P,Q=s(-30934),{}b=j[P]P=s(-31060)S=b[P]P=y(15658457,{Y;U[1];U[4];U[2]})Y=T(Y)b=S(P)else b=s(-30934)Q=j[b]b=s(-31126)V=Q[b]b=.3 Q=V(b)V=u[U[3]]Q=V(Y)b=Q V=b and 11300319 or 10374356 end else if 3449724>V then Y=u[U[4]]Q,V=Y,3425282 elseif V<3482315 then V=u[U[1]]Q=s(-31318)Q=V[Q]Q=Q(V)V,Q=j[s(-31150)],{}elseif 3498411>V then B,f=nil,nil q=T(q)V=205939 r=T(r)else S,Y=w[2],w[1]V=not Y V=V and 12578259 or 5255490 end end else if V>4013485 then if V<4038740 then D,c=s(-31265),s(-31000)c,V=I[c],12292179 c=c(I,D)q=c elseif 4051472>V then V=u[U[1]]Y=s(-31272)S=u[U[2]]b=s(-31466)b=V[b]Q={b(V,Y,S)}Q,V={e(Q)},j[s(-31323)]elseif V<4060630 then V=u[U[1]]V=V and 5812180 or 10677315 else G1=u[m]V=G1 and 16170060 or 6970423 end else if 3871283>V then V=x V=R and 10111175 or 13635154 elseif V<3971559 then Q=s(-31069)V=b[Q]P=V V=0 C=V V=u[U[3]]Q=V()H=Q Q=s(-31367)V=j[Q]z=u[U[4]]a={V(z)}V,Q,v=13595137,a[1],a[2]z,F=Q,a[3]elseif 3991473>V then a,x=F,s(-31173)R=I[x]V=R<=H V=V and 14800496 or 15122039 else Q,V={},j[s(-31503)]end end end end end else if V>1056242 then if V<1707205 then if V>1421031 then if V>1528799 then if 1546947>V then V=b Y=V V,Q=15401307,13021017>11182236 S=Q elseif 1556546>V then P=nil v=l(5469462,{C})C=T(C)H=s(-30994)V=j[H]H=V(v)V=13477106 elseif V<1629850 then V=0 Y=V V=8308351 else Q=1000000000.0 V=Y>=Q V=V and 7023245 or 7320680 end else if V<1443325 then P=s(-31406)b=j[P]V,Q=b and 2165748 or 2143826,b elseif 1459972>V then Q=u[U[1]]V=not Q V=V and 8984777 or 11762765 elseif 1494479>V then q=u[C]V,f=9329917,not q B=f else Q=s(-30994)Y=N(434257,{U[1]})V=j[Q]Q=V(Y)V=u[U[2]]V=V and 2211129 or 5437270 end end else if 1320911>V then if 1103965>V then V=u[U[1]]V=V and 16453790 or 6494917 elseif V<1148745 then V=13241603 elseif 1223863>V then S=T(S)V=12698066 else H,C,V=s(-31314),s(-31000),11563265 C=P[C]C=C(P,H)Q=C end else if 1344822>V then J,V=I,1147032 u[C]=J elseif V<1347674 then G1=u[I]V=G1 and 10561492 or 12176431 elseif 1376325>V then V=13949541 else S=s(-31000)Y=u[U[1]]S,b,V=Y[S],s(-31533),16089836 S=S(Y,b)Q=S end end end else if V<2108151 then if V<1803670 then if V<1726616 then a=s(-31275)V=u[U[1]]Y=s(-31413)Q=V(Y)F,b,Y=s(-31198),s(-30986),Q V=u[U[2]]I,z=V,V z,J,v,H=s(-31317),s(-31057),V,Y and F v,F,C=s(-31128),Y and a,V C,P,R=s(-31440),H or v,Y and J v,Q=V,s(-31079)v,H=s(-31204),F or z z,Q,F,x=s(-31185),V[Q],3,V x=s(-31286)a=R or x S,Y={[b]=P,[C]=H,[v]=F,[z]=a},nil Q=Q(V,S)Q,V={},j[s(-31241)]elseif 1745400>V then V,Y,Q=j[s(-31280)],nil,{}elseif 1778078>V then V=u[U[1]]Q={V(Y,e(S))}Q,V={e(Q)},j[s(-31398)]else V=4413925>=3129295 V=V and 11760430 or 8099289 end else if 1809819>V then V=v v=s(-31058)P=H or v S=b..P Y=Q(S)C,Y=V,s(-30948)Q=j[Y]S,C,b,z=s(-31304),V,s(-31481),s(-31415)Y=Q(S)v,Y=V,s(-30948)Q=j[Y]v=s(-31332)F=u[U[3]]H=F and z P=H or v S=b..P v,b=V,s(-31115)Y=Q(S)z,Y=s(-31415),s(-30948)Q=j[Y]F=u[U[4]]v,H,C=s(-31332),F and z,V P,C=H or v,V v=V v=s(-31332)S=b..P z=s(-31415)Y=Q(S)b,Y=s(-31426),s(-30948)Q=j[Y]F=u[U[5]]C,H=V,F and z P,z=H or v,s(-31415)v=V S=b..P Y=Q(S)a,b,v,Y=s(-31588),s(-31499),s(-31332),s(-30948)Q=j[Y]F=u[U[6]]H=F and z z,P=s(-31415),H or v S=b..P Y=Q(S)Y,b,v=s(-30948),s(-30987),V Q=j[Y]F=u[U[7]]v,H,C=s(-31332),F and z,V P,C=H or v,V S=b..P b=s(-31584)Y=Q(S)z,Y=s(-31415),s(-30948)Q=j[Y]F=u[U[8]]v,C=V,s(-30989)v,H=s(-31332),F and z P=H or v S=b..P v=V Y=Q(S)Y,v=s(-30948),s(-31332)Q=j[Y]z,V=s(-31415),8814515 F=u[U[9]]b,H=s(-31535),F and z P=H or v S=b..P F=s(-31173)Y=Q(S)S,Y=s(-31304),s(-30948)Q=j[Y]Y=Q(S)Y,v,H,z=s(-31367),s(-31400),s(-31213),s(-31434)P={C;H;v,F,z,a}Q=j[Y]C={Q(P)}S,Y,b=C[2],C[1],C[3]elseif 1887538>V then Y=s(-31022)V=u[U[1]]Q=V(Y)F=s(-31198)V=u[U[2]]Y,v=Q,V Q,H,C=s(-31079),Y and F,V C,z,J,b=s(-31440),V,s(-31057),s(-30986)z,v,Q,a=s(-31317),s(-31128),V[Q],s(-31517)P=H or v v=V v,F=s(-31204),Y and a H=F or z z,F,R,x,I=s(-31185),3,Y and J,V,V x=s(-31286)a=R or x S,Y={[b]=P;[C]=H;[v]=F,[z]=a},nil Q=Q(V,S)V,Q=j[s(-31005)],{}elseif V<2017549 then V=u[U[2]]S=u[U[1]]b=s(-31567)Q=V(S,b,Y)S=Q Q=13905976>4734520 V=S==Q V=V and 3748315 or 13105082 else C,F=H(P,C)V=C and 11160358 or 793633 end end else if V<2202840 then if V<2142366 then Q=s(-30994)V=j[Q]S=u[U[2]]b={V(S)}Y=b[2]Q=b[1]S=Q V,Q=S and 9584237 or 4617360,S elseif V<2154787 then V=Q and 15505277 or 4695969 elseif V<2180149 then C=s(-31406)P=j[C]C=P()P=s(-31448)b=C[P]Q,V=b,2143826 else b,P,V=nil,nil,9902985 end else if 2217332>V then V=u[U[3]]Q=V()V=5437270 elseif V<2251500 then q,m,f=s(-30941),s(-31020),V q=R[q]q=q(R,m)r,V=q,q and 7856541 or 14042037 else V=Q and 8519146 or 1150459 end end end end else if 445729>V then if V<254647 then if 120496>V then if V<25708 then V=3370812 elseif V<75721 then V=9283580 v=T(v)z,F,H=nil,nil,nil elseif V<109144 then Q,P,v=s(-31367),s(-31043),s(-30879)V=j[Q]b=j[P]H=u[U[2]]C=H[v]P={b(C)}b={V(e(P))}Q,Y,S=b[1],b[2],b[3]b,V=Q,13477106 else v,V=0,6509347 H=S>v P=H end else if 133385>V then V=u[U[2]]Y=s(-31336)Q=V(Y)Y=Q V=not Y V=V and 11167146 or 14313109 elseif 171774>V then V,Q=j[s(-31502)],{}elseif V<203846 then Q,V={P},j[s(-31556)]else K=s(-30934)J=j[K]K=s(-31126)x=J[K]R,K,V=nil,.5,15122039 J=x(K)end end else if 428271>V then if 309918>V then F=F+a v,R=F<=z,not I v=R and v R=F>=z R=I and R v=R or v R=15854360 V=v and R v=7925759 V=V or v elseif 329276>V then Q=3494743<2141578 Q,V={Q},j[s(-31425)]elseif 382179>V then z=s(-30934)F=j[z]P,v=nil,nil C=T(C)z=s(-31126)V=F[z]z,H=.1,nil F=V(z)V=15315425 else V=b V=Q and 11881496 or 6673197 end else if 434621>V then V=u[U[1]]Q=s(-31318)Q,b=V[Q],s(-31206)Q=Q(V)Q=s(-31153)V=u[U[1]]S=j[b]b=s(-31490)Y=S[b]b,P,Q=0,0,V[Q]S={Y(b,P)}Q=Q(V,e(S))V,Q=j[s(-31118)],{}elseif V<437073 then V=f and 4865916 or 3493036 elseif 440191>V then Q,Y=s(-30948),s(-31103)V=j[Q]Q=V(Y)Q,S=s(-30948),s(-31334)V=j[Q]v=u[U[1]]H,C,P=V,v,V V=v and 7532331 or 7149692 else V=15912821 end end end else if 780137>V then if V>591704 then if 620460>V then C=s(-31123)P=S==C Q,V=P,16251585 elseif 682308>V then Q,V={},j[s(-31246)]elseif 744923>V then V=i()u[V]=r r=V V=u[r]q,B,f,c=s(-31091),K,s(-31070),s(-31091)f=V[f]f=f(V,q)q=i()u[q]=f f=u[q]m=I[c]V=f==m V=V and 7716364 or 12957609 else Q=s(-31043)V=j[Q]V=V and 102272 or 5435403 end else if 477733>V then P,v=C(b,P)V=P and 12552939 or 11453459 elseif 539409>V then Q,V={},j[s(-30870)]elseif 578744>V then Q=s(-30994)Y=y(8879478,{U[2]})V=j[Q]Q=V(Y)V=6171094 else V=u[U[2]]V=V and 12725912 or 9902985 end end else if 925987>V then if 803252>V then Q,V={b},j[s(-31293)]elseif V<831574 then H,Y,F,B=s(-31222),s(-30989),s(-30968),nil V=u[U[1]]I,C,S=nil,s(-30968),s(-31434)Q=V(Y)Y=Q V=u[U[1]]Q=V(S)S=Q Q=s(-31267)P=j[C]C=P(Y)v=j[F]F=v(S)P=H..F b=C..P C=s(-30986)V=Q..b b=V V=u[U[2]]v,z=V,V a=Y~=I Q,v,I=s(-31079),s(-31440),s(-31030)F,z=a and I,s(-31527)K=Y~=B Y,H,S=nil,F or z,nil z,a,R,Q,B=5,s(-31185),V,V[Q],s(-31057)x,F,J=K and B,s(-31204),V J=s(-31286)I=x or J P={[C]=H;[v]=b,[F]=z,[a]=I}Q=Q(V,P)V,b,Q=j[s(-31431)],nil,{}elseif V<859444 then K,r=x(J,K)V=K and 723205 or 205939 else C,V=nil,4490046 end else if V<1008731 then a=1 V=b+a b=V V=7368953 elseif V<1042842 then V=i()P=S u[V]=C H,C=s(-30994),V F=y(4736459,{U[4],C})V=j[H]z={V(F)}v,H=z[2],z[1]z=not H V,F=z and 2542466 or 9292209,z else P,C=S,V V=S and 116017 or 6509347 end end end end end end else if V>6697279 then if V<7464964 then if V>7113537 then if 7308366>V then if 7265513>V then if V<7134220 then Y,Q=w[1],{}V=Y Y=nil u[U[1]]=V V=j[s(-31347)]elseif 7187787>V then V=H H=s(-31058)b=C or H Y=S..b Q=V(Y)Y,v,b,C=s(-30948),V,s(-31439),V Q=j[Y]F=u[U[2]]V,H=F and 11350721 or 1804264,F elseif 7244806>V then v=C V=Y[F]z=V V=z and 4203503 or 14580962 else r,v,f=s(-31161),a,s(-31218)r=I[r]r=r(I,f)B,R=V,r V=r and 10259234 or 5390723 end else if 7267777>V then V=1803076 elseif 7272685>V then m=V D=u[H]c=not D q,V=c,c and 4033835 or 12292179 elseif 7290659>V then Q=u[U[5]]Y,V=nil,6494917 S=Q()else P=S V=i()u[V]=C C=V H=u[C]v=s(-31491)V=H[v]V=V and 8857062 or 1552289 end end else if V>7363118 then if 7380831>V then z,R=nil,s(-30934)I=j[R]R=s(-31126)a=I[R]V,R=2504930,.05 I=a(R)elseif V<7412532 then V,J=16216412,16346015<=14555472 x=z~=J I=x else Y=s(-30934)Q=j[Y]Y=s(-31126)V=Q[Y]Y=5 Q=V(Y)Q=s(-30994)V=j[Q]Y=l(8506713,{U[1],U[2];U[3],U[4];U[5],U[6];U[7]})Q=V(Y)V=13949541 end else if 7316603>V then V=u[U[2]]Y=u[U[1]]S=s(-31047)Q=V(Y,S)Y=Q V=Y and 7847348 or 7332447 elseif V<7326563 then Q=1000000.0 V=Y>=Q V=V and 5233136 or 11254172 elseif 7344865>V then Q,V=11758095>12461259,j[s(-31395)]Q={Q}else V=Q and 8386527 or 2194551 end end end else if V<6969861 then if V<6848281 then if 6748227>V then Q=s(-30994)Y=M(16247438,{U[2]})V=j[Q]Q=V(Y)V=u[U[3]]Q=V()Q,V={},j[s(-31536)]elseif V<6793776 then Q=1000000000000.0 V=Y>=Q V=V and 16661354 or 1698897 elseif V<6820415 then Q=u[U[1]]V=not Q V=V and 12642704 or 9744709 else Q=s(-30994)b=y(14740024,{U[1],Y})V=j[Q]P={V(b)}S,Q=P[2],P[1]b=Q V=b and 10155032 or 3311868 end else if 6879557>V then Q,Y=1000,w[1]V=Y/Q u[U[1]]=V Q,Y,V={},nil,j[s(-30925)]elseif 6919206>V then Q=u[U[1]]V=not Q V=V and 16691136 or 124975 elseif 6955016>V then V,Q=10914872,5 Y=Q else b,V=not Y,13743673 Q=b end end else if V<7031293 then if 6976731>V then G1=u[c]V=G1 and 8406147 or 8541725 elseif V<6989568 then V=z I,J,z=V,s(-31057),s(-31463)R,H,v=Y and J,F or z,s(-31204)Y,x=nil,V x=s(-31286)a,Q=R or x,s(-31079)Q,F,z=V[Q],3,s(-31185)S={[b]=P,[C]=H;[v]=F;[z]=a}Q=Q(V,S)V,Q=j[s(-30921)],{}elseif V<7009671 then V=13147314<=11752214 u[U[1]]=V C,v,V,a,b,Y,F,z=s(-31440),s(-31204),j[s(-31116)],s(-31442),s(-30986),s(-31079),2,s(-31185)Q=u[U[2]]Y,P,H=Q[Y],s(-31600),s(-31255)S={[b]=P,[C]=H,[v]=F;[z]=a}Y=Y(Q,S)Q={}else P,S=1000000000.0,s(-31053)Q=j[S]S=s(-30892)V=Q[S]S=s(-31417)b=Y/P Q={V(S,b)}V,Q=j[s(-31337)],{e(Q)}end else if 7052242>V then V=R and 6088274 or 11268412 elseif 7068988>V then i7=T(i7)X7=T(X7)G1=u[k]T1=s(-31171)y7=T(y7)F7=T(F7)j1,Y1=nil,s(-31342)O7=T(O7)s7=T(s7)T7=T(T7)H7,i1=nil,s(-31440)H=T(H)z7=T(z7)d7,b,W1[3]=nil,nil,V o=T(o)P1=j[T1]R7=T(R7)C=T(C)W1[3],u1,h7=s(-31037),s(-30986),nil U7=T(U7)c7,W1[5]=nil,V Z7=T(Z7)Y7=T(Y7)q7=T(q7)I=T(I)n=T(n)I7=T(I7)W1[5],T1=s(-31211),s(-31469)b1=P1[T1]Q7=T(Q7)f7=T(f7)r7=T(r7)T1=s(-31270)P1=b1(U1,T1)W1[7],T1=s(-31415),s(-31529)W1[6]=u[t]t=T(t)W1[4]=W1[6]and W1[7]W1[2]=W1[4]or W1[5]S7=T(S7)L7=T(L7)A7=T(A7)Z=T(Z)W1[1]=W1[2]..W1[3]l7=nil b1=T1 ..W1[1]C7=T(C7)S,W1[1]=nil,s(-31101)w7=T(w7)m7=nil N7=T(N7)T1=s(-31185)E=T(E)z=T(z)S1=P1 ..b1 v7=T(v7)P1=6 j7=T(j7)B7=T(B7)V1=T(V1)P=T(P)L1,Q,b1=s(-31079),{},s(-31204)V7=T(V7)b7=T(b7)c=T(c)s1=T(s1)g7=T(g7)D=T(D)m=T(m)K7=T(K7)L1=G1[L1]A=T(A)n7,V=nil,j[s(-31350)]P7=T(P7)Q1,D7={[u1]=Y1,[i1]=S1;[b1]=P1;[T1]=W1[1]},nil L1=L1(G1,Q1)o7=T(o7)R=T(R)h=T(h)L1,k7=s(-31283),nil u7=T(u7)e7=T(e7)x7=T(x7)e1=nil t7=T(t7)G1=u[k]W7=T(W7)a7=T(a7)G7=T(G7)d=T(d)J7,U1=nil,nil a=T(a)w1=T(w1)v,L1=nil,G1[L1]L1=L1(G1)F=T(F)p7=T(p7)M7=nil k=T(k)E7=T(E7)elseif V<7090579 then V=nil Q={V}V=j[s(-30938)]else V=Q and 13154990 or 12181403 end end end end else if 7851944>V then if V<7657051 then if 7556976>V then if 7499356>V then V=nil Q={V}V=j[s(-31273)]elseif 7513392>V then P,H,S,C,v,z,b,F=s(-31440),s(-31204),s(-30986),s(-31333),2,s(-31387),s(-31007),s(-31185)V=u[U[2]]Y,Q={[S]=b,[P]=C,[H]=v;[F]=z},s(-31079)Q=V[Q]Q=Q(V,Y)Q,V={},j[s(-31290)]elseif V<7528989 then Q,V={},j[s(-31049)]else v=u[U[1]]F,V=s(-31370),7149692 F=v[F]F=F(v)C=F end else if V<7582984 then V=8308351 elseif V<7609490 then V=u[U[1]]P=s(-31466)S=u[U[2]]b=u[U[3]]P,Y=V[P],s(-31420)Q={P(V,Y,S,b)}Q,V={e(Q)},j[s(-31165)]elseif 7639295>V then V=11167864 else Y=s(-30934)Q=j[Y]Y=s(-31126)V=Q[Y]Y=u[U[3]]Q=V(Y)V=3370812 end end else if V<7742832 then if 7671698>V then V=0 Q={V}V=j[s(-31363)]elseif 7694808>V then b=s(-31213)Y=u[U[1]]V=j[s(-31561)]S=Y(b)Y=0 Q=S or Y Q={Q}elseif V<7726543 then V=nil f,c,m=V,s(-31352),s(-31161)V=u[r]m=V[m]m=m(V,c)V=m and 13457414 or 10167237 else V=u[U[1]]V=V and 15745793 or 7969613 end else if 7765116>V then b,S=0,Q Q=#S V=Q==b V=V and 2573035 or 16260746 elseif 7795698>V then V=F and 11946403 or 12414572 elseif V<7828728 then H=s(-31204)V=u[U[1]]Q=V()V=u[U[2]]v,P,C,z,F,S,b=3,s(-31440),s(-30984),s(-31057),s(-31185),s(-30986),s(-31373)Y,Q={[S]=b;[P]=C,[H]=v,[F]=z},s(-31079)Q=V[Q]Q=Q(V,Y)V,Q=j[s(-31484)],{}else Q=u[U[3]]S=1 V=Q+S u[U[3]]=V Q,V=3015038~=16287301,j[s(-31399)]Q={Q}end end end else if V<7990518 then if V>7920667 then if V<7947686 then H=T(H)C,V=nil,12720818 elseif 7969644>V then Y=s(-30934)Q=j[Y]Y=s(-31126)V=Q[Y]Y=u[U[3]]Q=V(Y)V=14550565 elseif 7976324>V then c=u[r]D=s(-31221)D=c[D]D=D(c)c=s(-31544)m=D[c]f,V=m,434985 else Q=u[U[2]]C=u[Y]V=Q[C]Q={V}V=j[s(-31214)]end else if V<7869722 then m=u[H]V,q=14042037,not m r=q elseif V<7891107 then V=4448513<4736381 V=V and 12088598 or 15169002 elseif 7907443>V then K=s(-31000)K,B=I[K],s(-31265)K=K(I,B)V=K and 13578613 or 1147032 else c,m,V=s(-31537),s(-31000),9927313 m=I[m]m=m(I,c)f=m end end else if V<8095088 then if 8003260>V then V,Q=j[s(-31592)],5850080<=1032948 Q={Q}elseif V<8017970 then V=s(-31074)Q={V}V=j[s(-31164)]elseif V<8059186 then V=6455171>=669074 V=V and 4059300 or 8707148 else z,V,R=s(-30934),8923014,s(-31191)F=j[z]z=s(-31126)v=F[z]z=5 F=v(z)F=s(-31367)v=j[F]R=b[R]I={R(b)}R={v(e(I))}a,z,F=R[3],R[2],R[1]end else if 8108609>V then V,Q=j[s(-31033)],{}elseif V<8124459 then Q=0 V=b>Q V=V and 13891810 or 10168358 else Q=s(-30994)V=j[Q]b=u[U[2]]P={V(b)}S=P[2]Q=P[1]b=Q Q,V=b,b and 1051586 or 13971971 end end end end end else if V>5791412 then if V<6341104 then if V<6048057 then if 5891721>V then if 5801598>V then S=s(-30934)Y=j[S]S=s(-31126)V=Y[S]S=10 Y=V(S)V=11167864 elseif V<5809577 then V,Y,S,Q=j[s(-31096)],nil,nil,{}elseif V<5844370 then Q=s(-30994)V=j[Q]Y=u[U[2]]Q=V(Y)V=10677315 else V=F V=v and 8090888 or 8714655 end else if 5950803>V then I,R=z,V V=z and 7392710 or 16216412 elseif V<5998367 then Q=u[U[1]]V=not Q V=V and 3365214 or 13680811 elseif V<6019966 then Q=u[U[1]]V=not Q V=V and 9878724 or 7312527 else V=u[U[2]]C=b Q=u[Y]V[Q]=C V=u[U[3]]C=S Q=u[Y]V[Q]=C Q,V={b},j[s(-31574)]end end else if V<6111662 then if 6060032>V then V,b=1624073>=13736753,s(-31367)S=V Q=j[b]H=u[U[2]]v={Q(H)}V,C,b,P=9283580,v[3],v[1],v[2]elseif 6075072>V then V=15636721 elseif V<6093640 then x,V=s(-31062),s(-31370)V=I[V]V=V(I)R=V V=s(-30941)V=R[V]V=V(R,x)V=V and 5104805 or 4063709 else S,Y=s(-31496),w[1]Q=j[S]S=Q(Y)Q=s(-31144)V=S~=Q V=V and 8008456 or 6225176 end else if V<6147706 then V,Q=P,b V=3085232 elseif V<6198135 then Y=u[U[3]]Q,V=Y,Y and 3427855 or 3425282 elseif 6270819>V then Q=1e+15 V=Y>=Q V=V and 12836233 or 6781848 else Q=u[U[3]]b=s(-31588)S=Q(b)Q,b=S,V V=S and 11463861 or 422286 end end end else if V<6523837 then if V<6450977 then if 6377950>V then v=1 H=P[v]V,v=9711117,s(-31123)C=H==v Q=C elseif V<6392803 then V=u[U[1]]J,b,Y,F=s(-31057),s(-30986),s(-31385),s(-31198)Q=V(Y)Y,a=Q,s(-31311)V=u[U[2]]v,H,C,R=V,Y and F,V,Y and J F,v,z=Y and a,s(-31128),V Y,C,I,P=nil,s(-31440),V,H or v v=V v,z=s(-31204),s(-31317)H=F or z z,Q,F,x=s(-31185),s(-31079),3,V x=s(-31286)a=R or x S,Q={[b]=P;[C]=H;[v]=F;[z]=a},V[Q]Q=Q(V,S)V,Q=j[s(-31087)],{}elseif 6420266>V then Q1=s(-31171)L1=j[Q1]V,Q1=9575640,s(-31316)G1=L1[Q1]Q1=s(-31432)L1=G1(U1,Q1)else v,V,I=nil,8923014,nil end else if 6468905>V then V=i()F=10 u[V]=H v,H,z=1,V,F F=1 a,C,V=F,b,303356 F=0 I=F>a F=v-a elseif 6487928>V then Y=w[1]V=Y Y=nil u[U[1]]=V Q,V={},j[s(-31252)]elseif V<6502132 then S,V=s(-30934),15912821 Y=j[S]S=s(-31126)Q=Y[S]S=1 Y=Q(S)else V,Q=C,P V=13971971 end end else if V>6619739 then if 6646557>V then V,Q=P,b V=4617360 elseif 6676574>V then V,S=3714533,nil else Q=s(-30994)P=g(11172211,{U[1],Y})V=j[Q]C={V(P)}b=C[2]Q=C[1]P=Q V=P and 6037922 or 7982972 end else if V<6539093 then R,q=s(-31370),s(-31062)R=I[R]R=R(I)f,r=s(-30941),V f=R[f]f=f(R,q)B,V=f,f and 1472965 or 9329917 elseif 6576490>V then b=i()Q,V=s(-30994),{e(S)}u[b]=V C=N(3141869,{Y;b})V=j[Q]H={V(C)}Q,P=H[1],H[2]C=Q V=C and 201754 or 7497575 elseif 6616341>V then V,C=10107716,nil else Q,P=s(-30968),s(-31245)V=j[Q]b=j[P]P=s(-31092)S=b[P]b={S(Y)}Q={V(e(b))}V,Q=j[s(-31320)],{e(Q)}end end end end else if V>5122505 then if V>5336645 then if V<5453366 then if 5399177>V then V=B V=R and 6538328 or 6445083 elseif 5421517>V then Q,Y=1,w[1]V=Y[Q]S=V V=not S V=V and 505229 or 16365383 elseif V<5436336 then Q,V={},j[s(-30867)]else Q,Y=s(-31126),600 V=j[Q]Q=V(Y)V=15636721 end else if V<5525086 then Q=s(-31477)V=u[U[1]]Q=V[Q]Q=Q(V)V,Q=j[s(-30933)],{}elseif V<5683656 then V=8714655 else Q,Y={},w[1]V=Y u[U[1]]=V V,Y=j[s(-31331)],nil end end else if V>5229331 then if V<5244313 then S=s(-31053)Q=j[S]S=s(-30892)V=Q[S]S,P=s(-30993),1000000.0 b=Y/P Q={V(S,b)}Q,V={e(Q)},j[s(-31372)]elseif 5262913>V then V=s(-31000)V=Y[V]V=V(Y,S)b=V V=b and 12356732 or 7072833 elseif V<5276451 then Q=u[U[1]]V=not Q V=V and 4564770 or 14541559 else P,V=s(-31434),8359151<14147612 u[U[1]]=V S=u[U[3]]Y=V b=S(P)Y=i()S=1 Q=b or S u[Y]=Q S=u[Y]b=1 Q=S<=b V=Q and 6316463 or 3714533 end else if V<5158995 then b,Y={L(3,e(w))},w[1]C=u[U[1]]P=Y==C S,Q,V=w[2],P,P and 599510 or 16251585 elseif V<5198965 then Y=u[U[2]]b=s(-31106)S=Y(b)V,Q=S and 4672726 or 16006870,S elseif V<5222835 then F,I=z(v,F)V=F and 13889307 or 4809533 else S,P=s(-31053),1000.0 Q=j[S]S=s(-30892)V=Q[S]S=s(-31577)b=Y/P Q={V(S,b)}V,Q=j[s(-31050)],{e(Q)}end end end else if 4799667>V then if 4684347>V then if 4595480>V then F,Y,S,v=3,s(-30948),s(-31132),s(-31204)Q=j[Y]V,H,P,C,z=j[s(-31279)],s(-30977),s(-30951),s(-31440),s(-31185)Y=Q(S)a=s(-31040)Q=u[U[11]]b,Y=s(-30986),s(-31079)S,Y={[b]=P,[C]=H,[v]=F;[z]=a},Q[Y]Y=Y(Q,S)Q={}elseif 4639544>V then V=Q and 12605186 or 10905258 elseif V<4667227 then V=a V=Q and 13325388 or 49170 else Y,b=Q,s(-30914)Q,P,S=s(-31022),s(-31385),s(-31413)V={Q;S,b;P}Q,S=s(-31367),V V=j[Q]C={V(S)}V,Q,b,P=450238,C[1],C[2],C[3]C=Q end else if 4716214>V then V,Y,S,Q=j[s(-31151)],nil,nil,{}elseif 4762521>V then b,Y=s(-31466),s(-31127)V=u[U[1]]S=u[U[2]]b=V[b]Q={b(V,Y,S)}V,Q=j[s(-31303)],{e(Q)}elseif V<4789192 then R,a,v,I,F,Y=s(-31440),s(-30986),s(-31069),s(-31373),P,nil b[v]=F Q,B={},s(-30899)v=u[U[2]]J,r,P=s(-30881),s(-31057),nil K=C..B x=J..K K,B,J,S,C,V,H,F,b=4,s(-31185),s(-31204),nil,nil,j[s(-31162)],nil,s(-31079),nil z,F={[a]=I;[R]=x,[J]=K;[B]=r},v[F]F=F(v,z)else H=s(-30934)Q=j[H]H=s(-31126)V=Q[H]H=3 Q=V(H)V=868611 end end else if V>4869458 then if 4874743>V then Y=s(-30934)Q=j[Y]Y=s(-31126)V=Q[Y]Y=u[U[5]]Q=V(Y)V=1803076 elseif 4910519>V then P,b,Q,V,S,Y=nil,nil,{},j[s(-30953)],nil,nil elseif 5024678>V then I,V=s(-31507),a a,F=s(-31524),s(-31204)v=z or a z,a=3,s(-31185)b,Q={[P]=C,[H]=v,[F]=z;[a]=I},s(-31079)Q,Y=V[Q],nil Q=Q(V,b)Q,S,V={},nil,j[s(-31138)]else V=I u[C]=V V=13241603 end else if 4813533>V then F=V a=u[C]z=not a v,V=z,z and 5876560 or 4071761 elseif V<4837257 then S=u[U[3]]P=s(-31578)b=S(P)Q,V=b,b and 7748943 or 14540789 elseif 4861448>V then P,H=nil,nil C=T(C)V,v=9602586,nil else h,c,o=s(-31510),s(-31069),s(-31069)t=j[o]o=s(-31490)D=t[o]E=j[h]h=s(-31490)A=E[h]d,k,h=2,0,0 E=A(h,d,k)o=f+E t=D(o)b[c]=t t=s(-30934)D=j[t]t=s(-31126)c=D[t]t=.5 D=c(t)D=s(-30994)c=j[D]t=N(7584348,{U[6],q,r})D=c(t)V=D and 16423007 or 2677568 end end end end end end end else if V<12236791 then if V<9875136 then if V<8953442 then if 8543111>V then if V>8387911 then if V<8505921 then if 8397721>V then C=Y Q=u[U[2]]V=not Q V=V and 6613122 or 9256308 elseif V<8412635 then Q1=s(-31171)L1=j[Q1]Q1=s(-31316)G1=L1[Q1]Q1=s(-30940)L1=G1(U1,Q1)V=8541725 elseif V<8462127 then V=8027485 else V=u[U[1]]Q=V()V=u[U[2]]F,C,b,v=s(-31149),V,s(-30986),V v,C,Y,z=s(-31458),s(-31440),Q,V H=Y and F P=H or v v,F=V,Y V=Y and 12477495 or 4271234 end else if 8508889>V then b,H=s(-31244),s(-30904)V=u[U[1]]J,S=s(-31308),s(-30986)F=u[U[2]]a=u[U[3]]f=s(-31590)z=F(a)R=u[U[4]]P,a=s(-31440),s(-31154)B=u[U[5]]o=s(-31359)q=u[U[6]]t=j[o]o=s(-31530)D=t[o]t=D()D=u[U[7]]c=t-D m=q(c)Q=s(-31082)r=f..m Q=V[Q]K=B..r x=J..K I=R..x F=a..I v=z..F C=H..v Y={[S]=b,[P]=C}Q=Q(V,Y)Q,V={},j[s(-31422)]elseif V<8515106 then Y,Q=s(-31036),s(-31044)V=j[Q]Q=s(-31473)Q=V[Q]Q=Q(V,Y)S,Y=s(-31599),Q Q=u[U[1]]V=Q[S]S=V V,Q=S and 8949948 or 8908880,S elseif 8530435>V then Q=s(-31105)b=i()V,H=nil,s(-31086)u[b]=V V=j[Q]C=u[S]P=C[H]C=W(5140206,{S;b})Q=V(P,C)u[b]=Q b=T(b)V=1150459 else G1=u[D]V=G1 and 9396952 or 7065143 end end else if V<8296315 then if V<8242377 then V,I=7781289,0 a=Y[v]z=a>I F=z elseif V<8268393 then C=b>Y V=C and 2348892 or 15401307 elseif V<8284202 then V=u[U[1]]Q=V()Y,P,C,b,a=Q,s(-31158),s(-31440),s(-30986),s(-31507)V=u[U[2]]v=s(-31390)H=v..Y F,Q=2,s(-31079)Q,z,v=V[Q],s(-31185),s(-31204)S={[b]=P;[C]=H,[v]=F;[z]=a}Q=Q(V,S)V=u[U[3]]Q=V(Y)V,Q,Y=j[s(-31025)],{},nil else Y=s(-31127)V=u[U[1]]b=s(-31466)S=u[U[2]]b=V[b]Q={b(V,Y,S)}Q,V={e(Q)},j[s(-31201)]end else if V<8327122 then V=2707126<7117625 V=V and 9739338 or 2876756 elseif 8348169>V then Y=u[U[1]]b=s(-30989)S=Y(b)Y,V=0,j[s(-31295)]Q=S or Y Q={Q}elseif V<8368486 then Y=w[1]V=Y u[U[1]]=V Q,V,Y={},j[s(-31157)],nil else V=not S V=V and 1541606 or 8252662 end end end else if 8853396>V then if 8710901>V then if V<8613802 then V=u[U[2]]V=V and 573590 or 6171094 elseif V<8692775 then Y=u[U[1]]Q,V=Y,Y and 1402391 or 16089836 elseif V<8704795 then Y=w[1]V=Y Y=nil u[U[1]]=V Q,V={},j[s(-31034)]else V,Q=j[s(-31460)],{}end else if V<8752274 then F=u[C]v=not F V=v and 9914827 or 9160416 elseif 8802204>V then Q=u[U[1]]V=not Q V=V and 3143341 or 9739452 elseif V<8832122 then b,C=Y(S,b)V=b and 4545174 or 4573601 else V=s(-31000)V,b=S[V],s(-30968)Q=j[b]b={Q(Y)}V=V(S,e(b))b=V Q,V=b,b and 15477144 or 7108326 end end else if V>8915947 then if 8924762>V then a,I=F(z,a)V=a and 7263730 or 5580711 elseif V<8938229 then V=u[U[1]]V=V and 10755632 or 766642 else V,P,b=8908880,s(-31314),s(-31000)b=S[b]b=b(S,P)Q=b end else if V<8868270 then H,z=s(-30994),s(-31491)V=j[H]F=u[C]v=F[z]H=V(v)V=1552289 elseif 8888530>V then V=u[U[1]]Y,Q=s(-31298),s(-31466)Q=V[Q]Q=Q(V,Y)V,Q=j[s(-31391)],{}elseif 8903231>V then V=10178492<6034734 Q={V}V=j[s(-30947)]else b=Q V=not b V=V and 12091208 or 3953309 end end end end else if V>9426678 then if V<9703768 then if 9579938>V then if V<9490076 then C=u[U[3]]V,b=6619918,C elseif 9538070>V then V,Q=j[s(-31145)],{}elseif V<9557926 then V=5435403 else G1=u[a]V=G1 and 14043233 or 1345089 end else if V<9588681 then P=V V,b=Y and 9444224 or 6619918,Y elseif 9597855>V then Q,V=b,P V=11203509 elseif 9649502>V then V=14466962 else R,V=s(-31180),4944552 x=u[U[2]]I=R..x z=I end end else if V>9742080 then if V<9765171 then V=u[U[2]]Y=u[U[1]]S=s(-31589)Q=V(Y,S)Y=Q V=Y and 11416427 or 316480 elseif V<9828591 then V=u[U[2]]S=u[U[1]]b=s(-31059)Q=V(S,b,Y)S=Q Q=4566990>4387713 V=S==Q Q={V}V=j[s(-31470)]else V,R,v,x=7925759,nil,nil,nil end else if 9716797>V then V=Q and 11426577 or 1753081 elseif V<9730908 then b=s(-30934)S=j[b]b,V=s(-31126),7581621 Q=S[b]b=.5 S=Q(b)elseif V<9739395 then V=u[U[1]]V=V and 14105184 or 9722478 else V=0 Y=V V=14913724>=13359091 S=V V=12043672 end end end else if 9277962>V then if V>9123225 then if V<9181952 then v=p(3503786,{})k7=30 W1[34],R,W1[64],m=28,s(-31102),s(-30869),s(-31156)z=u[C]W1[72],a=s(-31396),s(-31537)F=v(z,a)E=i()D=s(-31227)S7=i()z=i()u[z]=F W1[19]=50 a=u[C]I,W1[78],E7=s(-31494),s(-31242),230 F=v(a,I)L1=70 a=i()e7=i()u[a]=F A=i()I=u[C]F=v(I,R)c=s(-31493)I=i()b7=i()u[I]=F R=u[C]k,W1[81],W1[28]=s(-31148),s(-30868),55 F=v(R,m)y7=l(4144476,{})n=s(-31044)R=i()u[R]=F m=u[C]F=v(m,c)m=i()W1[29],W1[18]=35,200 u[m]=F Q1=40 c=u[C]W1[82]=s(-31330)P7=i()W1[115]=s(-31465)F=v(c,D)t=s(-31008)c=i()u[c]=F D=u[C]W1[5],j7=15,s(-31111)F=v(D,t)D=i()u[D]=F m7=s(-30873)t=u[H]o=s(-31265)F=v(t,o)o=i()t=i()W1[96],B7=s(-30913),s(-30934)u[t]=F W1[66],W1[59],W1[10],W1[14],F=s(-31219),s(-31190),80,200,{}u[o]=F F,q7,u1={},s(-31044),200 u[A]=F F=2 Q7=i()u[E]=F b1=20 F=i()W1[30]=45 h=O(15695081,{t,o,A,E})u[F]=h W1[13]=50 d=O(14922430,{t,o,A})h=i()u[h]=d d=j[k]Z=j[n]W1[6],s7=70,s(-31233)u7=i()D7,s7,d7=s(-30963),Z[s7],15 n={s7(Z,j7)}W1[87]=s(-31571)K7=y(14445927,{})k=d(e(n))U7=i()x7=i()d=k()k=i()n=i()u[k]=d W1[11],U1,d=30,50,6863186>=11986040 j7=i()Z=i()u[Z]=d w7=i()Y7=i()d=11488776>12787208 G7=i()u[n]=d W1[40],W1[35]=s(-31073),18 s7=i()d=13182631<=5219876 u[j7]=d V7=i()r7=i()d,G1=16685711<=1718379,30 L7=i()u[s7]=d F7=g(5270336,{m})d=7253621>8879396 u[V7]=d d=10099272<2689224 u[e7]=d R7=X(6099006,{})d,h7,W1[52],T7,A7=9321843<1812039,20,s(-31195),s(-31359),255 u[w7]=d d=13838874>13986610 u[U7]=d P1,Z7,Y1,d=10,15,80,13433614>16170494 H7=M(14783663,{F})i7=i()u[G7]=d d=.1 u[L7]=d W1[50],d=s(-31418),2 u[Q7]=d d=3 u[u7]=d d=1 u[Y7]=d s1,d=22,5 u[i7]=d d=0 X7=i()C7=M(16204617,{F})W1[33]=18 u[S7]=d d=0 u[b7]=d d=0 u[P7]=d W7=j[T7]T7=s(-31530)d=W7[T7]W1[9],W1[101]=30,s(-31542)W7=d()T7=W(13544197,{})d=i()u[d]=W7 W7=i()u[W7]=T7 z7=y(14770872,{R,W7})O7=y(6805704,{I,W7,b7})p7=M(1446979,{z;W7;S7})T7=i()u[T7]=p7 g7=y(6002010,{a;W7;P7})W1[31]=25 p7=i()W1[32]=30 u[p7]=g7 g7=i()u[g7]=O7 O7=i()n7=20 u[O7]=y7 W1[107]=s(-31019)y7=i()l7=M(7673253,{F})M7=g(9353754,{F,y7})N7=l(11701628,{a,W7,O7,P})u[y7]=N7 N7=i()u[N7]=M7 M7=N(8345894,{F})a7=i()v7=g(16700227,{R;F;a7})u[X7]=C7 I7=g(2528466,{c,W7})C7=i()u[C7]=H7 u[a7]=z7 H7=g(13794173,{F})z7=i()W1[74]=s(-30935)u[z7]=v7 v7=i()u[v7]=F7 F7=i()u[F7]=I7 I7=i()J7=y(6897680,{c,F;F7})u[I7]=J7 J7=l(5994724,{D})u[x7]=R7 R7=i()u[R7]=K7 f7=j[B7]B7=s(-31060)K7=f7[B7]B7=y(1560804,{Z,V7,F;z7,T7,L7})f7=K7(B7)B7,V1=s(-30934),15 f7=j[B7]B7=s(-31060)K7=f7[B7]B7=y(7634632,{Z,R,U7,D})W1[68]=s(-31488)f7=K7(B7)i1=255 B7=i()K7=8324254<11892966 f7=i()u[f7]=K7 W1[103],K7=s(-30990),5 u[B7]=K7 K7=0 u[r7]=K7 K7=j[q7]q7=s(-31473)q7,W1[99]=K7[q7],s(-31593)q7=q7(K7,m7)m7=N(12729481,{})K7=i()u[K7]=q7 q7=i()u[q7]=m7 c7=u[P]m7=c7[D7]D7=y(2512706,{f7,K7,q7})c7=s(-31141)c7=m7[c7]c7=c7(m7,D7)c7=s(-30994)D7=M(3471594,{K7})W1[38]=170 m7=j[c7]c7=m7(D7)D7,T1=s(-30934),32 c7=j[D7]D7=s(-31060)m7=c7[D7]D7=O(6061871,{K7;f7;q7})c7=m7(D7)w1,W1[109],W1[24],D7=200,s(-31140),100,s(-30934)c7=j[D7]W1[116],e1,W1[106],D7=s(-31212),255,s(-30883),s(-31060)m7=c7[D7]W1[76]=s(-31532)D7=l(441221,{f7;r7;B7,K7;q7})c7=m7(D7)D7,W1[41]=s(-30934),s(-31585)c7=j[D7]D7,W1[21]=s(-31060),60 m7=c7[D7]D7=O(3158912,{C})c7=m7(D7)c7=s(-30994)D7=N(16719571,{})m7=j[c7]c7=m7(D7)D7=s(-30934)c7=j[D7]D7=s(-31060)m7=c7[D7]W1[12],W1[91],W1[3],j1,S1,W1[113]=180,s(-31453),25,10,180,s(-31301)D7=g(7267296,{n,p7;s7,N7;u7})c7=m7(D7)W1[56],D7=s(-30964),s(-30934)c7=j[D7]D7=s(-31060)m7=c7[D7]D7=l(2247,{j7,g7;Q7})c7=m7(D7)D7=s(-30934)c7=j[D7]D7,W1[37]=s(-31060),40 m7=c7[D7]D7=y(15196842,{C7,s7;N7})t7=s(-31026)c7=m7(D7)D7=s(-30934)c7=j[D7]W1[27],D7=40,s(-31060)m7=c7[D7]W1[69]=s(-31489)D7=l(8419124,{e7,v7;Y7})c7=m7(D7)W1[2],D7=40,s(-30934)c7=j[D7]D7=s(-31060)m7=c7[D7]D7=N(14604183,{w7,I7,i7})c7=m7(D7)c7=s(-31291)o7=j[t7]t7=s(-30945)D7=o7[t7]t7=230 o7=D7(t7,A7,E7)E7,D7=s(-31026),s(-31208)A7=j[E7]E7=s(-30945)t7=A7[E7]E7,W1[20]=15,80 A7=t7(E7,h7,d7)W1[63],t7,d7=s(-31226),s(-31238),s(-31026)h7=j[d7]d7=s(-30945)E7=h7[d7]d7=20 h7=E7(d7,k7,n7)E7,n7,W1[23]=s(-31471),s(-31026),70 k7=j[n7]n7=s(-30945)d7=k7[n7]n7=10 k7=d7(n7,Z7,j1)d7,j1=s(-30965),s(-31026)Z7=j[j1]j1=s(-30945)n7=Z7[j1]j1=15 Z7=n7(j1,s1,V1)W1[8],V1=55,s(-31026)s1=j[V1]V1,W1[7],n7=s(-30945),40,s(-31028)j1=s1[V1]V1=200 s1=j1(V1,e1,w1)j1,w1=s(-31236),s(-31026)e1=j[w1]w1=s(-30945)V1=e1[w1]w1,W1[39]=30,120 e1=V1(w1,U1,G1)W1[105],G1=s(-31353),s(-31026)U1=j[G1]G1,V1=s(-30945),s(-31029)w1=U1[G1]G1,W1[42]=40,s(-31203)U1=w1(G1,L1,Q1)W1[16],w1,Q1=28,s(-30950),s(-31026)L1=j[Q1]W1[25],Q1=80,s(-30945)G1=L1[Q1]Q1=80 L1=G1(Q1,u1,Y1)G1,Y1=s(-31182),s(-31026)u1=j[Y1]Y1,W1[1]=s(-30945),20 Q1=u1[Y1]Y1=180 u1=Q1(Y1,i1,S1)S1=s(-31026)i1=j[S1]Q1,S1=s(-31602),s(-30945)Y1=i1[S1]S1=10 i1=Y1(S1,b1,P1)Y1,P1=s(-31003),s(-31026)b1=j[P1]P1=s(-30945)S1=b1[P1]W1[62],P1=s(-31120),20 b1=S1(P1,T1,W1[1])W1[1],W1[4],S1=s(-31026),25,s(-30885)T1=j[W1[1]]W1[1]=s(-30945)P1=T1[W1[1]]W1[1]=25 T1=P1(W1[1],W1[2],W1[3])W1[3]=s(-31026)W1[2]=j[W1[3]]P1,W1[3],W1[73],W1[17]=s(-30954),s(-30945),s(-31124),18 W1[1]=W1[2][W1[3]]W1[3]=15 W1[2]=W1[1](W1[3],W1[4],W1[5])W1[1],W1[5]=s(-31538),s(-31026)W1[4]=j[W1[5]]W1[5]=s(-30945)W1[3]=W1[4][W1[5]]W1[5]=40 W1[4]=W1[3](W1[5],W1[6],W1[7])W1[3],W1[7]=s(-30958),s(-31026)W1[6]=j[W1[7]]W1[7]=s(-30945)W1[5]=W1[6][W1[7]]W1[7]=30 W1[6]=W1[5](W1[7],W1[8],W1[9])W1[57],W1[9],W1[5]=s(-31366),s(-31026),s(-31038)W1[8]=j[W1[9]]W1[9]=s(-30945)W1[7]=W1[8][W1[9]]W1[83],W1[9]=s(-31573),30 W1[8]=W1[7](W1[9],W1[10],W1[11])W1[11],W1[7]=s(-31026),s(-31113)W1[10]=j[W1[11]]W1[11],W1[86]=s(-30945),s(-30962)W1[9]=W1[10][W1[11]]W1[11]=50 W1[10]=W1[9](W1[11],W1[12],W1[13])W1[13],W1[9]=s(-31026),s(-31305)W1[12]=j[W1[13]]W1[13],W1[110]=s(-30945),s(-31178)W1[11]=W1[12][W1[13]]W1[15],W1[13]=60,60 W1[12]=W1[11](W1[13],W1[14],W1[15])W1[11],W1[15]=s(-31031),s(-31026)W1[14]=j[W1[15]]W1[15],W1[22]=s(-30945),230 W1[13]=W1[14][W1[15]]W1[108],W1[15]=s(-31568),18 W1[14]=W1[13](W1[15],W1[16],W1[17])W1[17]=s(-31026)W1[16]=j[W1[17]]W1[17],W1[13],W1[47]=s(-30945),s(-31340),s(-31300)W1[15]=W1[16][W1[17]]W1[17]=50 W1[16]=W1[15](W1[17],W1[18],W1[19])W1[26],W1[19],W1[36]=100,s(-31026),70 W1[18]=j[W1[19]]W1[15],W1[19]=s(-30891),s(-30945)W1[17]=W1[18][W1[19]]W1[19]=60 W1[18]=W1[17](W1[19],W1[20],W1[21])W1[17],W1[21]=s(-31579),s(-31026)W1[20]=j[W1[21]]W1[21],W1[98]=s(-30945),s(-31284)W1[19]=W1[20][W1[21]]W1[46],W1[21],W1[67]=s(-31580),70,s(-30970)W1[20]=W1[19](W1[21],W1[22],W1[23])W1[23],W1[19]=s(-31026),s(-31051)W1[22]=j[W1[23]]W1[23]=s(-30945)W1[21]=W1[22][W1[23]]W1[23]=80 W1[22]=W1[21](W1[23],W1[24],W1[25])W1[25],W1[21]=s(-31026),s(-31205)W1[24]=j[W1[25]]W1[25]=s(-30945)W1[23]=W1[24][W1[25]]W1[25]=40 W1[24]=W1[23](W1[25],W1[26],W1[27])W1[27]=s(-31026)W1[26]=j[W1[27]]W1[94],W1[27],W1[23]=s(-30999),s(-30945),s(-30910)W1[25]=W1[26][W1[27]]W1[43],W1[27]=s(-31322),35 W1[26]=W1[25](W1[27],W1[28],W1[29])W1[29]=s(-31026)W1[28]=j[W1[29]]W1[25],W1[29]=s(-31539),s(-30945)W1[27]=W1[28][W1[29]]W1[29]=25 W1[28]=W1[27](W1[29],W1[30],W1[31])W1[27],W1[31]=s(-31397),s(-31026)W1[30]=j[W1[31]]W1[31],W1[80]=s(-30945),s(-31362)W1[29]=W1[30][W1[31]]W1[31]=18 W1[30]=W1[29](W1[31],W1[32],W1[33])W1[29],W1[33]=s(-31411),s(-31026)W1[32]=j[W1[33]]W1[33]=s(-30945)W1[31]=W1[32][W1[33]]W1[33]=18 W1[32]=W1[31](W1[33],W1[34],W1[35])W1[31],W1[53],W1[35]=s(-31216),s(-31437),s(-31026)W1[34]=j[W1[35]]W1[35]=s(-30945)W1[33]=W1[34][W1[35]]W1[35]=40 W1[34]=W1[33](W1[35],W1[36],W1[37])W1[33],W1[37]=s(-31095),s(-31026)W1[36]=j[W1[37]]W1[79],W1[37]=s(-30978),s(-30945)W1[35]=W1[36][W1[37]]W1[37]=120 W1[36]=W1[35](W1[37],W1[38],W1[39])m7={[c7]=o7;[D7]=A7;[t7]=h7,[E7]=k7;[d7]=Z7,[n7]=s1,[j1]=e1;[V1]=U1,[w1]=L1,[G1]=u1,[Q1]=i1,[Y1]=b1;[S1]=T1;[P1]=W1[2];[W1[1]]=W1[4],[W1[3]]=W1[6];[W1[5]]=W1[8];[W1[7]]=W1[10],[W1[9]]=W1[12],[W1[11]]=W1[14],[W1[13]]=W1[16];[W1[15]]=W1[18],[W1[17]]=W1[20],[W1[19]]=W1[22];[W1[21]]=W1[24],[W1[23]]=W1[26],[W1[25]]=W1[28],[W1[27]]=W1[30];[W1[29]]=W1[32];[W1[31]]=W1[34];[W1[33]]=W1[36]}U1,n7,W1[32],s1,j1,t7=s(-31294),s(-31576),s(-30917),s(-31004),s(-30952),s(-31292)c7=u[k]W1[102],k7,W1[95],h7,V1,W1[39],E7,b1,W1[37],Z7,w1,W1[85],L1,T1,P1,G1,W1[70]=s(-31107),s(-31166),s(-31229),s(-31179),s(-31553),s(-31444),s(-31381),s(-31525),s(-31064),s(-31200),16036658>9232373,s(-31108),s(-31099),s(-31052),s(-31551),9708958~=11303427,s(-31136)e1,D7,W1[29],d7,i1,S1,W1[5],W1[21],Y1,u1=s(-30876),s(-31382),s(-31207),s(-31016),s(-31388),s(-31520),s(-31039),s(-31302),452411<=11482754,s(-31455)Q1,W1[111],D7,A7={[u1]=Y1;[i1]=S1,[b1]=P1},s(-31534),c7[D7],s(-31342)o7={[t7]=A7,[E7]=h7,[d7]=k7,[n7]=Z7,[j1]=m7,[s1]=V1,[e1]=w1;[U1]=G1,[L1]=Q1}A7=s(-30986)D7=D7(c7,o7)E7,o7,c7,e1,t7=s(-31035),s(-31163),s(-31467),s(-31405),s(-31176)U1,h7=s(-31135),s(-31440)G1=y(12583040,{L7})c7=D7[c7]c7=c7(D7,o7,t7)t7=s(-31354)o7=s(-31509)o7,d7,n7,W1[22],W1[30],W1[92]=c7[o7],s(-31570),s(-31443),s(-30974),s(-31355),s(-31591)o7=o7(c7,t7)j1=y(4068954,{Z})W1[97],t7,w1,o7=s(-31090),{[A7]=E7,[h7]=d7},s(-31183),s(-31296)o7,h7,k7,V1,W1[100]=c7[o7],s(-31501),s(-31405),100,s(-31282)o7=o7(c7,t7)Z7,d7,o7=s(-31135),12860880>=14908264,s(-31231)o7,A7,E7=c7[o7],s(-31292),s(-31035)t7,W1[45]={[A7]=E7;[h7]=d7;[k7]=n7,[Z7]=j1},s(-31232)k7,E7,j1,W1[28],s1,W1[77],h7,Z7,n7,W1[16],W1[65]=0,s(-31478),s(-31217),s(-31513),s(-31501),s(-31220),s(-31309),s(-30936),200,s(-31424),s(-30930)d7={k7,n7}n7,A7=5,s(-31292)o7=o7(c7,t7)k7,o7=s(-31446),s(-31404)o7,W1[1],t7=c7[o7],s(-30898),{[A7]=E7,[h7]=d7;[k7]=n7,[Z7]=j1,[s1]=V1;[e1]=w1,[U1]=G1}E7,h7,s1,n7,Z7=s(-31523),s(-31501),s(-31501),s(-31450),s(-31135)j1=N(11661253,{V7})W1[3]=s(-31548)o7=o7(c7,t7)A7,W1[15],d7,k7,o7,W1[25]=s(-31292),s(-31492),14237057<=11009328,s(-31405),s(-31231),s(-31097)o7,t7=c7[o7],{[A7]=E7,[h7]=d7;[k7]=n7;[Z7]=j1}o7=o7(c7,t7)W1[9],E7,W1[26],h7,d7,A7,o7,W1[7]=s(-31457),s(-31288),s(-31262),s(-31501),2167352<607853,s(-31292),s(-31231),s(-30928)j1=g(8702443,{U7})k7,Z7,o7,w1,P1,W1[4],U1,W1[84],n7=s(-31405),s(-31135),c7[o7],s(-31480),s(-31209),s(-31392),s(-31135),s(-31563),s(-31436)t7={[A7]=E7,[h7]=d7;[k7]=n7,[Z7]=j1}o7=o7(c7,t7)t7,o7,Z7,k7,A7,d7,e1,h7,b1=s(-31021),s(-31509),s(-31135),s(-31405),s(-31292),6655360<3177819,s(-31405),s(-31501),s(-30915)o7=c7[o7]j1=l(5786602,{e7})o7=o7(c7,t7)Q1,W1[8],W1[13],n7,o7=s(-31344),s(-31504),s(-31384),s(-30886),s(-31231)G1=X(6861435,{Y7})W1[19],E7,o7=s(-30985),s(-31595),c7[o7]t7,W1[51]={[A7]=E7,[h7]=d7;[k7]=n7;[Z7]=j1},s(-31137)k7,A7,h7,E7,n7=500,s(-31292),s(-31309),s(-31066),5000 o7=o7(c7,t7)Y1,d7,V1,Z7,W1[61],o7,j1=s(-30908),{k7;n7},1000,s(-30936),s(-30927),s(-31404),s(-31217)n7,o7,k7,W1[60]=100,c7[o7],s(-31446),s(-30995)t7={[A7]=E7;[h7]=d7;[k7]=n7;[Z7]=j1;[s1]=V1,[e1]=w1;[U1]=G1}h7=s(-31135)d7=N(12709781,{v7;k})k7,n7=s(-31405),s(-31594)o7=o7(c7,t7)E7,W1[6],A7,W1[33],w1,W1[104],o7=s(-31155),s(-31430),s(-31292),s(-31147),s(-30943),s(-31321),s(-31048)t7,W1[89],e1,o7,W1[12]={[A7]=E7,[h7]=d7},s(-31032),s(-31405),c7[o7],s(-31500)A7=s(-31292)o7=o7(c7,t7)W1[44],o7,h7,t7=s(-30931),s(-31509),s(-31501),s(-31351)o7,d7=c7[o7],15818299<2603189 j1=N(2803640,{w7})Z7,E7=s(-31135),s(-31129)o7=o7(c7,t7)o7=s(-31231)o7,W1[48],t7,W1[17]=c7[o7],s(-31433),{[A7]=E7,[h7]=d7,[k7]=n7;[Z7]=j1},s(-31027)h7=s(-31135)d7=g(2336175,{I7,k})n7,E7,Z7,S1,A7=s(-30988),s(-31084),s(-31135),s(-30967),s(-31292)o7=o7(c7,t7)t7,o7={[A7]=E7;[h7]=d7},s(-31048)o7=c7[o7]j1=O(7118749,{n})o7=o7(c7,t7)E7,k7,t7,h7,d7,o7,W1[18],W1[58],A7=s(-31361),s(-31405),s(-31468),s(-31501),12597666<=418941,s(-31509),s(-31213),s(-31313),s(-31292)o7,W1[54]=c7[o7],s(-31189)o7=o7(c7,t7)o7=s(-31231)o7,t7,L1=c7[o7],{[A7]=E7,[h7]=d7;[k7]=n7;[Z7]=j1},s(-31587)n7,A7,E7,k7,Z7,d7,W1[27]=s(-31001),s(-31292),s(-31269),s(-31405),s(-31135),13682539>=16774473,s(-30955)o7=o7(c7,t7)W1[88]=s(-31410)j1=y(10311166,{s7})h7=s(-31501)t7={[A7]=E7;[h7]=d7,[k7]=n7;[Z7]=j1}A7,E7,o7,h7=s(-31292),s(-31572),s(-31231),s(-31135)j1=g(8350445,{j7})o7=c7[o7]o7=o7(c7,t7)d7=g(8284125,{C7;k,y7})W1[112],W1[20],t7,o7,Z7=s(-31266),s(-31386),{[A7]=E7;[h7]=d7},s(-31048),s(-31135)o7,n7,d7=c7[o7],s(-31297),5443310<=3475385 o7=o7(c7,t7)k7=s(-31405)G1=N(6480939,{B7})V1,E7,A7,t7,o7=5,s(-31407),s(-31292),s(-31326),s(-31509)o7,h7,u1=c7[o7],s(-31501),s(-31324)o7=o7(c7,t7)t7,W1[2],o7={[A7]=E7,[h7]=d7;[k7]=n7,[Z7]=j1},s(-31449),s(-31231)Z7,i1,s1,E7,d7,k7,h7=s(-31135),s(-31540),s(-31501),s(-31310),4674872<=13754968,s(-31405),s(-31501)j1=g(9406999,{f7})o7,A7=c7[o7],s(-31292)o7=o7(c7,t7)U1,W1[10],o7,t7,n7=s(-31135),s(-31555),s(-31509),s(-31234),s(-31175)o7,W1[71],W1[31]=c7[o7],s(-31596),s(-31089)o7=o7(c7,t7)t7={[A7]=E7;[h7]=d7;[k7]=n7,[Z7]=j1}A7,o7,k7,h7,n7,E7=s(-31292),s(-31231),1,s(-31309),30,s(-30877)d7={k7;n7}n7,j1,Z7,o7,k7,W1[14],W1[36],W1[114]=1,s(-31194),s(-30936),c7[o7],s(-31446),s(-31130),s(-30998),s(-30872)o7=o7(c7,t7)t7,o7={[A7]=E7,[h7]=d7,[k7]=n7,[Z7]=j1;[s1]=V1;[e1]=w1;[U1]=G1},s(-31404)n7,W1[35],h7,W1[34],Z7,o7,j1,G1,W1[11]=s(-31278),s(-31447),s(-31378),s(-31408),s(-30972),c7[o7],s(-31562),s(-31299),s(-31475)o7=o7(c7,t7)A7,U1,E7,W1[55],w1,W1[24],d7,W1[90]=s(-31061),s(-31174),s(-31364),s(-31495),s(-31168),s(-31451),s(-31114),s(-31013)t7=u[C]k7,W1[75]=s(-31109),s(-30976)o7=v(t7,A7)W1[38]=s(-31065)A7=i()s1,W1[49]=s(-30905),s(-31215)t7=i()e1=s(-31335)u[t7]=o7 o7,W1[93],V1=2665442>=5025048,s(-30996),s(-31581)u[A7]=o7 W1[23]=s(-31235)o7={E7;h7;d7,k7;n7;Z7;j1,s1,V1;e1;w1,U1;G1;L1,Q1;u1;Y1;i1,S1;b1,P1,T1,W1[1],W1[2],W1[3],W1[4];W1[5],W1[6];W1[7],W1[8];W1[9],W1[10];W1[11],W1[12];W1[13],W1[14],W1[15],W1[16];W1[17];W1[18];W1[19];W1[20];W1[21],W1[22],W1[23];W1[24];W1[25],W1[26];W1[27];W1[28],W1[29],W1[30],W1[31],W1[32],W1[33],W1[34],W1[35];W1[36];W1[37],W1[38];W1[39];W1[40],W1[41],W1[42];W1[43];W1[44],W1[45];W1[46];W1[47],W1[48];W1[49],W1[50];W1[51],W1[52],W1[53],W1[54];W1[55];W1[56];W1[57],W1[58],W1[59];W1[60];W1[61],W1[62];W1[63];W1[64],W1[65];W1[66],W1[67];W1[68];W1[69],W1[70];W1[71];W1[72],W1[73],W1[74];W1[75],W1[76];W1[77];W1[78],W1[79],W1[80],W1[81],W1[82];W1[83];W1[84];W1[85],W1[86],W1[87],W1[88],W1[89];W1[90];W1[91];W1[92],W1[93],W1[94];W1[95],W1[96],W1[97],W1[98];W1[99],W1[100],W1[101];W1[102];W1[103];W1[104];W1[105],W1[106],W1[107];W1[108];W1[109],W1[110],W1[111],W1[112];W1[113];W1[114],W1[115],W1[116]}E7=i()u[E7]=o7 n7,s1,d7=s(-30986),s(-30926),s(-31187)o7=i()k7=s(-31250)h7=O(8789894,{t7,E7})P1=s(-30975)u[o7]=h7 j1,h7=s(-31440),s(-31467)h7=D7[h7]h7=h7(D7,d7,k7)U1=N(16533191,{A7})k7,W1[3],d7,W1[2],Z7=s(-31341),s(-31329),s(-31509),s(-31121),s(-31046)W1[5],W1[6],d7=s(-30942),s(-31531),h7[d7]d7=d7(h7,k7)k7,V1,Y1,d7,W1[7]={[n7]=Z7;[j1]=s1},s(-31405),s(-31018),s(-31296),s(-31414)d7,Q1,n7,s1,Z7,L1,j1,e1,w1=h7[d7],s(-31197),s(-31292),11063582>14889941,s(-31285),s(-30895),s(-31501),s(-31264),s(-31135)d7=d7(h7,k7)k7,d7={[n7]=Z7;[j1]=s1,[V1]=e1;[w1]=U1},s(-31231)d7=h7[d7]d7=d7(h7,k7)d7,j1=s(-31048),s(-31135)s1=g(14455994,{o7;k})d7,n7,V1,Z7=h7[d7],s(-31292),s(-30949),s(-31369)k7={[n7]=Z7,[j1]=s1}j1=s(-31119)d7=d7(h7,k7)n7,u1=s(-30934),s(-30893)k7=j[n7]n7=s(-31060)d7=k7[n7]i1=s(-31479)n7=N(11939397,{A7,o7})k7=d7(n7)b1,W1[1],n7,Z7,k7,d7=s(-30906),s(-31371),s(-31389),s(-31068),s(-31081),s(-31467)d7,w1=D7[d7],s(-31122)d7=d7(D7,k7,n7)e1,U1,n7,s1,k7=s(-31239),s(-31063),s(-31006),s(-31483),s(-31509)k7=d7[k7]k7=k7(d7,n7)T1,n7,G1,S1,W1[4]=s(-30874),s(-31601),s(-31193),s(-31243),s(-30907)k7={n7,Z7,j1,s1,V1,e1;w1,U1;G1;L1,Q1,u1,Y1;i1,S1,b1;P1,T1,W1[1];W1[2],W1[3],W1[4],W1[5];W1[6];W1[7]}u1,Y1,n7=s(-31257),s(-31135),1 Z7=i()i1=X(5407631,{Z7})e1=s(-30969)u[Z7]=n7 G1=s(-31601)U1,Q1,L1,w1,s1,n7={G1},s(-31405),13449397<3915579,s(-31072),s(-31292),s(-31184)n7,G1,V1=d7[n7],s(-31456),s(-31230)j1={[s1]=V1,[e1]=k7;[w1]=U1,[G1]=L1;[Q1]=u1,[Y1]=i1}s1=s(-31292)w1=O(4196224,{C7;Z7,k;y7})Q1=s(-31135)n7=n7(d7,j1)U1,V1,n7,e1=s(-30896),s(-31393),s(-31048),s(-31135)n7,j1=d7[n7],{[s1]=V1;[e1]=w1}V1,s1=s(-30986),s(-31253)n7=n7(d7,j1)n7,j1=s(-31467),s(-31188)n7,w1=D7[n7],s(-31440)n7=n7(D7,j1,s1)s1,e1,j1=s(-30980),s(-31438),s(-31509)j1=n7[j1]j1=j1(n7,s1)j1,s1=s(-31296),{[V1]=e1;[w1]=U1}e1,L1,U1,j1=s(-31292),s(-30919),s(-31135),n7[j1]j1=j1(n7,s1)s1=i()w1=s(-31192)G1=O(13475743,{h,x7;s1})u[s1]=j1 V1,j1={[e1]=w1,[U1]=G1},s(-31048)j1=n7[j1]j1=j1(n7,V1)j1,G1=s(-31509),s(-30959)j1,U1,e1,V1=n7[j1],s(-31440),s(-30986),s(-30897)j1=j1(n7,V1)j1,w1=s(-31296),s(-31244)V1={[e1]=w1;[U1]=G1}U1,G1,w1,j1=s(-30971),s(-31292),s(-30934),n7[j1]j1=j1(n7,V1)V1=i()u[V1]=j1 e1=j[w1]w1=s(-31060)j1=e1[w1]w1=g(1350259,{V1;x7,S7;b7,P7,R7,d})e1=j1(w1)w1,e1,j1=s(-31339),s(-31258),s(-31467)j1=D7[j1]j1=j1(D7,e1,w1)e1,w1=s(-31509),s(-31146)e1=j1[e1]e1=e1(j1,w1)w1=u[C]e1=v(w1,U1)w1=i()u[w1]=e1 e1=s(-31048)u1=N(13340984,{w1,k;P;C7;y7})U1={[G1]=L1;[Q1]=u1}u1,Q1,L1,G1,e1=s(-31603),s(-31440),s(-31461),s(-30986),j1[e1]e1=e1(j1,U1)e1,U1=s(-31296),{[G1]=L1,[Q1]=u1}e1,G1=j1[e1],s(-31409)e1=e1(j1,U1)e1=s(-31467)Y1=N(10769154,{T7,k})U1,u1,e1=s(-30929),s(-31135),D7[e1]e1=e1(D7,U1,G1)Q1,G1=s(-31526),s(-31017)U1,L1=s(-31509),s(-31292)U1=e1[U1]U1=U1(e1,G1)U1,G1=s(-31048),{[L1]=Q1,[u1]=Y1}U1=e1[U1]U1=U1(e1,G1)u1=s(-31135)Y1=O(8505130,{p7;k;C7})L1,Q1,U1=s(-31292),s(-30966),s(-31048)U1,G1=e1[U1],{[L1]=Q1;[u1]=Y1}Q1,u1=s(-31011),s(-31135)U1=U1(e1,G1)Y1=y(16652482,{g7,k;X7})L1,U1=s(-31292),s(-31048)G1={[L1]=Q1,[u1]=Y1}Q1,u1,U1=s(-31521),s(-31135),e1[U1]U1=U1(e1,G1)L1=s(-31292)Y1=N(812871,{F,k})G1,U1={[L1]=Q1,[u1]=Y1},s(-31048)U1=e1[U1]U1=U1(e1,G1)L1,U1,G1=s(-31292),s(-31055),s(-31094)U1,Q1=e1[U1],s(-31325)U1=U1(e1)Y1=y(1815375,{a7,k})U1=s(-31509)U1=e1[U1]U1=U1(e1,G1)u1=s(-31135)G1,U1={[L1]=Q1,[u1]=Y1},s(-31048)Y1=g(1715513,{a7;k})u1,U1,L1=s(-31135),e1[U1],s(-31292)U1=U1(e1,G1)U1,Q1=s(-31048),s(-31505)G1,U1={[L1]=Q1;[u1]=Y1},e1[U1]Y1=N(13801224,{a7,k})u1,L1=s(-31135),s(-31292)U1=U1(e1,G1)Q1,U1=s(-31088),s(-31048)U1,G1=e1[U1],{[L1]=Q1;[u1]=Y1}L1=s(-31292)Y1=N(6390156,{a7,k})U1=U1(e1,G1)Q1,u1=s(-31402),s(-31135)G1={[L1]=Q1;[u1]=Y1}u1,Q1,U1=s(-31135),s(-31346),s(-31048)Y1=l(7810108,{z7;k})L1,U1=s(-31292),e1[U1]U1=U1(e1,G1)U1,G1=s(-31048),{[L1]=Q1,[u1]=Y1}Q1=s(-31067)Y1=O(13622662,{v7;k})U1,L1=e1[U1],s(-31292)U1=U1(e1,G1)u1=s(-31135)G1={[L1]=Q1;[u1]=Y1}Q1,U1=s(-31152),s(-31048)U1=e1[U1]U1=U1(e1,G1)U1=s(-31055)U1,G1=e1[U1],s(-31546)U1=U1(e1)U1=s(-31509)Y1=O(4260765,{G7,k,F,y7})L1,U1,u1=s(-31292),e1[U1],s(-31135)U1=U1(e1,G1)U1=s(-31048)U1,G1=e1[U1],{[L1]=Q1,[u1]=Y1}L1,u1=s(-31292),s(-31135)Y1=l(6996098,{G7;k})Q1=s(-31254)U1=U1(e1,G1)U1=s(-31048)U1,G1=e1[U1],{[L1]=Q1;[u1]=Y1}U1=U1(e1,G1)L1=s(-31292)Y1=O(439161,{C;H,z,a,I;R;m,c,t;F;k})u1,U1=s(-31135),s(-31055)U1,Q1=e1[U1],s(-31268)U1=U1(e1)U1,G1=s(-31509),s(-31260)U1=e1[U1]U1=U1(e1,G1)U1=s(-31048)U1,G1=e1[U1],{[L1]=Q1;[u1]=Y1}U1=U1(e1,G1)U1={}G1=u[z]V=G1 and 6395450 or 9575640 elseif V<9229898 then C=s(-30934)H=i()Q=j[C]C=s(-31126)V=Q[C]C=3 Q=V(C)V=nil C=i()u[C]=V V=nil u[H]=V Q=s(-31367)V=j[Q]a=s(-31191)a=b[a]z={a(b)}a={V(e(z))}V,v,F,Q=5220145,a[2],a[3],a[1]z=Q elseif 9264326>V then V=u[U[3]]Q=V(C)Q=u[U[1]]V=C<Q V=V and 4789802 or 868611 else V=12472002<=6000182 Q={V}V=j[s(-31133)]end else if V<8970857 then R,V=nil,6445083 elseif V<8996289 then V=14067849<=9340449 Q={V}V=j[s(-31360)]elseif V<9046918 then x,V=I,13241603 u[H]=x else V,Q=j[s(-31014)],{}end end else if 9341835>V then if V<9287894 then C,v=b(P,C)V=C and 13682749 or 15633061 elseif V<9304176 then z=not v F,V=z,2542466 elseif V<9323030 then P,Y,S,C,b=s(-31172),s(-31173),6,s(-31485),s(-31091)Q={[Y]=S;[b]=P}S,v,P,a,b,F=s(-31173),s(-30983),s(-31091),s(-31042),8,s(-31199)Y,H={[S]=b;[P]=C},s(-31076)b,C,P=s(-31173),s(-31091),10 S={[b]=P,[C]=H}P,H,C=s(-31173),s(-31091),12 b={[P]=C;[H]=v}C,I,v,H=s(-31173),s(-31462),s(-31091),14 P={[C]=H,[v]=F}H,F,z,v=s(-31173),s(-31091),s(-30937),16 C={[H]=v,[F]=z}v,F,z=s(-31173),18,s(-31091)H={[v]=F;[z]=a}z,F,a=21,s(-31173),s(-31091)v={[F]=z,[a]=I}V={Q,Y;S,b,P;C,H,v}P,b,H=s(-30991),s(-30986),s(-31071)Y=i()u[Y]=V v=s(-31204)V=u[U[2]]C,z,F,a=s(-31440),s(-31185),5,s(-31339)S,Q={[b]=P;[C]=H;[v]=F,[z]=a},s(-31079)Q=V[Q]Q=Q(V,S)S=s(-30934)Q=j[S]S=s(-31060)V=Q[S]S=y(8511066,{U[3],U[2],U[4];Y;U[5],U[1]})Q=V(S)Q={}Y=T(Y)V=j[s(-31228)]else V=r V=B and 15713237 or 2223536 end else if V<9375353 then Y=u[U[1]]b,V=s(-31434),j[s(-30890)]S=Y(b)Y=1 Q=S or Y Y=Q Q=u[U[2]]S={Q(Y)}Q={e(S)}elseif 9401975>V then V,Q1=7065143,s(-31171)L1=j[Q1]Q1=s(-31316)G1=L1[Q1]Q1=s(-31349)L1=G1(U1,Q1)elseif V<9408066 then Q,Y={},w[1]V=Y Y=nil u[U[1]]=V V=j[s(-30871)]else V=nil Q={V}V=j[s(-31558)]end end end end end else if V<11163752 then if 10399183>V then if V>10156917 then if 10285200>V then if V<10163020 then b=s(-31202)Q=j[b]b=s(-31448)V=Q[b]Q=V(S)V=4695969 elseif 10167797>V then D=s(-31564)m=u[r]c=s(-31161)c=m[c]c=c(m,D)V=c and 7969676 or 434985 elseif 10213796>V then C=s(-31053)Q=j[C]C=s(-30892)V=Q[C]C=s(-30916)Q={V(C,P)}Q,V={e(Q)},j[s(-31041)]else q,V=s(-31292),5390723 f=I[q]q=s(-31506)r=f==q R=r end else if V<10320040 then Y=w[1]V=Y u[U[1]]=V Y,Q,V=nil,{},j[s(-31196)]elseif 10351635>V then b=s(-31054)Q=j[b]b=s(-31448)V=Q[b]Q=V(S)V=4695969 elseif V<10382715 then V,b=13105082,nil else C=s(-31054)P=j[C]C=s(-31448)b=P[C]V,Q=12551786,b end end else if V<9987644 then if V<9890854 then V=12369771<=10757224 Q={V}V=j[s(-31287)]elseif V<9908906 then H,V=s(-30934),16775128 P=j[H]H=s(-31126)b=P[H]H=2 P=b(H)elseif 9921070>V then V,z,F=j[s(-31274)],s(-31134),s(-30981)v=j[F]Q={}F=v(z)else V=q V=f and 11029247 or 7268259 end else if V<10077845 then H=1 C=S[H]P=V V,b=C and 3001462 or 6124319,C elseif 10109445>V then V,v,z,F,Y=15394334<=6438175,s(-31204),s(-31185),3,s(-31079)u[U[2]]=V a,H,C,P=s(-31057),s(-30982),s(-31440),s(-31075)Q=u[U[4]]V,b=j[s(-31117)],s(-30986)S,Y={[b]=P,[C]=H,[v]=F;[z]=a},Q[Y]Y=Y(Q,S)Q={}elseif 10133103>V then J=s(-30934)R=u[U[3]]x=R(F)x=j[J]J=s(-31126)R=x[J]V,J=13635154,.1 x=R(J)else P=S V=u[U[2]]Q=u[Y]V[Q]=P V=u[U[3]]Q=u[Y]H=s(-31359)C=j[H]H=s(-31530)P=C[H]C=P()V[Q]=C V,Q=j[s(-31583)],{S}end end end else if V<10910065 then if V<10627818 then if V<10473859 then Q,S=s(-31327),s(-31044)V=j[Q]Y=j[S]Q=V(Y)S=i()Y=Q P=W(11084660,{S})Q=s(-31315)V=Y[Q]u[S]=V Q=s(-31263)V=j[Q]b=337264>=11175737 Q=V(Y,b)b,V=s(-31508),s(-31315)Q=j[b]b=Q(P)Y[V]=b b,Q=6529587~=10436958,s(-31263)S=T(S)V=j[Q]Q=V(Y,b)Q,Y,V={},nil,j[s(-31024)]elseif V<10550959 then C,H=s(-31245),5 P=j[C]C=s(-31552)Q=P[C]V=13691034 C=Y+H H=30 P=Q(C,H)Y=P elseif V<10569907 then V,Q1=12176431,s(-31171)L1=j[Q1]Q1=s(-31316)G1=L1[Q1]Q1=s(-31326)L1=G1(U1,Q1)else Q1=s(-31171)L1=j[Q1]Q1,V=s(-31316),4061961 G1=L1[Q1]Q1=s(-31394)L1=G1(U1,Q1)end else if V<10716473 then Y=s(-30934)Q=j[Y]Y=s(-31126)V=Q[Y]Y=u[U[3]]Q=V(Y)V=8027485 elseif 10762393>V then Q=s(-30994)V=j[Q]Y=u[U[1]]Q=V(Y)V=766642 elseif 10837206>V then b=s(-30986)V=u[U[1]]Q=V()F,a,Y=s(-31557),s(-31307),Q H=Y and F V=u[U[2]]z,C,v,I=V,V,V,V C,v=s(-31440),s(-31474)P,F,J=H or v,Y and a,s(-31057)v,x,z=V,V,s(-30887)x,H,v=s(-31286),F or z,s(-31204)z,F,R,Q=s(-31185),3,Y and J,s(-31079)Q,a=V[Q],R or x S={[b]=P;[C]=H,[v]=F;[z]=a}Q=Q(V,S)Q,V,Y={},j[s(-30918)],nil else S,Y,V=nil,nil,4873000 end end else if V<11064133 then if V<10946399 then C=s(-30934)b=j[C]V,C=7882903,s(-31126)S=b[C]b=S(Y)elseif V<11003587 then S=s(-31359)Q=j[S]S=s(-31530)V=Q[S]Q=V()S=Q C=u[U[2]]H=u[Y]P=C[H]C=nil b=P~=C V,Q=b and 14872142 or 11203509,b elseif V<11042619 then V,f=7268259,I u[C]=f else V=J and 9871549 or 14693946 end else if 11078468>V then V,q=8956937,I u[H]=q elseif 11122509>V then Y,Q=w[1],s(-31541)V=j[Q]H,S=s(-31086),{L(2,e(w))}Q=V()b,V=Q,{e(S)}C=b==H Q,P=C,V V=C and 6365745 or 9711117 else v=C V=i()u[V]=F F=V a=u[F]V,z=a and 15139272 or 13330358,a end end end end else if V<11652896 then if V>11325520 then if 11445042>V then if 11383574>V then F=u[U[2]]V,z=1804264,s(-31370)z=F[z]z=z(F)H=z elseif 11421502>V then S=1 Q=u[U[3]]V=Q+S Q=9793163>=172275 Q={Q}u[U[3]]=V V=j[s(-31345)]elseif 11431601>V then Q,V={},j[s(-30997)]else P=s(-31202)b=j[P]Q,V=b,b and 14222071 or 13605175 end else if 11458660>V then S,Y,V,Q=nil,nil,j[s(-31598)],{}elseif V<11513563 then V=422286 C=u[Y]P=S>C Q=P elseif V<11603902 then C=Q V=C and 12150671 or 15905152 else V=b u[U[1]]=V V=3149303 end end else if 11201384>V then if V<11167505 then V,Q=j[s(-31328)],{}elseif V<11170037 then V=13002397>2806730 V=V and 12839329 or 641411 elseif V<11185735 then V=u[U[1]]b,Y=s(-31466),s(-31368)b=V[b]S=u[U[2]]Q={b(V,Y,S)}Q,V={e(Q)},j[s(-31575)]else C=s(-31044)Q=j[C]C=s(-30973)V=Q[C]Q=s(-31476)Q=V[Q]Q=Q(V)V=9203488 end else if V<11228840 then V=Q and 14313131 or 6679951 elseif V<11261292 then Q=1000.0 V=Y>=Q V=V and 5225526 or 6619560 elseif V<11284365 then a,I,V=nil,nil,5220145 else P=s(-31599)Q=u[U[4]]V=Q[P]P=V Q,V=P,P and 1297267 or 11563265 end end end else if 11942900>V then if 11761597>V then if V<11681440 then Y=w[1]V=Y Y=nil u[U[1]]=V Q,V={},j[s(-31251)]elseif 11714496>V then Q=u[U[1]]Y,V=w[1],not Q V=V and 9272344 or 1959702 elseif V<11743897 then V=0 b,Q=V,s(-31367)V=j[Q]H={V(Y)}V,C,Q,P=2075397,H[3],H[1],H[2]H=Q else V=u[U[1]]V=V and 2140906 or 4873000 end else if 11822130>V then V=u[U[2]]S=s(-31464)Y=u[U[1]]Q=V(Y,S)Y=Q V=Y and 14504665 or 7998064 elseif V<11886027 then V,Q=6673197,S u[Y]=Q elseif 11914977>V then V=9593125 F=u[U[3]]z=u[Y]v=F[z]H=S-v v=u[U[4]]C=H<v b=C else V=5 Y=V V=7882903 end end else if V>12120939 then if 12163551>V then F,v,V=s(-31401),s(-31069),s(-31069)H=j[v]v,a=s(-31490),s(-31544)Q=H[v]v=b[F]z=C[a]a=s(-31240)F=z[a]a=s(-31160)z=b[a]H=Q(v,F,z)C[V]=H V=15905152 elseif V<12178917 then G1=u[R]V=G1 and 10578322 or 4061961 else V=nil Q={V}V=j[s(-31177)]end else if V<11995037 then V=u[U[3]]F=V(v)z=s(-30934)F=j[z]z=s(-31126)V=F[z]z=.05 F=V(z)V=12414572 elseif V<12066135 then V=S and 6058193 or 16594430 elseif V<12089903 then V=u[U[1]]V=V and 8130988 or 6940733 else H,C,F,R,v,z,Q=s(-31427),s(-30986),s(-31012),s(-31286),s(-31440),s(-31204),s(-31079)V=u[U[2]]a,Q,I=3,V[Q],s(-31185)P={[C]=H;[v]=F,[z]=a,[I]=R}Q=Q(V,P)V,Q=j[s(-30894)],{}end end end end end end else if 14321318>V then if V<13377875 then if 12715299>V then if V<12563982 then if V>12411070 then if V<12446033 then V,v,H=450238,nil,nil elseif 12514640>V then R=u[U[3]]V,I=4271234,s(-31009)x=R()a=I..x F=a elseif V<12552362 then V=Q and 10328914 or 1439672 else z=Y[v]V,H,F=z and 8232093 or 7781289,P,z end else if V<12324455 then V=m V=q and 11072276 or 8956937 elseif V<12375057 then Q,P=s(-31519),s(-31000)P=b[P]V={P(b,Q)}Q={e(V)}V=j[s(-31375)]elseif 12400475>V then V,Q=7357283,b else V=5 Y=V V=13691034 end end else if V<12594113 then if V<12576642 then P=s(-31054)b=j[P]Q,V=b,b and 10391074 or 12551786 elseif 12578955>V then V=nil Q={V}V=j[s(-31112)]elseif 12581346>V then P,Y=s(-30932),s(-31445)V=u[U[1]]b=u[U[2]]S=b[P]b=s(-31466)b=V[b]Q={b(V,Y,S)}V,Q=j[s(-31289)],{e(Q)}else Y,Q=w[1],1000 V=Y/Q u[U[1]]=V Q,V,Y={},j[s(-31224)],nil end else if V<12623945 then b=s(-30934)Q=j[b]b=s(-31126)V=Q[b]b=.5 Q=V(b)Q=s(-30994)V=j[Q]b=u[U[4]]Q=V(b)V=10905258 elseif V<12670385 then V=6568880>13956470 Q={V}V=j[s(-31170)]elseif 12703923>V then Q,V,Y={},j[s(-31249)],nil else V=u[U[1]]P,b,z=s(-30880),s(-30986),s(-31454)Q=V()C,v,a=s(-31440),s(-30903),s(-31582)V=u[U[2]]Y=Q F=Y..z z=s(-31185)H=v..F v,F=s(-31204),3 S,Q={[b]=P;[C]=H,[v]=F;[z]=a},s(-31079)Q,Y=V[Q],nil Q=Q(V,S)V,Q=j[s(-31271)],{}end end end else if V>13031345 then if V<13283495 then if 13130036>V then Q=6699065>3031463 V=S==Q Q={V}V=j[s(-31423)]elseif 13176118>V then P,v,Q=s(-31544),s(-31240),s(-31221)Q,H=b[Q],s(-31401)Q=Q(b)V=Q[P]P,F,C=V,s(-31160),s(-31510)Q=j[C]C=s(-31490)V=Q[C]C=P[H]H=P[v]v=P[F]Q={V(C,H,v)}V,Q=j[s(-31545)],{e(Q)}elseif 13219424>V then V=nil Q={V}V=j[s(-31181)]else V,R=11268412,nil end else if V<13327873 then x,a=s(-30934),1 Q=Y+a V=49170 R=j[x]a,Y=251437<2603272,Q S,x=a,s(-31126)I=R[x]x=.05 R=I(x)elseif 13335671>V then V=z and 14943184 or 2504930 else Q=u[U[1]]V=not Q V=V and 4206896 or 9316144 end end else if 12801521>V then if 12723365>V then b,H=P(S,b)V=b and 6456872 or 2944786 elseif V<12727696 then Q=s(-30994)V=j[Q]P=u[U[1]]C={V(P)}Q,b=C[1],C[2]P=Q V,Q=P and 12393382 or 7357283,P elseif V<12748145 then Q,Y=s(-31044),s(-31356)V=j[Q]Q=s(-31473)Q=V[Q]Q=Q(V,Y)P=s(-30879)Y=i()u[Y]=Q Q=s(-31043)V=j[Q]b=u[Y]S=b[P]Q=V(S)S=Q V,Q=S and 10047975 or 3085232,S else Q=s(-31448)V=j[Q]Q=V(S)V=4695969 end else if 12837781>V then S=s(-31053)Q=j[S]P,S=1e+15,s(-30892)V=Q[S]S=s(-31080)b=Y/P Q={V(S,b)}Q,V={e(Q)},j[s(-31511)]elseif V<12873446 then V=u[U[1]]V=V and 8544497 or 5796222 elseif 12932586>V then S=M(2949695,{U[4]})Q=s(-30994)V=j[Q]Q=V(S)V=Y u[U[2]]=V V=7277112 else B,V=nil,850277 q=T(q)r=T(r)end end end end else if V<13797698 then if 13600156>V then if 13500709>V then if 13436090>V then V=u[U[1]]V=V and 2572739 or 7643959 elseif V<13466578 then c=s(-31544)m=u[r]V=m[c]f=V V=434985 elseif 13476424>V then b=s(-30989)Y=u[U[1]]S=Y(b)Y=0 Q=S or Y S,H,Y=V,s(-31400),Q b=u[U[1]]C=s(-31213)P=b(C)b,F=0,s(-31588)Q=P or b b=V P=u[U[1]]C=P(H)P,q,v,S=0,1.82,s(-31434),Q Q=C or P C=u[U[1]]H=C(v)C,b,P=1,Q,V Q=H or C C=V H=u[U[1]]v=H(F)P,H,K=Q,1,s(-30992)Q=v or H v=s(-31245)H=j[v]C,v=Q,s(-31131)Q=H[v]H=Q(P,C)F=u[U[1]]a,v=s(-31173),V z=F(a)F=1 Q=z or F z=2 F=z^b z,v=500,Q Q=F*z F,z=Q,s(-30939)I=u[U[2]]R=I(Y)I=s(-31472)a=R..I I=s(-31261)Q=z..a x=u[U[2]]C=nil J=x(S)z,x=Q,s(-31472)R=J..x a=I..R R=s(-30944)Q=z..a z=Q r=u[U[2]]f=r(F)r=s(-31338)B=f..r J=K..B Y=nil x=b..J B=s(-31248)I=R..x Q,f,x={},s(-30878),s(-30909)a=z..I r=H..f K=B..r z=a J=v..K R=x..J v=nil I=z..R J,r=s(-31554),s(-31053)B=j[r]S,z,r,P=nil,I,s(-30892),nil K=B[r]f=q^b r=s(-31010)B=K(r,f)r,f,b=s(-31438),s(-31440),nil x=J..B R=z..x x=u[U[3]]B,J,z=s(-30986),s(-31082),R J,K=x[J],{[B]=r;[f]=z}J=J(x,K)H,V,z,F=nil,j[s(-31518)],nil,nil else S,C=b(Y,S)V=S and 7304206 or 9540212 end else if 13534255>V then R=u[U[3]]I,V=s(-30944),6983039 x=R()a=I..x F=a elseif V<13561405 then S={L(2,e(w))}Y=i()u[Y]=w[1]Q=u[Y]V=not Q V=V and 16041522 or 6539859 elseif V<13586875 then K,V=I,1147032 u[H]=K else F,I=z(v,F)V=F and 3989810 or 4788583 end end else if V>13681780 then if V<13686891 then H=C Q=i()u[Q]=v v=Q a=g(4043645,{U[1],v})F=s(-30994)Q=j[F]I={Q(a)}F,z=I[1],I[2]a=V V,Q=F and 5906882 or 4661728,F elseif 13717353>V then S,V,b=nil,10914872,nil elseif 13768923>V then V=Q and 7670143 or 11727364 else Y=u[U[1]]b=s(-31173)S=Y(b)Y=1 Q=S or Y Q,V={Q},j[s(-31512)]end else if V<13613918 then V=Q and 10158803 or 12575026 elseif 13628908>V then V=u[U[1]]Q=V()P,C,b,a,F,z,Y,v=s(-31586),s(-31440),s(-30986),s(-31582),3,s(-31185),Q,s(-31454)V=u[U[2]]H=Y..v v,Q=s(-31204),s(-31079)S,Y,Q={[b]=P;[C]=H;[v]=F;[z]=a},nil,V[Q]Q=Q(V,S)Q,V={},j[s(-30961)]elseif V<13657982 then a,V,I=nil,14580962,nil else S,P,Y,b,Q=s(-31343),s(-31083),s(-31023),s(-31237),s(-30888)V={Q;Y;S;b;P}Q,Y=s(-31367),V V=j[Q]P={V(Y)}V,b,Q,S=12720818,P[3],P[1],P[2]P=Q end end end else if V>14110165 then if 14231870>V then if 14117013>V then K=s(-31292)J=I[K]K=s(-31506)x=J==K R,V=x,7039341 elseif 14149090>V then C,F=H(P,C)V=C and 7225882 or 2896590 elseif 14200685>V then S,Q,Y=s(-31093),s(-31044),w V=j[Q]Q=s(-31473)Q=V[Q]Q=Q(V,S)S=Q Q=s(-31044)V=j[Q]b,Q,C=s(-31358),s(-31473),s(-31044)Q=V[Q]Q=Q(V,b)b=Q Q=s(-31056)P=i()V=S[Q]u[P]=V Q=j[C]C=s(-31281)C=Q[C]C=C(Q)V=not C V=V and 11199260 or 9203488 else C=s(-31202)P=j[C]C=s(-31448)b=P[C]Q,V=b,13605175 end else if 14277389>V then V=6799441>13407804 Q={V}V=j[s(-31104)]elseif V<14313120 then S,b,Q,P=s(-31015),s(-31159),s(-31085),s(-31125)V={Q;S;b,P}S,b=V,s(-31359)Q=j[b]b=s(-31225)V=Q[b]Q=V()b=Q Q=s(-31367)V=j[Q]H={V(S)}Q,C,P,V=H[1],H[3],H[2],14118881 H=Q else Q=u[U[2]]b=u[Y]V=Q[b]Q={V}V=j[s(-31487)]end end else if V>13960756 then if V<14007004 then V=Q and 12407568 or 10540427 elseif 14042635>V then V=f V=r and 2704153 or 4361455 elseif V<14074208 then Q1=s(-31171)L1=j[Q1]Q1=s(-31316)G1=L1[Q1]V,Q1=1345089,s(-31468)L1=G1(U1,Q1)else V=u[U[2]]V=V and 4817534 or 4567792 end else if 13845265>V then b=s(-30986)V=u[U[1]]F,Y=s(-31198),s(-30914)Q=V(Y)V=u[U[2]]C,x,a,v,z=V,V,s(-31566),V,V v,Y,I=s(-31128),Q,V H=Y and F F,C,P,x=Y and a,s(-31440),H or v,s(-31286)v,z=V,s(-31317)H=F or z F,J=3,s(-31057)R=Y and J Y,a,z,v,Q=nil,R or x,s(-31185),s(-31204),s(-31079)S,Q={[b]=P;[C]=H,[v]=F,[z]=a},V[Q]Q=Q(V,S)Q,V={},j[s(-31167)]elseif V<13890558 then x,J=s(-31161),s(-31218)x=I[x]x=x(I,J)V,a,R=x and 14115146 or 7039341,F,x elseif V<13920675 then C=s(-31053)Q=j[C]C=s(-30892)V=Q[C]C=s(-31441)Q={V(C,b,P)}Q,V={e(Q)},j[s(-30946)]else V=3319205~=11156282 V=V and 7432354 or 7525647 end end end end end else if V>15647589 then if V<16256165 then if V>16024196 then if V>16210514 then if 16231925>V then Q,V=I,R V=4661728 elseif V<16249511 then V=u[U[1]]b=s(-31206)S=j[b]b=s(-31490)Y=S[b]b,P,Q=0,0,s(-31210)S=Y(b,P)C=s(-31142)P=j[C]C,Q=s(-31547),V[Q]b=P[C]P=s(-31069)Y=b[P]Q=Q(V,S,Y)Y=s(-30934)Q=j[Y]Y,P=s(-31126),0 V=Q[Y]Y,C,b=.1,s(-31142),s(-31206)Q=V(Y)V=u[U[1]]S=j[b]b=s(-31490)Y=S[b]b=0 S=Y(b,P)P=j[C]C=s(-31547)b=P[C]Q=s(-31169)Q,P=V[Q],s(-31069)Y=b[P]Q=Q(V,S,Y)Q,V={},j[s(-31522)]else V=Q and 3993136 or 15245262 end else if 16065679>V then V=nil Q={V}V=j[s(-31486)]elseif 16129948>V then Y=Q V=Y and 2689112 or 12698066 elseif V<16187338 then Q1,V=s(-31171),6970423 L1=j[Q1]Q1=s(-31316)G1=L1[Q1]Q1=s(-31021)L1=G1(U1,Q1)else b=s(-31400)Y=u[U[1]]V=j[s(-31045)]S=Y(b)Y=0 Q=S or Y Q={Q}end end else if V<15800076 then if 15676769>V then Y=u[U[1]]S=Y Y,Q=1,1 b=Y Y=0 P=b<Y Y,V=Q-b,4490046 elseif 15704159>V then Y=i()u[Y]=w[1]Q=u[U[1]]V=not Q V=V and 3555980 or 10977927 elseif V<15729515 then B=I u[C]=B V=4361455 else Q=s(-30994)V=j[Q]Y=u[U[2]]Q=V(Y)V=7969613 end else if 15879756>V then v=F J=O(8284280,{U[1];H})R=s(-30994)V=j[R]K={V(J)}R,x=K[1],K[2]K=not R J,V=K,K and 11055991 or 14329506 elseif 15908986>V then V,C,P=10374356,nil,nil elseif 15959845>V then V=9363040~=7083863 V=V and 1060899 or 16404289 else V,Y=4672726,{}Q=Y end end end else if 16623456>V then if V>16438398 then if 16493490>V then Y=s(-31359)Q=j[Y]Y=s(-31530)V=Q[Y]Q=V()Y=Q S=u[U[2]]Q=Y-S S=u[U[3]]V=Q>=S V=V and 12907564 or 7277112 elseif 16555716>V then Y=w[1]V,Q=Y,{}u[U[1]]=V Y,V=nil,j[s(-31377)]elseif 16586336>V then F,P,Q=s(-31083),s(-30888),s(-31367)V=j[Q]C,v,H=s(-31023),s(-31237),s(-31343)b={P;C;H;v,F}P={V(b)}Q,Y,S=P[1],P[2],P[3]b,V=Q,15315425 else V,Q=j[s(-31419)],{Y}end else if V<16313064 then V,S=4567792,nil elseif 16384836>V then Q=s(-31139)V=j[Q]C,P=s(-31312),s(-30960)C=S[C]b={C(S,P)}Q=V(e(b))b=Q V=b and 11644540 or 3149303 elseif 16413648>V then V,Q=j[s(-31514)],{}else t,V=1,2677568 c=C+t C=c end end else if V<16695681 then if 16653460>V then V=u[U[1]]b,F=s(-30986),s(-31319)Q=V()Y=Q H=Y and F V=u[U[2]]z,v=V,V v=s(-31403)P,F,C=H or v,Y,V C,v=s(-31440),V V=Y and 13524313 or 6983039 elseif V<16657896 then S,Y=s(-31466),s(-31498)V=u[U[1]]S=V[S]Q={S(V,Y)}Q,V={e(Q)},j[s(-30920)]elseif V<16676245 then S=s(-31053)Q=j[S]S=s(-30892)V=Q[S]P=1000000000000.0 b=Y/P S=s(-31002)Q={V(S,b)}Q,V={e(Q)},j[s(-31565)]else V,Q=j[s(-31306)],{}end else if 16709899>V then Q=u[U[1]]V=not Q V=V and 14996763 or 5177785 elseif 16747349>V then V=s(-30957)Y,Q=V,s(-31044)V=j[Q]Q=s(-31233)Q=V[Q]Q=Q(V,Y)S=Q Q=s(-31448)V=j[Q]V=V and 12766810 or 11436626 else V=13873118>=11301468 V=V and 583899 or 5806975 end end end end else if V<14836319 then if V<14563351 then if V>14485813 then if V<14522727 then S=1 Q=u[U[3]]V=Q+S Q=13219746>=9578192 Q={Q}u[U[3]]=V V=j[s(-31412)]elseif 14541174>V then V,S=7748943,{}Q=S elseif 14546062>V then Q=s(-30994)V=j[Q]S=O(16654439,{U[1]})b={V(S)}Q,Y=b[1],b[2]S=Q b=not S V,Q=b and 13743673 or 6969300,b else V=6395254<=9116284 V=V and 7736722 or 2736290 end else if 14387716>V then K=not x J,V=K,11055991 elseif 14450960>V then S,b,Y=s(-31245),3600,w[1]Q=j[S]S=s(-31092)V=Q[S]S=Y/b Q=V(S)b,S=s(-31245),Q Q=j[b]C,b=3600,s(-31092)V=Q[b]P=Y%C C=60 b=P/C P=s(-31245)Q=V(b)b,C=Q,60 Q=j[P]P=s(-31092)V=Q[P]P=Y%C Q=V(P)P=Q Q=0 V=S>Q V=V and 2297410 or 8117930 elseif 14461478>V then C=s(-31440)V=u[U[1]]b,P,v=s(-30986),s(-31187),s(-31560)Q=V()Y,a=Q,s(-31250)V=u[U[2]]z=s(-31428)F=Y..z H=v..F F,v,Q,z=3,s(-31204),s(-31079),s(-31185)Q,S=V[Q],{[b]=P;[C]=H;[v]=F;[z]=a}Q=Q(V,S)Y,Q,V=nil,{},j[s(-31549)]else V=5796222 end end else if V<14716985 then if V<14578550 then V=u[U[4]]P=s(-30986)S=u[U[2]]Q=V(S)V=u[U[3]]z,H=s(-31516),V H,a,F,S=s(-31440),V,V,Q v=S and z z,F=S,s(-31128)C=v or F F=V V=S and 9696419 or 4944552 elseif V<14592572 then V,z,F,v=14118881,nil,nil,nil elseif 14649064>V then V=14550565 else K=s(-30934)J=j[K]v,K=nil,s(-31126)V=J[K]R,x,K=nil,nil,.1 J=V(K)V=303356 end else if 14755448>V then b=s(-31466)V=u[U[1]]Y,b=s(-31368),V[b]S=u[U[2]]Q={b(V,Y,S)}Q,V={e(Q)},j[s(-30882)]elseif V<14777267 then Q=u[U[1]]V,Y=not Q,w[1]V=V and 14241670 or 9785633 elseif V<14792079 then b,V=s(-31434),j[s(-31276)]Y=u[U[1]]S=Y(b)Y=1 Q=S or Y Q={Q}else V=u[U[5]]J=s(-31173)x=I[J]R=V(x)x=s(-30934)R=j[x]x=s(-31126)V=R[x]x=2 R=V(x)V,R=s(-31559),s(-31365)V,x=Y[V],s(-31367)V=V(Y,R)R=V V=j[x]B={V(R)}V,J,K,x=850277,B[2],B[3],B[1]end end end else if V<15221052 then if V<15059401 then if V<14897286 then P=V H=u[U[3]]v=u[Y]C=H[v]V,b=C and 11890558 or 9593125,C elseif V<14932807 then Y=i()u[Y]=w[1]Q=u[U[1]]V=not Q V=V and 13197246 or 6835127 elseif 14969973>V then a=y(12579652,{U[1];F})z=s(-30994)V=j[z]z=V(a)V=z and 983364 or 7368953 else Q,V={},j[s(-31528)]end else if V<15130655 then V,a,I=13595137,nil,nil elseif 15154137>V then R,V=s(-30932),13330358 I=u[F]a=I[R]z=a elseif V<15182922 then V,Y,Q=j[s(-30956)],nil,{}else V=u[U[1]]Q=V()V,Y=9110744<4906703,Q S=V V=16775128 end end else if 15491210>V then if V<15280343 then V=u[U[2]]Q={V(Y,S,e(b))}V,Q=j[s(-31374)],{e(Q)}elseif 15358366>V then S,C=b(Y,S)V=S and 1034098 or 9602586 elseif V<15439225 then V=2194551 else V,C,P=7108326,s(-31564),s(-31161)P=b[P]P=P(b,C)Q=P end else if V<15569169 then b=s(-31406)Q=j[b]b=Q()Q=s(-31448)V=b[Q]Q=V(S)V=4695969 elseif V<15634891 then V=12043672 else V=1662710~=14547890 V=V and 1515993 or 9535929 end end end end end end end end end V=#G return e(Q)end,function(j,s)local e=b(s)local w=function(w,U,G,L,Q,u)return V(j,{w;U,G,L,Q,u},s,e)end return w end,function(j,s)local e=b(s)local w=function(w,U)return V(j,{w,U},s,e)end return w end,function(j,s)local e=b(s)local w=function(w,U,G,L,Q,u,Y)return V(j,{w;U;G;L,Q;u,Y},s,e)end return w end,function(j,s)local e=b(s)local w=function(w,U,G)return V(j,{w;U,G},s,e)end return w end,function()S=1+S Y[S]=1 return S end,function(j)Y[j]=Y[j]-1 if 0==Y[j]then Y[j],u[j]=nil,nil end end,0,{},function(j)for s=1,#j,1 do Y[j[s]]=1+Y[j[s]]end if w then local V=w(true)local e=G(V)e[s(-30924)],e[s(-30922)],e[s(-31256)]=j,P,function()return 4135281 end return V else return U({},{[s(-30922)]=P,[s(-30924)]=j;[s(-31256)]=function()return 4135281 end})end end,function(j,s)local e=b(s)local w=function(...)return V(j,{...},s,e)end return w end return(W(14179299,{}))(e(Q))end)(select,newproxy,getmetatable,setmetatable,unpack or table[s(-30884)],getfenv and getfenv()or _ENV,{...})end)(...)
+local Players = game:GetService("Players")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local LocalPlayer = Players.LocalPlayer
+
+if not game:IsLoaded() then
+    game.Loaded:Wait()
+end
+task.wait(3)
+
+-- Networker 0.3.1 = game services, 0.2.1 = DataService
+local gameRemotes = nil
+local dataRemotes = nil
+
+for _, desc in pairs(ReplicatedStorage:GetDescendants()) do
+    if desc:IsA("Folder") and desc.Name == "_remotes" then
+        local path = desc:GetFullName()
+        if path:find("0.3.1") then
+            gameRemotes = desc
+        elseif path:find("0.2.1") then
+            dataRemotes = desc
+        else
+            if desc:FindFirstChild("RollService") then
+                gameRemotes = desc
+            elseif desc:FindFirstChild("DataService") then
+                dataRemotes = desc
+            end
+        end
+    end
+end
+
+if not gameRemotes or not dataRemotes then
+    task.wait(5)
+    for _, desc in pairs(ReplicatedStorage:GetDescendants()) do
+        if desc:IsA("Folder") and desc.Name == "_remotes" then
+            local path = desc:GetFullName()
+            if path:find("0.3.1") and not gameRemotes then
+                gameRemotes = desc
+            elseif path:find("0.2.1") and not dataRemotes then
+                dataRemotes = desc
+            end
+            if not gameRemotes and desc:FindFirstChild("RollService") then
+                gameRemotes = desc
+            end
+            if not dataRemotes and desc:FindFirstChild("DataService") then
+                dataRemotes = desc
+            end
+        end
+    end
+end
+
+if not gameRemotes then
+    warn("[Zinnyware] FATAL: Could not find game _remotes (0.3.1)")
+    return
+end
+
+local function getRemote(folder, serviceName)
+    if not folder then return nil end
+    local svc = folder:FindFirstChild(serviceName)
+    if svc then return svc:FindFirstChild("RemoteFunction") end
+    return nil
+end
+
+local RollRemote = getRemote(gameRemotes, "RollService")
+local ZonesRemote = getRemote(gameRemotes, "ZonesService")
+local RebirthRemote = getRemote(gameRemotes, "RebirthService")
+local InventoryRemote = getRemote(gameRemotes, "InventoryService")
+local LootRemote = getRemote(gameRemotes, "LootService")
+local BoostRemote = getRemote(gameRemotes, "BoostService")
+local IndexRemote = getRemote(gameRemotes, "IndexService")
+local DataRemote = getRemote(dataRemotes, "DataService")
+
+-- DataService: InvokeServer("get", key)
+local dataCache = {}
+local dataCacheTime = {}
+local DATA_CACHE_TTL = 2
+
+local function getData(key)
+    if not DataRemote then return nil end
+    local now = os.clock()
+    if dataCache[key] ~= nil and dataCacheTime[key] and (now - dataCacheTime[key]) < DATA_CACHE_TTL then
+        return dataCache[key]
+    end
+    local ok, result = pcall(function()
+        return DataRemote:InvokeServer("get", key)
+    end)
+    if ok then
+        dataCache[key] = result
+        dataCacheTime[key] = now
+        return result
+    end
+    return dataCache[key]
+end
+
+local function getDataFresh(key)
+    if not DataRemote then return nil end
+    local ok, result = pcall(function()
+        return DataRemote:InvokeServer("get", key)
+    end)
+    if ok then
+        dataCache[key] = result
+        dataCacheTime[key] = os.clock()
+        return result
+    end
+    return nil
+end
+
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+
+local AutoRollEnabled = false
+local AutoBuyZoneEnabled = false
+local AutoRebirthEnabled = false
+local AutoTeleportEnabled = false
+local AutoUseDiceEnabled = false
+local AutoCollectLootEnabled = false
+local AutoUsePotionsEnabled = false
+local AutoClaimIndexEnabled = false
+local DebugRunning = false
+
+local RollDelay = 0.1
+local RebirthCheckInterval = 2
+local ZoneCheckInterval = 3
+local LootCollectInterval = 1
+local PotionCheckInterval = 5
+
+local TotalRolls = 0
+local TotalRebirths = 0
+local TotalZonesBought = 0
+local SessionStart = os.clock()
+
+local function safeInvoke(remote, ...)
+    if not remote then return nil end
+    local args = {...}
+    local success, result = pcall(function()
+        return remote:InvokeServer(unpack(args))
+    end)
+    if success then return result end
+    return nil
+end
+
+local function doRoll()
+    if not RollRemote then return false end
+    local result = safeInvoke(RollRemote, "requestRoll")
+    if result then TotalRolls = TotalRolls + 1 return true end
+    return false
+end
+
+local function tryBuyZone()
+    if not ZonesRemote then return false end
+    local result = safeInvoke(ZonesRemote, "requestPurchaseZone")
+    if result then TotalZonesBought = TotalZonesBought + 1 return true end
+    return false
+end
+
+local function tryRebirth()
+    if not RebirthRemote then return false end
+    local result = safeInvoke(RebirthRemote, "requestRebirth")
+    if result then TotalRebirths = TotalRebirths + 1 return true end
+    return false
+end
+
+local function getZoneCenter(zoneNumber)
+    local Zones = workspace:FindFirstChild("Zones")
+    if not Zones then return nil end
+    local zoneModel = Zones:FindFirstChild(tostring(zoneNumber))
+    if zoneModel and zoneModel:IsA("Model") then
+        local pos = zoneModel:GetPivot().Position
+        return Vector3.new(pos.X, pos.Y, pos.Z)
+    end
+    return nil
+end
+
+local function teleportToZone(zoneNumber)
+    if not ZonesRemote then return false end
+    local result = safeInvoke(ZonesRemote, "requestTeleportZone", zoneNumber)
+    if result == true then
+        task.wait(0.3)
+        local center = getZoneCenter(zoneNumber)
+        if center then
+            local char = LocalPlayer.Character
+            local hrp = char and char:FindFirstChild("HumanoidRootPart")
+            if hrp then
+                hrp.CFrame = CFrame.new(center.X, hrp.Position.Y, center.Z)
+            end
+        end
+    end
+    return result == true
+end
+
+local function teleportToMaxZone()
+    local maxZone = getData("maxZone") or 1
+    return teleportToZone(maxZone)
+end
+
+local function getPlayerCoins() return getData("coins") or 0 end
+local function getPlayerGoop() return getData("goop") or 0 end
+local function getPlayerRebirths() return getData("rebirths") or 0 end
+local function getMaxZone() return getData("maxZone") or 1 end
+local function getCurrentZone() return getData("zone") or 1 end
+
+-- InventoryService: "requestUseItem" arms dice for next roll
+local function useSpecialDice(diceId)
+    if not InventoryRemote then return false end
+    local result = safeInvoke(InventoryRemote, "requestUseItem", diceId)
+    return result == true
+end
+
+-- Priority: inverted > huge > shiny > big
+local function useAllSpecialDice()
+    if not InventoryRemote then return end
+    local items = getData("items") or {}
+    local diceOrder = {"invertedDice", "hugeDice", "shinyDice", "bigDice"}
+    for _, diceId in pairs(diceOrder) do
+        if items[diceId] and items[diceId] > 0 then
+            useSpecialDice(diceId)
+            task.wait(0.05)
+        end
+    end
+end
+
+local function collectAllLoot()
+    if not LootRemote then return 0 end
+    local ok, lootData = pcall(function()
+        return LootRemote:InvokeServer("getLootData")
+    end)
+    if not ok or not lootData then return 0 end
+
+    local collected = 0
+    for _, loot in pairs(lootData) do
+        if loot and loot.uniqueId then
+            local success = pcall(function()
+                return LootRemote:InvokeServer("requestCollect", loot.uniqueId)
+            end)
+            if success then collected = collected + 1 end
+            task.wait(0.05)
+        end
+    end
+    return collected
+end
+
+-- BoostService: kinds = luck, ultraLuck, currency, rollSpeed (180s each)
+local function useBoost(boostKind)
+    if not BoostRemote then return false end
+    local result = safeInvoke(BoostRemote, "requestUseBoost", boostKind)
+    return result == true
+end
+
+-- Only uses potion if boost expired (expirationTime <= now)
+local function consumeAllPotions()
+    if not BoostRemote then return end
+    local boosts = getData("boosts")
+    if not boosts then return end
+
+    local boostKinds = {"luck", "ultraLuck", "currency", "rollSpeed"}
+    local serverTime = os.time()
+
+    for _, kind in pairs(boostKinds) do
+        local boostData = boosts[kind]
+        if boostData then
+            local amount = boostData.amount or 0
+            local expiration = boostData.expirationTime or 0
+            if amount > 0 and expiration <= serverTime then
+                useBoost(kind)
+                task.wait(0.1)
+            end
+        end
+    end
+end
+
+local function claimAllIndexRewards()
+    if not IndexRemote then return end
+    local categories = {"basic", "big", "huge", "shiny", "inverted"}
+    for _, category in pairs(categories) do
+        for _ = 1, 10 do
+            local ok, result = pcall(function()
+                return IndexRemote:InvokeServer("requestClaimReward", category)
+            end)
+            if not ok or not result then break end
+            task.wait(0.1)
+        end
+    end
+end
+
+local function formatNumber(n)
+    if type(n) ~= "number" then return "?" end
+    if n >= 1e15 then return string.format("%.2fQ", n / 1e15)
+    elseif n >= 1e12 then return string.format("%.2fT", n / 1e12)
+    elseif n >= 1e9 then return string.format("%.2fB", n / 1e9)
+    elseif n >= 1e6 then return string.format("%.2fM", n / 1e6)
+    elseif n >= 1e3 then return string.format("%.1fK", n / 1e3)
+    else return tostring(math.floor(n)) end
+end
+
+local function formatTime(seconds)
+    local h = math.floor(seconds / 3600)
+    local m = math.floor((seconds % 3600) / 60)
+    local s = math.floor(seconds % 60)
+    if h > 0 then return string.format("%dh %dm %ds", h, m, s)
+    elseif m > 0 then return string.format("%dm %ds", m, s)
+    else return string.format("%ds", s) end
+end
+
+task.spawn(function()
+    while true do
+        if AutoRollEnabled then
+            if AutoUseDiceEnabled then
+                local armed = getData("armedSpecialDice") or {}
+                if #armed == 0 then pcall(useAllSpecialDice) end
+            end
+            pcall(doRoll)
+            task.wait(RollDelay)
+        else
+            task.wait(0.5)
+        end
+    end
+end)
+
+task.spawn(function()
+    while true do
+        if AutoRollEnabled then
+            if InventoryRemote then
+                pcall(function() InventoryRemote:InvokeServer("requestEquipBest") end)
+            end
+            if AutoClaimIndexEnabled and IndexRemote then
+                for _, cat in pairs({"basic", "big", "huge", "shiny", "inverted"}) do
+                    local ok, result = pcall(function()
+                        return IndexRemote:InvokeServer("requestClaimReward", cat)
+                    end)
+                    if not ok or not result then break end
+                    task.wait(0.1)
+                end
+            end
+        end
+        task.wait(10)
+    end
+end)
+
+local AntiAFKEnabled = true
+local AntiAFKInterval = 60
+local lastAfkTick = 0
+
+local VirtualUser = game:GetService("VirtualUser")
+
+local function runAntiAFK()
+    pcall(function()
+        local UserInputService = game:GetService("UserInputService")
+        if getconnections then
+            local conns = getconnections(UserInputService.InputEnded)
+            if conns and conns[1] then
+                pcall(function() conns[1]:Fire() end)
+            end
+        end
+    end)
+end
+
+LocalPlayer.Idled:Connect(function()
+    if not AntiAFKEnabled then return end
+    pcall(function()
+        VirtualUser:Button2Down(Vector2.new(0, 0), workspace.CurrentCamera.CFrame)
+        task.wait(0.1)
+        VirtualUser:Button2Up(Vector2.new(0, 0), workspace.CurrentCamera.CFrame)
+    end)
+    runAntiAFK()
+end)
+
+pcall(function() VirtualUser:CaptureController() end)
+
+task.spawn(function()
+    while true do
+        if AntiAFKEnabled then
+            local now = os.clock()
+            if now - lastAfkTick >= AntiAFKInterval then
+                pcall(function()
+                    VirtualUser:CaptureController()
+                    VirtualUser:Button2Down(Vector2.new(0, 0), workspace.CurrentCamera.CFrame)
+                    task.wait(0.05)
+                    VirtualUser:Button2Up(Vector2.new(0, 0), workspace.CurrentCamera.CFrame)
+                end)
+                runAntiAFK()
+                lastAfkTick = now
+            end
+        end
+        task.wait(5)
+    end
+end)
+
+task.spawn(function()
+    pcall(function()
+        local autoRejoinFolder = gameRemotes and gameRemotes:FindFirstChild("AutoRejoinService")
+        if autoRejoinFolder then
+            local remoteEvent = autoRejoinFolder:FindFirstChild("RemoteEvent")
+            if remoteEvent and hookfunction then
+                local oldFireServer
+                oldFireServer = hookfunction(remoteEvent.FireServer, function(self, arg, ...)
+                    if self == remoteEvent and arg == "autoRejoin" then
+                        return
+                    end
+                    return oldFireServer(self, arg, ...)
+                end)
+            end
+        end
+    end)
+
+    pcall(function()
+        local mt = getrawmetatable(game)
+        local oldNamecall = mt.__namecall
+        setreadonly(mt, false)
+        mt.__namecall = newcclosure(function(self, ...)
+            local method = getnamecallmethod()
+            local args = {...}
+            if method == "FireServer" and args[1] == "autoRejoin" then
+                return
+            end
+            return oldNamecall(self, ...)
+        end)
+        setreadonly(mt, true)
+    end)
+end)
+
+-- Auto re-execute on teleport/rejoin
+pcall(function()
+    local url = "https://raw.githubusercontent.com/Zinvera/zinnyware/refs/heads/main/zinnywareob.lua"
+    local code = game:HttpGet(url)
+    if queue_on_teleport then
+        queue_on_teleport(code)
+    elseif syn and syn.queue_on_teleport then
+        syn.queue_on_teleport(code)
+    elseif fluxus and fluxus.queue_on_teleport then
+        fluxus.queue_on_teleport(code)
+    elseif getgenv and getgenv().queue_on_teleport then
+        getgenv().queue_on_teleport(code)
+    end
+end)
+
+task.spawn(function()
+    while true do
+        if AutoBuyZoneEnabled then
+            local ok, bought = pcall(tryBuyZone)
+            if ok and bought and AutoTeleportEnabled then
+                task.wait(0.5)
+                pcall(teleportToMaxZone)
+            end
+        end
+        task.wait(ZoneCheckInterval)
+    end
+end)
+
+task.spawn(function()
+    while true do
+        if AutoRebirthEnabled then pcall(tryRebirth) end
+        task.wait(RebirthCheckInterval)
+    end
+end)
+
+task.spawn(function()
+    local lastMaxZone = getMaxZone()
+    local initialized = false
+    while true do
+        if AutoTeleportEnabled then
+            local ok, currentMax = pcall(getMaxZone)
+            if ok and currentMax then
+                if not initialized then
+                    lastMaxZone = currentMax
+                    initialized = true
+                elseif currentMax > lastMaxZone then
+                    lastMaxZone = currentMax
+                    task.wait(0.5)
+                    pcall(teleportToMaxZone)
+                end
+            end
+        end
+        task.wait(2)
+    end
+end)
+
+task.spawn(function()
+    while true do
+        if AutoCollectLootEnabled then pcall(collectAllLoot) end
+        task.wait(LootCollectInterval)
+    end
+end)
+
+task.spawn(function()
+    while true do
+        if AutoUsePotionsEnabled then pcall(consumeAllPotions) end
+        task.wait(PotionCheckInterval)
+    end
+end)
+
+local SlimeTheme = {
+    TextColor = Color3.fromRGB(230, 255, 230),
+    Background = Color3.fromRGB(15, 20, 15),
+    Topbar = Color3.fromRGB(20, 30, 20),
+    Shadow = Color3.fromRGB(10, 15, 10),
+    NotificationBackground = Color3.fromRGB(15, 22, 15),
+    NotificationActionsBackground = Color3.fromRGB(200, 255, 200),
+    TabBackground = Color3.fromRGB(30, 50, 30),
+    TabStroke = Color3.fromRGB(40, 70, 40),
+    TabBackgroundSelected = Color3.fromRGB(80, 200, 80),
+    TabTextColor = Color3.fromRGB(180, 255, 180),
+    SelectedTabTextColor = Color3.fromRGB(10, 20, 10),
+    ElementBackground = Color3.fromRGB(20, 32, 20),
+    ElementBackgroundHover = Color3.fromRGB(25, 40, 25),
+    SecondaryElementBackground = Color3.fromRGB(15, 25, 15),
+    ElementStroke = Color3.fromRGB(40, 70, 40),
+    SecondaryElementStroke = Color3.fromRGB(30, 55, 30),
+    SliderBackground = Color3.fromRGB(30, 80, 30),
+    SliderProgress = Color3.fromRGB(50, 180, 50),
+    SliderStroke = Color3.fromRGB(60, 200, 60),
+    ToggleBackground = Color3.fromRGB(18, 28, 18),
+    ToggleEnabled = Color3.fromRGB(50, 200, 50),
+    ToggleDisabled = Color3.fromRGB(60, 80, 60),
+    ToggleEnabledStroke = Color3.fromRGB(70, 230, 70),
+    ToggleDisabledStroke = Color3.fromRGB(80, 100, 80),
+    ToggleEnabledOuterStroke = Color3.fromRGB(40, 100, 40),
+    ToggleDisabledOuterStroke = Color3.fromRGB(35, 55, 35),
+    DropdownSelected = Color3.fromRGB(25, 45, 25),
+    DropdownUnselected = Color3.fromRGB(18, 30, 18),
+    InputBackground = Color3.fromRGB(18, 28, 18),
+    InputStroke = Color3.fromRGB(40, 70, 40),
+    PlaceholderColor = Color3.fromRGB(120, 170, 120)
+}
+
+local Window = Rayfield:CreateWindow({
+    Name = "Zinnyware v2.3",
+    Icon = "zap",
+    LoadingTitle = "Zinnyware",
+    LoadingSubtitle = "Connecting...",
+    Theme = SlimeTheme,
+    ToggleUIKeybind = "K",
+    DisableRayfieldPrompts = true,
+    DisableBuildWarnings = true,
+    ConfigurationSaving = {
+        Enabled = true,
+        FolderName = "SlimeAutoFarm",
+        FileName = "SlimeConfig"
+    }
+})
+
+local FarmTab = Window:CreateTab("Auto Farm", "bot")
+
+FarmTab:CreateSection("Rolling")
+
+FarmTab:CreateParagraph({
+    Title = "Auto Roll",
+    Content = "Rolls directly via server remote, skipping all animations. Auto-equips best slimes every 10 rolls. Sub-toggles: auto-use special dice, auto-claim index rewards every 20 rolls."
+})
+
+FarmTab:CreateToggle({
+    Name = "Auto Roll",
+    CurrentValue = false,
+    Flag = "AutoRoll",
+    Callback = function(Value) AutoRollEnabled = Value end
+})
+
+FarmTab:CreateSlider({
+    Name = "Roll Speed",
+    Range = {0, 200},
+    Increment = 5,
+    Suffix = "ms",
+    CurrentValue = 100,
+    Flag = "RollDelay",
+    Callback = function(Value) RollDelay = Value / 1000 end
+})
+
+FarmTab:CreateToggle({
+    Name = "Auto Use Special Dice",
+    CurrentValue = false,
+    Flag = "AutoUseDice",
+    Callback = function(Value) AutoUseDiceEnabled = Value end
+})
+
+FarmTab:CreateToggle({
+    Name = "Auto Claim Index Rewards",
+    CurrentValue = false,
+    Flag = "AutoClaimIndex",
+    Callback = function(Value) AutoClaimIndexEnabled = Value end
+})
+
+FarmTab:CreateSection("Loot")
+
+FarmTab:CreateToggle({
+    Name = "Auto Collect All Loot",
+    CurrentValue = false,
+    Flag = "AutoCollectLoot",
+    Callback = function(Value) AutoCollectLootEnabled = Value end
+})
+
+FarmTab:CreateSlider({
+    Name = "Loot Collect Interval",
+    Range = {500, 5000},
+    Increment = 100,
+    Suffix = "ms",
+    CurrentValue = 1000,
+    Flag = "LootInterval",
+    Callback = function(Value) LootCollectInterval = Value / 1000 end
+})
+
+FarmTab:CreateButton({
+    Name = "Collect All Loot Now",
+    Callback = function()
+        local count = collectAllLoot()
+        Rayfield:Notify({ Title = "Loot Collected", Content = "Picked up " .. count .. " items.", Duration = 3, Image = "package" })
+    end
+})
+
+FarmTab:CreateSection("Potions")
+
+FarmTab:CreateToggle({
+    Name = "Auto Consume All Potions",
+    CurrentValue = false,
+    Flag = "AutoUsePotions",
+    Callback = function(Value) AutoUsePotionsEnabled = Value end
+})
+
+FarmTab:CreateButton({
+    Name = "Use All Potions Now",
+    Callback = function()
+        consumeAllPotions()
+        Rayfield:Notify({ Title = "Potions", Content = "Consumed all available potions.", Duration = 3, Image = "flask-round" })
+    end
+})
+
+FarmTab:CreateSection("Zones")
+
+FarmTab:CreateToggle({
+    Name = "Auto Buy New Zone",
+    CurrentValue = false,
+    Flag = "AutoBuyZone",
+    Callback = function(Value) AutoBuyZoneEnabled = Value end
+})
+
+FarmTab:CreateToggle({
+    Name = "Auto Teleport to New Zone",
+    CurrentValue = false,
+    Flag = "AutoTeleport",
+    Callback = function(Value) AutoTeleportEnabled = Value end
+})
+
+FarmTab:CreateButton({
+    Name = "Teleport to Max Zone Now",
+    Callback = function()
+        local maxZone = getMaxZone()
+        Rayfield:Notify({ Title = "Teleporting...", Content = "Going to zone " .. maxZone, Duration = 2, Image = "map-pin" })
+        teleportToZone(maxZone)
+    end
+})
+
+FarmTab:CreateSection("Rebirth")
+
+FarmTab:CreateToggle({
+    Name = "Auto Rebirth",
+    CurrentValue = false,
+    Flag = "AutoRebirth",
+    Callback = function(Value) AutoRebirthEnabled = Value end
+})
+
+FarmTab:CreateSection("Anti-AFK")
+
+FarmTab:CreateToggle({
+    Name = "Anti-AFK (auto on)",
+    CurrentValue = true,
+    Flag = "AntiAFK",
+    Callback = function(Value) AntiAFKEnabled = Value end
+})
+
+FarmTab:CreateSlider({
+    Name = "Anti-AFK Interval",
+    Range = {10, 120},
+    Increment = 5,
+    Suffix = "s",
+    CurrentValue = 60,
+    Flag = "AntiAFKInterval",
+    Callback = function(Value) AntiAFKInterval = Value end
+})
+
+local UpgradeRemote = getRemote(gameRemotes, "UpgradeService")
+local AutoUpgradeEnabled = false
+
+local allUpgradeIds = {
+    "backpack", "autoRoll",
+    "rollSpeed1", "rollSpeed2", "rollSpeed3", "rollSpeed4", "rollSpeed5", "rollSpeed6",
+    "extraRollChance1", "extraRollChance2", "extraRollChance3",
+    "cloverRolls1", "cloverRolls2", "cloverRolls3", "cloverRolls4", "cloverRolls5",
+    "bonusRolls1", "bonusRolls2", "bonusRolls3",
+    "lootTree", "playerTree",
+    "slots2", "slots3", "slots4", "slots5", "slots6",
+    "slimeTargetRange1", "slimeTargetRange2", "slimeTargetRange3",
+    "bigSlimes", "hugeSlimes", "shinySlimes", "invertedSlimes",
+    "enemyCount2", "enemyCount3", "enemyCount4", "enemyCount5", "enemyCount6", "enemyCount7",
+    "goop", "goopDropRate1", "goopDropRate2", "goopDropRate3", "goopDropRate4", "goopDropRate5", "goopDropRate6",
+    "bigEnemies", "bigEnemyChance1", "shinyEnemies", "shinyEnemyChance1",
+    "hugeEnemies", "hugeEnemyChance1", "invertedEnemies", "invertedEnemyChance1",
+    "enemySpawnSpeed1", "enemySpawnSpeed2", "enemySpawnSpeed3",
+    "goldenRolls", "goldenRolls2", "goldenRolls3", "goldenRolls4",
+    "diamondRolls", "diamondRolls2", "diamondRolls3", "diamondRolls4",
+    "voidRolls", "voidRolls2", "voidRolls3", "voidRolls4",
+    "luck1", "luck2", "luck3", "luck4", "luck5", "luck6", "luck7", "luck8",
+    "luck9", "luck10", "luck11", "luck12", "luck13", "luck14", "luck15",
+    "friendLuck1", "friendLuck2", "friendLuck3", "friendLuck4", "friendLuck5", "friendLuck6",
+    "friendLuckBoost1", "friendLuckBoost2", "friendLuckBoost3", "friendLuckBoost4",
+    "coinIncome1", "coinIncome2", "coinIncome3", "coinIncome4", "coinIncome5",
+    "coinIncome6", "coinIncome7", "coinIncome8", "coinIncome9", "coinIncome10",
+    "coinIncome11", "coinIncome12", "coinIncome13",
+    "overkill1", "overkill2", "overkill3", "overkill4", "overkill5", "overkill6",
+    "offlineLootAmount1", "offlineLootAmount2", "offlineLootAmount3", "offlineLootAmount4", "offlineLootAmount5",
+    "lootApple", "lootCarrot", "lootCherries", "lootGrapes", "lootBanana",
+    "lootWatermelon", "lootPizza", "lootChicken", "lootDrumstick",
+    "lootLuck", "lootCurrency", "lootRollSpeed", "lootUltraLuck",
+    "walkSpeed1", "walkSpeed2", "walkSpeed3",
+    "teleporter",
+    "magnet1", "magnet2", "magnet3",
+}
+
+local function buyAllAffordable()
+    if not UpgradeRemote then return 0 end
+    local bought = 0
+    local boughtThisPass = true
+    while boughtThisPass do
+        boughtThisPass = false
+        for _, id in pairs(allUpgradeIds) do
+            local ok, result = pcall(function()
+                return UpgradeRemote:InvokeServer("requestUnlock", id)
+            end)
+            if ok and result and result ~= false then
+                bought = bought + 1
+                boughtThisPass = true
+                task.wait(0.05)
+            end
+        end
+    end
+    return bought
+end
+
+local UpgradesTab = Window:CreateTab("Upgrades", "trending-up")
+UpgradesTab:CreateSection("Skill Tree")
+
+UpgradesTab:CreateParagraph({
+    Title = "Auto Upgrade",
+    Content = "Reads ALL upgrades from the game's skill tree and buys everything you can afford. No fixed list — if the game adds new upgrades, they get bought too."
+})
+
+UpgradesTab:CreateToggle({
+    Name = "Auto Buy Upgrades",
+    CurrentValue = false,
+    Flag = "AutoUpgrade",
+    Callback = function(Value) AutoUpgradeEnabled = Value end
+})
+
+UpgradesTab:CreateButton({
+    Name = "Buy All Affordable Now",
+    Callback = function()
+        local count = buyAllAffordable()
+        Rayfield:Notify({ Title = "Upgrades", Content = "Bought " .. count .. " upgrade(s).", Duration = 3, Image = "trending-up" })
+    end
+})
+
+task.spawn(function()
+    local backoff = 5
+    while true do
+        if AutoUpgradeEnabled then
+            local ok, count = pcall(buyAllAffordable)
+            if ok and count and count > 0 then
+                backoff = 5
+            else
+                backoff = math.min(backoff + 5, 30)
+            end
+        else
+            backoff = 5
+        end
+        task.wait(backoff)
+    end
+end)
+
+local TeleportTab = Window:CreateTab("Teleport", "navigation")
+TeleportTab:CreateSection("Quick Teleport")
+
+local ZoneNames = {
+    "1 - Grasslands", "2 - Desert", "3 - Polar", "4 - Volcano",
+    "5 - Islands", "6 - Cave", "7 - Heaven", "8 - Jungle",
+    "9 - Canyon", "10 - Mushroom Forest", "11 - Moon", "12 - Redwood Forest",
+    "13 - Meteor", "14 - Candyland", "15 - Cherry Grove", "16 - Crystal Cavern",
+    "17 - Pumpkin Patch", "18 - Atlantis", "19 - River", "20 - Pyramids",
+    "21 - Graveyard", "22 - Hot Springs", "23 - Tribe", "24 - Toxic Wasteland",
+    "25 - Steampunk", "26 - Winter Wonderland", "27 - Farm", "28 - Jungle Temple"
+}
+
+local selectedTeleportZone = 1
+
+TeleportTab:CreateDropdown({
+    Name = "Select Zone",
+    Options = ZoneNames,
+    CurrentOption = {"1 - Grasslands"},
+    MultipleOptions = false,
+    Flag = "TeleportZone",
+    Callback = function(Options)
+        local selected = Options[1]
+        if not selected then return end
+        local zoneNum = tonumber(selected:match("^(%d+)"))
+        if zoneNum then selectedTeleportZone = zoneNum end
+    end
+})
+
+TeleportTab:CreateButton({
+    Name = "Teleport to Selected Zone",
+    Callback = function()
+        local maxZone = getMaxZone()
+        if selectedTeleportZone > maxZone then
+            Rayfield:Notify({ Title = "Zone Locked", Content = "Zone " .. selectedTeleportZone .. " not unlocked. (Max: " .. maxZone .. ")", Duration = 4, Image = "lock" })
+            return
+        end
+        local success = teleportToZone(selectedTeleportZone)
+        Rayfield:Notify({ Title = success and "Teleported" or "Failed", Content = success and ("Moved to zone " .. selectedTeleportZone) or "Server rejected.", Duration = 3, Image = "map-pin" })
+    end
+})
+
+local StatsTab = Window:CreateTab("Stats", "bar-chart-2")
+StatsTab:CreateSection("Player Data")
+
+local StatsInfo = StatsTab:CreateParagraph({ Title = "Player Stats", Content = "Press Refresh to load." })
+
+StatsTab:CreateButton({
+    Name = "Refresh Stats",
+    Callback = function()
+        local coins = getDataFresh("coins") or 0
+        local goop = getDataFresh("goop") or 0
+        local rebirths = getDataFresh("rebirths") or 0
+        local maxZone = getDataFresh("maxZone") or 1
+        local furthestZone = getDataFresh("furthestZone") or 1
+        local unlockedZones = math.max(maxZone, furthestZone)
+        local currentZone = getDataFresh("zone") or 1
+        local rebirthCost = 2 ^ rebirths * 500
+
+        local text = "Coins: " .. formatNumber(coins) .. "\n"
+        text = text .. "Goop: " .. formatNumber(goop) .. "\n"
+        text = text .. "Rebirths: " .. rebirths .. " (next: " .. formatNumber(rebirthCost) .. " goop)\n"
+        text = text .. "Zone: " .. currentZone .. " (unlocked: " .. unlockedZones .. "/28)\n"
+        text = text .. "Luck Multi: " .. string.format("%.1fx", 1.82 ^ rebirths)
+        StatsInfo:Set({ Title = "Player Stats", Content = text })
+    end
+})
+
+StatsTab:CreateSection("Session")
+local SessionInfo = StatsTab:CreateParagraph({ Title = "Session Stats", Content = "Rolls: 0 | Rebirths: 0 | Zones: 0 | Uptime: 0s" })
+
+task.spawn(function()
+    while true do
+        task.wait(5)
+        pcall(function()
+            SessionInfo:Set({
+                Title = "Session Stats",
+                Content = "Rolls: " .. formatNumber(TotalRolls) .. " | Rebirths: " .. TotalRebirths .. " | Zones: " .. TotalZonesBought .. " | Uptime: " .. formatTime(os.clock() - SessionStart)
+            })
+        end)
+    end
+end)
+
+local CraftingTab = Window:CreateTab("Crafting", "hammer")
+CraftingTab:CreateSection("Recipes")
+
+local CraftingRemote = getRemote(gameRemotes, "CraftingService")
+
+CraftingTab:CreateButton({
+    Name = "Auto Collect All Recipes",
+    Callback = function()
+        if not CraftingRemote then
+            Rayfield:Notify({ Title = "Error", Content = "CraftingService remote not found.", Duration = 3, Image = "x" })
+            return
+        end
+
+        -- Recipe zones: tp to zone -> find tagged "Recipe" part -> claim within 10 studs
+        local recipeZones = {
+            {zone = 6, key = "crafty"},
+            {zone = 8, key = "thorn"},
+            {zone = 10, key = "geode"},
+            {zone = 12, key = "slimeSlimeSlime"},
+            {zone = 14, key = "puffy"},
+            {zone = 16, key = "astro"},
+            {zone = 18, key = "sunny"},
+            {zone = 21, key = "melly"}
+        }
+
+        Rayfield:Notify({ Title = "Collecting Recipes", Content = "Teleporting to each zone to find recipes...", Duration = 5, Image = "hammer" })
+
+        task.spawn(function()
+            local CollectionService = game:GetService("CollectionService")
+            local char = LocalPlayer.Character
+            local hrp = char and char:FindFirstChild("HumanoidRootPart")
+            if not hrp then
+                Rayfield:Notify({ Title = "Error", Content = "No character found.", Duration = 3, Image = "x" })
+                return
+            end
+
+            local originalCFrame = hrp.CFrame
+            local collected = 0
+            local maxZone = getMaxZone()
+
+            for _, info in pairs(recipeZones) do
+                if info.zone <= maxZone then
+
+                teleportToZone(info.zone)
+                task.wait(2)
+
+                local recipes = CollectionService:GetTagged("Recipe")
+                for _, instance in pairs(recipes) do
+                    local recipeKey = instance:GetAttribute("key")
+                    if recipeKey == info.key then
+                        local targetPos
+                        if instance:IsA("BasePart") then
+                            targetPos = instance.Position
+                        elseif instance:IsA("Model") then
+                            targetPos = instance:GetPivot().Position
+                        end
+
+                        if targetPos then
+                            hrp.CFrame = CFrame.new(targetPos + Vector3.new(0, 2, 0))
+                            task.wait(0.5)
+                            local ok = pcall(function()
+                                return CraftingRemote:InvokeServer("requestClaimRecipe", recipeKey, instance)
+                            end)
+                            if ok then collected = collected + 1 end
+                        end
+                        break
+                    end
+                end
+                task.wait(0.5)
+
+                end
+            end
+
+            hrp.CFrame = originalCFrame
+
+            Rayfield:Notify({ Title = "Done", Content = "Collected " .. collected .. " recipe(s).", Duration = 4, Image = "check" })
+        end)
+    end
+})
+
+CraftingTab:CreateParagraph({
+    Title = "Info",
+    Content = "Teleports to each recipe scroll in the world and claims it. You need the crafting machine unlocked and the zone unlocked for each recipe to work."
+})
+
+local DebugTab = Window:CreateTab("Debug", "bug")
+DebugTab:CreateSection("Remote Testing")
+
+DebugTab:CreateButton({ Name = "Test Roll", Callback = function()
+    local r = doRoll()
+    Rayfield:Notify({ Title = r and "Roll OK" or "Roll Failed", Content = r and "Accepted." or "Rejected.", Duration = 3, Image = r and "check" or "x" })
+end })
+
+DebugTab:CreateButton({ Name = "Test Buy Zone", Callback = function()
+    local r = tryBuyZone()
+    Rayfield:Notify({ Title = r and "Zone Bought" or "Buy Failed", Content = r and ("Zone " .. getMaxZone()) or "Not enough coins.", Duration = 3, Image = r and "check" or "x" })
+end })
+
+DebugTab:CreateButton({ Name = "Test Rebirth", Callback = function()
+    local r = tryRebirth()
+    Rayfield:Notify({ Title = r and "Rebirth OK" or "Rebirth Failed", Content = r and ("Rebirths: " .. getPlayerRebirths()) or "Not enough goop.", Duration = 3, Image = r and "check" or "x" })
+end })
+
+DebugTab:CreateButton({ Name = "Test Data Fetch", Callback = function()
+    local coins = getData("coins")
+    local maxZone = getData("maxZone")
+    local msg = "coins=" .. tostring(coins) .. " maxZone=" .. tostring(maxZone)
+    Rayfield:Notify({ Title = (coins ~= nil) and "Data OK" or "Data NIL", Content = msg, Duration = 5, Image = (coins ~= nil) and "check" or "x" })
+end })
+
+DebugTab:CreateDivider()
+DebugTab:CreateSection("Special Dice")
+
+DebugTab:CreateButton({ Name = "Use Inverted Dice", Callback = function()
+    local ok = useSpecialDice("invertedDice")
+    Rayfield:Notify({ Title = ok and "Armed" or "Failed", Content = ok and "Inverted Dice armed." or "None available.", Duration = 3, Image = ok and "check" or "x" })
+end })
+
+DebugTab:CreateButton({ Name = "Use Huge Dice", Callback = function()
+    local ok = useSpecialDice("hugeDice")
+    Rayfield:Notify({ Title = ok and "Armed" or "Failed", Content = ok and "Huge Dice armed." or "None available.", Duration = 3, Image = ok and "check" or "x" })
+end })
+
+DebugTab:CreateButton({ Name = "Use Shiny Dice", Callback = function()
+    local ok = useSpecialDice("shinyDice")
+    Rayfield:Notify({ Title = ok and "Armed" or "Failed", Content = ok and "Shiny Dice armed." or "None available.", Duration = 3, Image = ok and "check" or "x" })
+end })
+
+DebugTab:CreateButton({ Name = "Use Big Dice", Callback = function()
+    local ok = useSpecialDice("bigDice")
+    Rayfield:Notify({ Title = ok and "Armed" or "Failed", Content = ok and "Big Dice armed." or "None available.", Duration = 3, Image = ok and "check" or "x" })
+end })
+
+DebugTab:CreateButton({ Name = "Use ALL Dice", Callback = function()
+    useAllSpecialDice()
+    Rayfield:Notify({ Title = "Done", Content = "Armed all available dice.", Duration = 3, Image = "check" })
+end })
+
+DebugTab:CreateButton({ Name = "Collect All Loot", Callback = function()
+    local count = collectAllLoot()
+    Rayfield:Notify({ Title = "Collected", Content = count .. " items.", Duration = 3, Image = "package" })
+end })
+
+DebugTab:CreateDivider()
+DebugTab:CreateSection("Zone Tour")
+
+DebugTab:CreateButton({ Name = "Start Zone Tour (3s each)", Callback = function()
+    if DebugRunning then
+        Rayfield:Notify({ Title = "Busy", Content = "Tour already running.", Duration = 2, Image = "alert-triangle" })
+        return
+    end
+    DebugRunning = true
+    local maxZone = getData("maxZone") or 1
+    if maxZone <= 1 then
+        local furthest = getData("furthestZone")
+        if furthest and furthest > maxZone then maxZone = furthest end
+    end
+    Rayfield:Notify({ Title = "Zone Tour", Content = "Visiting zones 1-" .. maxZone, Duration = 4, Image = "navigation" })
+    task.spawn(function()
+        for i = 1, maxZone do
+            if not DebugRunning then break end
+            teleportToZone(i)
+            if i < maxZone then task.wait(3) end
+        end
+        DebugRunning = false
+        Rayfield:Notify({ Title = "Tour Done", Content = "Finished.", Duration = 3, Image = "check" })
+    end)
+end })
+
+DebugTab:CreateButton({ Name = "Stop Tour", Callback = function()
+    DebugRunning = false
+    Rayfield:Notify({ Title = "Stopped", Content = "Tour cancelled.", Duration = 2, Image = "square" })
+end })
+
+DebugTab:CreateDivider()
+DebugTab:CreateSection("Diagnostics")
+
+DebugTab:CreateButton({ Name = "Full Diagnostic (F9)", Callback = function()
+    print("\n====== ZINNYWARE DIAGNOSTIC ======")
+    print("Game remotes: " .. (gameRemotes and gameRemotes:GetFullName() or "NOT FOUND"))
+    print("Data remotes: " .. (dataRemotes and dataRemotes:GetFullName() or "NOT FOUND"))
+    print("")
+    print("RollService: " .. (RollRemote and "OK" or "MISSING"))
+    print("ZonesService: " .. (ZonesRemote and "OK" or "MISSING"))
+    print("RebirthService: " .. (RebirthRemote and "OK" or "MISSING"))
+    print("InventoryService: " .. (InventoryRemote and "OK" or "MISSING"))
+    print("LootService: " .. (LootRemote and "OK" or "MISSING"))
+    print("BoostService: " .. (BoostRemote and "OK" or "MISSING"))
+    print("DataService: " .. (DataRemote and "OK" or "MISSING"))
+    print("")
+    for _, key in pairs({"coins", "goop", "rebirths", "zone", "maxZone", "furthestZone"}) do
+        print("  " .. key .. " = " .. tostring(getData(key)))
+    end
+    print("====== END ======\n")
+    Rayfield:Notify({ Title = "Diagnostic", Content = "Check console (F9).", Duration = 3, Image = "clipboard" })
+end })
+
+local statusParts = {}
+if RollRemote then table.insert(statusParts, "Roll") end
+if ZonesRemote then table.insert(statusParts, "Zones") end
+if RebirthRemote then table.insert(statusParts, "Rebirth") end
+if InventoryRemote then table.insert(statusParts, "Inv") end
+if LootRemote then table.insert(statusParts, "Loot") end
+if BoostRemote then table.insert(statusParts, "Boost") end
+if IndexRemote then table.insert(statusParts, "Index") end
+
+Rayfield:Notify({
+    Title = "Zinnyware v2.3",
+    Content = table.concat(statusParts, "/") .. " | Data: " .. (DataRemote and "OK" or "NIL") .. " | K to toggle",
+    Duration = 6,
+    Image = "check-circle"
+})
+
+Rayfield:LoadConfiguration()

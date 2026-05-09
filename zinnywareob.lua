@@ -73,6 +73,17 @@ local DataRemote = getRemote(dataRemotes, "DataService")
 local dataCache = {}
 local dataCacheTime = {}
 local DATA_CACHE_TTL = 2
+local CACHE_MAX_KEYS = 20
+
+local function flushStaleCache()
+    local now = os.clock()
+    for key, t in pairs(dataCacheTime) do
+        if now - t > 10 then
+            dataCache[key] = nil
+            dataCacheTime[key] = nil
+        end
+    end
+end
 
 local function getData(key)
     if not DataRemote then return nil end
@@ -225,7 +236,9 @@ local function collectAllLoot()
     if not ok or not lootData then return 0 end
 
     local collected = 0
+    local maxCollect = 50
     for _, loot in pairs(lootData) do
+        if collected >= maxCollect then break end
         if loot and loot.uniqueId then
             local success = pcall(function()
                 return LootRemote:InvokeServer("requestCollect", loot.uniqueId)
@@ -706,6 +719,8 @@ local allUpgradeIds = {
     "magnet1", "magnet2", "magnet3",
 }
 
+local ownedUpgrades = {}
+
 local function buyAllAffordable()
     if not UpgradeRemote then return 0 end
     local bought = 0
@@ -713,13 +728,16 @@ local function buyAllAffordable()
     while boughtThisPass do
         boughtThisPass = false
         for _, id in pairs(allUpgradeIds) do
-            local ok, result = pcall(function()
-                return UpgradeRemote:InvokeServer("requestUnlock", id)
-            end)
-            if ok and result and result ~= false then
-                bought = bought + 1
-                boughtThisPass = true
-                task.wait(0.05)
+            if not ownedUpgrades[id] then
+                local ok, result = pcall(function()
+                    return UpgradeRemote:InvokeServer("requestUnlock", id)
+                end)
+                if ok and result and result ~= false then
+                    bought = bought + 1
+                    boughtThisPass = true
+                    ownedUpgrades[id] = true
+                    task.wait(0.05)
+                end
             end
         end
     end
@@ -757,7 +775,7 @@ task.spawn(function()
             if ok and count and count > 0 then
                 backoff = 5
             else
-                backoff = math.min(backoff + 5, 30)
+                backoff = math.min(backoff + 10, 120)
             end
         else
             backoff = 5
@@ -846,6 +864,14 @@ task.spawn(function()
                 Content = "Rolls: " .. formatNumber(TotalRolls) .. " | Rebirths: " .. TotalRebirths .. " | Zones: " .. TotalZonesBought .. " | Uptime: " .. formatTime(os.clock() - SessionStart)
             })
         end)
+    end
+end)
+
+task.spawn(function()
+    while true do
+        task.wait(300)
+        flushStaleCache()
+        pcall(function() collectgarbage("collect") end)
     end
 end)
 

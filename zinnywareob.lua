@@ -1,9 +1,11 @@
-if not game then return end
-
 local scriptId = ({
     [92416421522960] = "31902265834266433589",
     [79268393072444] = "60093404824722724300",
 })[game.PlaceId]
+
+if not scriptId and game.GameId == 6170143659 then
+    scriptId = "19504575357719348339"
+end
 
 if not scriptId then
     return game:GetService("Players").LocalPlayer:Kick("This game is not supported by Zinnyware!")

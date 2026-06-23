@@ -25,6 +25,10 @@ if not scriptId and game.GameId == 6170143659 then
     scriptId = "32824326ba720c7f913e24a23fa306aa"
 end
 
+if not scriptId and game.GameId == 10226701629 then
+    scriptId = "5d026b6421d2e1bca07495e5036ac3e6"
+end
+
 makefolder(Hub)
 local key_path = Hub .. "/Key.txt"
 script_key = script_key or isfile(key_path) and readfile(key_path) or nil
